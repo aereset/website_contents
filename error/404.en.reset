@@ -1,12 +1,10 @@
 % TITLE=Error 404
 % SUBTITLE=
-% DESCRIPTION=
-% KEYWORDS=
-
+% DESCRIPTION=Page not found
+% KEYWORDS=404
 =Page not found=
 ----
 
 % TODO: this is not currently supported in the parser
 <p class="centered extra_margin"><img src="/uploads/marx-brothers-404.jpg" alt="marx-brothers-404" /></p> 
 
-The page you requested does not exist!
