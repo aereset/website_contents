@@ -6,15 +6,11 @@
 ----
 Somos una asociación estudiantil perteneciente a la UPM, y más particularmente situados en la ETSII. Nuestra idea nace de la necesidad de proporcionarnos a nosotros, los alumnos, un medio para poder poner en práctica los conocimientos teóricos adquiridos en la carrera. Buscamos fomentar la creatividad, el trabajo en equipo y desarrollo de proyectos de ingeniería práctica aplicados principalmente a la electrónica, robótica e informática.
 
-<video src="http://www.youtube.com/embed/ylqSrJCdh7Q"
-                                        controls="controls" poster="/images/svg/video_poster_16:9.svg" width="597">
-                                <a href="http://www.youtube.com/embed/ylqSrJCdh7Q"
-                                        title="Reset 2012-2013">Download movie</a>
-                        </video>
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"></iframe></p>
 
 Muchos de nosotros entramos en la carrera queriéndonos convertir en McGiver, con ganas de cacharrear, de tocar, entender y construir, si este es tu caso, Reset es tu lugar. Y para conseguir esto hemos obtenido el apoyo de diversos departamentos, unidades docentes y otras asociaciones y pretendemos crear un taller abierto en la escuela, con material y herramientas a disponibilidad de los interesados. Por otro lado organizamos talleres, conferencias, ciclos y seminarios para ir dando las herramientas que consideremos necesarias, siempre desde un punto de vista práctico y aplicado. Apoyamos y fomentamos concursos y todo tipo de actividades que motiven la creatividad y aprendizaje, entre ellos, la competición de robots de Cybertech.
 
-<img src="http://reset.etsii.upm.es/images/pool/chipkit_uno32_reset.jpg" alt="Chip Reset"></center>
+<p class="centered"><img src="http://reset.etsii.upm.es/images/pool/chipkit_uno32_reset.jpg" alt="Chip Reset"></p>
 
 Finalmente ponemos a vuestra disposición esta página que desea centralizar la documentación generada con cada una de nuestras actividades poniéndola a disposición de cualquier interesado, siguiendo filosofías de hardware y software libre, que creemos son las más acertadas para facilitar el aprendizaje. Podéis pasaros por nuestro foro, donde discutimos acerca de la organización y gestión tanto de proyectos como de la asociación. Pretendemos poner a disposición de los alumnos un repositorio con software y documentación de utilidad, de momento no dudéis en echar un vistazo a nuestro FTP.
 
