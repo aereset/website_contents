@@ -9,23 +9,23 @@ Si conoces html puedes aprovecharlo y añadir contenido y algo de formato que a�
 
 ''Código:''
  <code class="terminal">
-&ltp class="centered"&gt&ltiframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"&gt&lt/iframe&gt&lt/p&gt
+&lt;p class="centered"&gt;&lt;iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"&gt;&lt;/iframe&gt;&lt;/p&gt;
 </code>
 <br>
 ''Resultado'':
 
 <p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"></iframe></p>
 
-Para ver más ejemplos de código html y como queda, eche un  vistazo a esta página: [/content-example-html content-example-html].
+Para ver más ejemplos de código html y cómo queda, eche un  vistazo a [/content-example-html  esta página].
 =Código RESET=
 ----
 ¿No sabes HTML? No pasa nada, estamos desarrollando otra forma de agregar contenido. Por el momento podemos añadir:
 ==Titulos==
 ''Código:''
 <code class="terminal">
-&equals;Titulo 1&equals;<br>
-&equals;&equals;Titulo 2&equals;&equals;<br>
-&equals;&equals;&equals;Titulo 3&equals;&equals;&equals;
+=Titulo 1=<br>
+==Titulo 2==<br>
+===Titulo 3===<br>
 </code>
 ''Resultado:''<br>
 =Titulo 1=
@@ -40,6 +40,6 @@ Para ver más ejemplos de código html y como queda, eche un  vistazo a esta pá
 [http://www.upm.es/ UPM]
 ==Linea horizontal==
 ''Código (son cuatro guiones. Pero escribelos manualmente ya que si los copias directamente no funcionará):''
- <code class="terminal">&hyphen;&hyphen;&hyphen;&hyphen;</code>
+ <code class="terminal">‐‐‐‐</code>
 ''Resultado:''<br>
  ----

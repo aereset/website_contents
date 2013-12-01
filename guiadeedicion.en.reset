@@ -9,23 +9,23 @@ If you know html code you can use it and add some content and format that is not
 
 ''Code:''
  <code class="terminal">
-&ltp class="centered"&gt&ltiframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"&gt&lt/iframe&gt&lt/p&gt
+&lt;p class="centered"&gt;&lt;iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"&gt;&lt;/iframe&gt;&lt;/p&gt;
 </code>
 <br>
 ''Result'':
 
 <p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"></iframe></p>
 
-To see more examples of html code and how it looks,  take a look at this page: [/content-example-html content-example-html].
+To see more examples of html code and how it looks,  take a look at  [/content-example-html this page].
 =RESET code=
 ----
 Don't you know HTML? No problem, we are developing another way to add content. Currently we can add:
 ==Titles==
 ''Code:''
 <code class="terminal">
-&equals;Title 1&equals;<br>
-&equals;&equals;Title 2&equals;&equals;<br>
-&equals;&equals;&equals;Title 3&equals;&equals;&equals;
+=Title 1=<br>
+==Title 2==<br>
+===Title 3===<br>
 </code>
 ''Result:''<br>
 =Title 1=
@@ -40,6 +40,6 @@ Don't you know HTML? No problem, we are developing another way to add content. C
 [http://www.upm.es/ UPM]
 ==Horizontal line==
 ''Code(There are four hyphens. But ,in this case,  it doesn't work if you copy them, so write them manually):''
- <code class="terminal">&hyphen;&hyphen;&hyphen;&hyphen;</code>
+ <code class="terminal">‐‐‐‐</code>
 ''Result:''<br>
  ----
