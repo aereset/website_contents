@@ -1,0 +1,45 @@
+% TITLE=Guia de Edición
+% SUBTITLE=Aprende a añadir nuevo contenido
+% DESCRIPTION=Guia de Edicion para editar contenido
+% KEYWORDS=Editar desarrolladores contenido
+=Código HTML=
+----
+
+Si conoces html puedes aprovecharlo y añadir contenido y algo de formato que aún no esté implementado en el parser. Como por ejemplo insertar un video de  youtube:
+
+''Código:''
+ <code class="terminal">
+&ltp class="centered"&gt&ltiframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"&gt&lt/iframe&gt&lt/p&gt
+</code>
+<br>
+''Resultado'':
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"></iframe></p>
+
+Para ver más ejemplos de código html y como queda, eche un  vistazo a esta página: [/content-example-html content-example-html].
+=Código RESET=
+----
+¿No sabes HTML? No pasa nada, estamos desarrollando otra forma de agregar contenido. Por el momento podemos añadir:
+==Titulos==
+''Código:''
+<code class="terminal">
+&equals;Titulo 1&equals;<br>
+&equals;&equals;Titulo 2&equals;&equals;<br>
+&equals;&equals;&equals;Titulo 3&equals;&equals;&equals;
+</code>
+''Resultado:''<br>
+=Titulo 1=
+==Titulo 2==
+===Titulo 3===
+==Links==
+''Código:''
+ <code class="terminal">
+ &lsqb;http://www.upm.es/ UPM&rsqb;
+</code>
+''Resultado:''<br>
+[http://www.upm.es/ UPM]
+==Linea horizontal==
+''Código (son cuatro guiones. Pero escribelos manualmente ya que si los copias directamente no funcionará):''
+ <code class="terminal">&hyphen;&hyphen;&hyphen;&hyphen;</code>
+''Resultado:''<br>
+ ----

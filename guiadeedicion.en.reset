@@ -1,0 +1,45 @@
+% TITLE=Editing Guide
+% SUBTITLE=Learn how to add new content
+% DESCRIPTION=Editing Guide to edit content
+% KEYWORDS=edit developer content
+=HTML code=
+----
+
+If you know html code you can use it and add some content and format that is not yet implemented in the parser. For example to insert a youtube video:
+
+''Code:''
+ <code class="terminal">
+&ltp class="centered"&gt&ltiframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"&gt&lt/iframe&gt&lt/p&gt
+</code>
+<br>
+''Result'':
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ylqSrJCdh7Q"></iframe></p>
+
+To see more examples of html code and how it looks,  take a look at this page: [/content-example-html content-example-html].
+=RESET code=
+----
+Don't you know HTML? No problem, we are developing another way to add content. Currently we can add:
+==Titles==
+''Code:''
+<code class="terminal">
+&equals;Title 1&equals;<br>
+&equals;&equals;Title 2&equals;&equals;<br>
+&equals;&equals;&equals;Title 3&equals;&equals;&equals;
+</code>
+''Result:''<br>
+=Title 1=
+==Title 2==
+===Title 3===
+==Links==
+''Code:''
+ <code class="terminal">
+ &lsqb;http://www.upm.es/ UPM&rsqb;
+</code>
+''Result:''<br>
+[http://www.upm.es/ UPM]
+==Horizontal line==
+''Code(There are four hyphens. But ,in this case,  it doesn't work if you copy them, so write them manually):''
+ <code class="terminal">&hyphen;&hyphen;&hyphen;&hyphen;</code>
+''Result:''<br>
+ ----
