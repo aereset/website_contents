@@ -1,0 +1,69 @@
+% TITLE=Edition guide
+% SUBTITLE=Parser features
+% DESCRIPTION=This page shows the already implemented features in the JS parser.
+% KEYWORDS=edition, parser, guide
+=This is a title=
+==Followed by a subtitle==
+----
+
+To write a paragraph, you only need to insert a blank line before and after it. It is very simple! :-P Notice how the navigation menu at the tome right is automatically generated out of the titles in the document. Click on one title to directly jump to that section.
+
+? INFO: this paragraph, starting by '?' can be used to remark some information.
+
+You can add a Youtube video!
+
+[Youtube:lthRmB2ew9k]
+
+We can create an unordered list:
+
+* One item
+* Another item
+* ...
+
+%% Here is another hidden comment.
+
+Or an ordered list!
+
+# This is the first item
+# This is the second item
+# ...
+
+?? WARNING: for now we can not create multiple levels lists.
+
+=New section=
+==Lets have a look at other styles==
+----
+
+We can create simple tables:
+
+{|
+! Header 1
+! Header 2
+! Header 3
+|-
+| row 1, cell 1
+| row 1, cell 2
+| row 1, cell 3
+|-
+| row 2, cell 1
+| row 2, cell 2
+| row 2, cell 3
+|-
+| row 3, cell 1
+| row 3, cell 2
+| row 3, cell 3
+|}
+
+We still need to implement captions and improve the parser. Please, do not hesitate to help us! :-P
+
+We can write in ''italic'', '''bold''', and even '''''both'''''! And we can create [http://fsf.org inline links to external pages] and [/login/ inline links to our own website].
+
+We can also insert an image:
+
+[[File:http://www.fondos10.net/wp-content/uploads/2010/03/Hermoso-paisaje-oto%C3%B1al.jpg|thumb|alt=a_beautiful_view_image|A beautiful view]]
+
+This would be a big link, normally used for index pages:
+
+[[@: ./relative/link/|This should be a title|And here a brief description of the section to which is pointing. Notice we have used a '.' for indicating a relative link! (useful and clean)]]
+
+??? There is still a lot of work to do! Please, help us improve this parser! :-D

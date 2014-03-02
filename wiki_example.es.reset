@@ -1,0 +1,69 @@
+% TITLE=Guía de edición
+% SUBTITLE=Funcionalidades del parser
+% DESCRIPTION=Esta página muestra las funcionalidades ya implementadas en el parser JS.
+% KEYWORDS=edición, parser, guía
+=Esto es un título=
+==Seguido de un subtítulo==
+----
+
+Para escribir un párrafo, sólo tienes que insertar una línea en blanco delante y detrás de éste. Es muy simple! :-P Observa cómo el menú de navegación de la esquina superior derecha se genera de forma automática a partir de los títulos del documento. Puedes hacer click en un título para saltar directamente a esa sección.
+
+? INFO: este párrafo, que empieza por '?' puede utilizarse para remarcar alguna información.
+
+Puedes añadir un vídeo de Youtube!
+
+%%[Youtube:lthRmB2ew9k]
+
+Podemos crear una lista sin numerar:
+
+* Un elemento
+* Otro elemento
+* ...
+
+%% Aquí hay otro comentario escondido.
+
+O una lista ordenada!
+
+# Éste es el primer elemento
+# Éste es el segundo elemento
+# ...
+
+?? ADVERTENCIA: por ahora no podemos crear listas de múltiples niveles.
+
+=Nueva sección=
+==Echemos un ojo a otros estilos==
+----
+
+Podemos crear tablas simples:
+
+{|
+! Cabecera 1
+! Cabecera 2
+! Cabecera 3
+|-
+| fila 1, celda 1
+| fila 1, celda 2
+| fila 1, celda 3
+|-
+| fila 2, celda 1
+| fila 2, celda 2
+| fila 2, celda 3
+|-
+| fila 3, celda 1
+| fila 3, celda 2
+| fila 3, celda 3
+|}
+
+Todavía tenemos que implementar pies de tabla y mejorar el parser. Por favor, no dudes en echarnos una mano! :-P
+
+Podemos escribir en ''cursiva'', '''negrita''', e incluso '''''ambas'''''! Y podemos crear [http://fsf.org enlaces a páginas externas] y [/login/ enlaces a nuestra propia página].
+
+También podemos insertar una imagen:
+
+[[File:http://www.fondos10.net/wp-content/uploads/2010/03/Hermoso-paisaje-oto%C3%B1al.jpg|thumb|alt=a_beautiful_view_image|Preciosas vistas]]
+
+Esto sería un enlace grande, normalmente utilizado para páginas de índice:
+
+[[@: ./enlace/relativo/|Esto debería ser un título|Y aquí una breve descripción de la sección a la que apunta. Observa cómo hemos utilizado un '.' para indicar un enlace relativo! (útil y limpio)]]
+
+??? Todavía queda mucho trabajo por hacer! Por favor, ayúdanos a mejorar este parser! :-D
