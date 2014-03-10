@@ -12,11 +12,11 @@ TODO: Youtube video...
 
  Do not copy forms. If you find one in the page you have chosen, then copy all the contents except the form and mark the link as follow in this page:
 
-??? '''__NP__''': example/link/with/form
+??? '''__NP__''' example/link/with/form
 
  If the page does not exist or is under construction in the old website, then mark the link as follow in this page:
 
-??? '''__NP__''': example/link/with/form
+??? '''__NP__''' example/link/with/form
 
 If you do not find forms, the page exists or is not under construction but you are not able to transform all the contents into wiki format, mark the link as follow in this page:
 
@@ -187,21 +187,21 @@ Peque ??? users/ --- [/wiki/?page=/users/ New_link] --- [http://reset.etsii.upm.
 
 ??? free-software/applications/office/general/ --- [/wiki/?page=/free-software/applications/office/general/ New_link] --- [http://reset.etsii.upm.es/free-software/applications/office/general/ Old_link]
 
-??? backgrounds/ --- [/wiki/?page=/backgrounds/ New_link] --- [http://reset.etsii.upm.es/backgrounds/ Old_link]
+??? '''__NP__''' backgrounds/ --- [/wiki/?page=/backgrounds/ New_link] --- [http://reset.etsii.upm.es/backgrounds/ Old_link]
 
-??? login/ --- [/wiki/?page=/login/ New_link] --- [http://reset.etsii.upm.es/login/ Old_link]
+??? '''__NP__''' login/ --- [/wiki/?page=/login/ New_link] --- [http://reset.etsii.upm.es/login/ Old_link]
 
-??? error/page-not-found/ --- [/wiki/?page=/error/page-not-found/ New_link] --- [http://reset.etsii.upm.es/error/page-not-found/ Old_link]
+??? '''__NP__''' error/page-not-found/ --- [/wiki/?page=/error/page-not-found/ New_link] --- [http://reset.etsii.upm.es/error/page-not-found/ Old_link]
 
-??? error/error-form/ --- [/wiki/?page=/error/error-form/ New_link] --- [http://reset.etsii.upm.es/error/error-form/ Old_link]
+??? '''__NP__''' error/error-form/ --- [/wiki/?page=/error/error-form/ New_link] --- [http://reset.etsii.upm.es/error/error-form/ Old_link]
 
-??? error/broken-link/ --- [/wiki/?page=/error/broken-link/ New_link] --- [http://reset.etsii.upm.es/error/broken-link/ Old_link]
+??? '''__NP__''' error/broken-link/ --- [/wiki/?page=/error/broken-link/ New_link] --- [http://reset.etsii.upm.es/error/broken-link/ Old_link]
 
-??? error/working-on-it/ --- [/wiki/?page=/error/working-on-it/ New_link] --- [http://reset.etsii.upm.es/error/working-on-it/ Old_link]
+??? '''__NP__''' error/working-on-it/ --- [/wiki/?page=/error/working-on-it/ New_link] --- [http://reset.etsii.upm.es/error/working-on-it/ Old_link]
 
-??? content-example/ --- [/wiki/?page=/content-example/ New_link] --- [http://reset.etsii.upm.es/content-example/ Old_link]
+??? '''__NP__''' content-example/ --- [/wiki/?page=/content-example/ New_link] --- [http://reset.etsii.upm.es/content-example/ Old_link]
 
-??? forum/ --- [/wiki/?page=/forum/ New_link] --- [http://reset.etsii.upm.es/forum/ Old_link]
+??? '''__NP__''' forum/ --- [/wiki/?page=/forum/ New_link] --- [http://reset.etsii.upm.es/forum/ Old_link]
 
 ??? contact/cybertech/ --- [/wiki/?page=/contact/cybertech/ New_link] --- [http://reset.etsii.upm.es/contact/cybertech/ Old_link]
 
