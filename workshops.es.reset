@@ -1,0 +1,10 @@
+% TITLE=Talleres
+% SUBTITLE=¡Aprende con nosotros!
+% DESCRIPTION=¡Ven a nuestros talleres y aprende informática, software libre, electrónica y robótica!
+% KEYWORDS=reset, talleres, software libre, electrónica, robótica, gnu, linux, c, programación
+=Enlaces=
+----
+
+[[@: ./all/|Todos|Ve todos nuestros talleres]]
+
+[[@: ./upcoming/|Próximos|Talleres que tendrán lugar próximamente]]
