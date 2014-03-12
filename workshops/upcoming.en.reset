@@ -1,0 +1,14 @@
+% TITLE=Workshops
+% SUBTITLE=Learn with us!
+% DESCRIPTION=See our upcoming workshops.
+% KEYWORDS=aauMP2ur1-s
+=Upcoming=
+----
+
+%% Comment this if some workshops are added!
+?? No upcoming workshops... Stay tunned or help us organizing new workshops!
+
+%% Example of new upcoming workshop:
+%% [[@: ../workshop-xxx/|Workshop XXX|Workshop description...]]
+
+%% Add new upcoming workshops here:
