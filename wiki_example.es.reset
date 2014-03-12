@@ -67,3 +67,30 @@ Esto sería un enlace grande, normalmente utilizado para páginas de índice:
 [[@: ./enlace/relativo/|Esto debería ser un título|Y aquí una breve descripción de la sección a la que apunta. Observa cómo hemos utilizado un '.' para indicar un enlace relativo! (útil y limpio)]]
 
 ??? Todavía queda mucho trabajo por hacer! Por favor, ayúdanos a mejorar este parser! :-D
+
+=Not implemented yet...=
+----
+
+<dl class="app">
+<dt class="app_name">Hedgewars</dt>
+<dd class="app_img"><img src="http://reset.etsii.upm.es/images/apps/hedgewars.png" alt="Hedgewars"></dd>
+<dd class="app_desc">
+<p>Hedgewars is a turn based strategy, artillery, action and comedy game, featuring the antics of pink hedgehogs with attitude as they battle from the depths of hell to the depths of space.</p>
+<p>As commander, it's your job to assemble your crack team of hedgehog soldiers and bring the war to your enemy.</p>
+</dd>
+<dd class="app_feat">
+<ul>
+<li>Both local and network multiplayer, with optional AI opponents</li>
+<li>Up to 6 players, different game modes, infinite number of randomly generated maps, many environments, and lots of weapons!</li>
+</ul>
+</dd>
+<dd class="app_link">
+<a href="http://www.hedgewars.org/" title="">http://www.hedgewars.org/</a>
+</dd>
+</dl>
+
+Código de terminal:
+
+<p>
+<code class="terminal">source xenv</code>
+</p>
