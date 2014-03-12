@@ -1,0 +1,29 @@
+% TITLE=Talleres
+% SUBTITLE=¡Aprende con nosotros!
+% DESCRIPTION=Ve todos nuestros talleres.
+% KEYWORDS=reset, talleres, todos
+=Todos=
+----
+
+[[@: ../android/|Programación en Android|¡Aprende a programar en la plataforma de móviles más utilizada!]]
+
+[[@: ../soldering/|Soldadura|Cuando construimos un robot debemos tener en cuenta que los motores y cualquier otro tipo de actuador que requiera potencia no puede ser alimentado directamente a través del microcontrolador. Por ello necesitamos utilizar las etapas de potencia. Te permiten proporcionar la tensión y corriente necesarias a través del control motor.]]
+
+[[@: ../uml/|Análisis e interpretación de requisitos
+|Ven y aprende a organizar un proyecto de software desde el principio.]]
+
+[[@: ../java-introduction/|Introducción a Java|Java es uno de los lenguajes de programación más populares. Es similar a C/C++, orientado a objetos, basado en clases y multi-plataforma. Es también el principal lenguaje de programación de los sistemas Android.]]
+
+[[@: ../sensors-and-motors/|Sensores y motores|Un robot autónomo tiene tres funciones: percepción, procesado y ejecución. La percepción se lleva a cabo mediante sensores, el procesado mediante un microcontrolador y la ejecución mediante actuadores y motores. Anteriormente estudiamos la arquitectura y el funcionamiento del microcontrolador y escribimos algunos programas. Ahora es el turno de los sensores y los motores.]]
+
+[[@: ../chipkit-uno32/|chipKIT Uno32|Aprende a utilizar este nuevo microcontrolador con hardware y software totalmente compatible con Arduino Uno. Todo esto por supuesto mejorando la velocidad, rendimiento, capacidad de memoria, número de entradas y salidas, etc.]]
+
+[[@: ../starting-with-linux/|Empezando con Linux|Bien, ya has instalado Ubuntu, ¿y ahora qué?. Reset te enseña cómo manejar, configurar y conocer el potencial de esta distribución GNU/Linux.]]
+
+[[@: ../c-introduction/|Introducción a C|Una de las herramientas más importantes de los últimos tiempos es la programación. Es el único modo de controlar máquinas, dispositivos, robots...]]
+
+[[@: ../install-party/|Linux install party!|Reset ha preparado un taller sobre cómo instalar una distribución GNU/Linux en tu ordenador. Te ayudaremos a instalar la última versión de Ubuntu en tu ordenador y además aprenderás algo de software libre, GNU, Linux, particionado de discos duros y de esta estupenda distribución GNU/Linux. ¡Ven y únete a nuestra comunidad!]]
+
+[[@: ../octoberrobotic/|Octubre Robótico|¡Únete a nuestros cursos de robótica!]]
+
+[[@: ../biicode/|Seminario de Biicode|¡Únete a nuestro seminario de Biicode!]]

@@ -1,0 +1,29 @@
+% TITLE=Workshops
+% SUBTITLE=Learn with us!
+% DESCRIPTION=See all our workshops.
+% KEYWORDS=reset, workshops, all
+=All=
+----
+
+[[@: ../android/|Android Programming|Learn to program in the most used mobile platform!]]
+
+[[@: ../soldering/|Soldering|While building any robot we have to take into account that motors and any other kind of actuators that require power can not be powered directly through the microcontroller. That's why power amplifiers are needed. They allow you to provide the necessary voltage and current through the motor controller.]]
+
+[[@: ../uml/|Analysis and interpretation of requirements
+|Come and learn to organize a software project from the beginning.]]
+
+[[@: ../java-introduction/|Introduction to Java|Java is one of the most popular software languages. It is similar to C/C++ syntax, object oriented, class based and multi-platform. This is also the main programming language in Android systems.]]
+
+[[@: ../sensors-and-motors/|Sensors and motors|An autonomous robot has three functions: perception, processing and execution. The perception is performed by sensors, processing by a microcontroller and the execution by actuators and motors. Previously we studied the architecture and the behavior of the microcontroller and we wrote some programs. Now is turn for the sensors and motors.]]
+
+[[@: ../chipkit-uno32/|chipKIT Uno32|Learn how to use this new microcontroller with HW and SW totally compatible with Arduino Uno. All of this of course increasing speed performance, memory capacity, number of output and input pins, etc.]]
+
+[[@: ../starting-with-linux/|Starting with Linux|Fine, you have already installed Ubuntu, and now what?. Reset shows you how to manage, configure and know the potential of this GNU/Linux distribution.]]
+
+[[@: ../c-introduction/|Introduction to C|One of the most important tools in these times is programming. It is the only way to control machines, devices, robots...]]
+
+[[@: ../install-party/|Linux install party!|Reset has prepared a workshop on how to install a GNU/Linux distribution in your computer. We'll help you installing the latest version of Ubuntu in your computer and you'll also learn a little about free software, GNU, Linux, hard drive partitioning and this great GNU/Linux distribution. Come and join our community!]]
+
+[[@: ../octoberrobotic/|October Robotic|Join our robotic courses!]]
+
+[[@: ../biicode/|Biicode seminar|Join our Biicode seminar!]]
