@@ -1,0 +1,23 @@
+% TITLE=Aplicaciones de software libre
+% SUBTITLE=¡Para cualquier tarea!
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para cualquier tarea.
+% KEYWORDS=reset, aplicaciones, oficina, internet, programación, diseño, sistema, ciencia, educación, juegos
+=Selecciona algún grupo=
+----
+
+
+[[@: ./office/|Oficina|Aplicaciones para la creación de documentos o gestión de datos]]
+
+[[@: ./internet/|Internet|Para navegar por la red, ¡y mucho más!]]
+
+[[@: ./programming/|Programación|For experienced and novice programmers]]
+
+[[@: ./designing/|Diseño|Desarrolla tu creatividad]]
+
+[[@: ./system/|Sistema|Copias de seguridad, edición de particiones, virtualización...]]
+
+[[@: ./science-education/|Ciencia y educación|Para el colegio o la universidad, para estudiantes e investigadores...]]
+
+[[@: ./games/|Juegos|Para pasar algo de tiempo libre]]
+
+[[@: ./others/|Otras|Incluyendo software propietario]]

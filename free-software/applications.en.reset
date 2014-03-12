@@ -1,0 +1,23 @@
+% TITLE=Free software applications
+% SUBTITLE=For every task!
+% DESCRIPTION=Know some great free software applications for every task.
+% KEYWORDS=reset, applications, office, internet, programming, designing, system, science, education, games
+=Select any group=
+----
+
+
+[[@: ./office/|Office|Applications for creating documents or managing data]]
+
+[[@: ./internet/|Internet|For surfing the web, and much more!]]
+
+[[@: ./programming/|Programming|For experienced and novice programmers]]
+
+[[@: ./designing/|Designing|Develop your creativity]]
+
+[[@: ./system/|System|Backups, partition editing, virtualization...]]
+
+[[@: ./science-education/|Science and education|For school or university, for students and researchers...]]
+
+[[@: ./games/|Games|To spend some spare time]]
+
+[[@: ./others/|Others|Including proprietary software]]
