@@ -1,0 +1,25 @@
+% TITLE=Usuarios
+% SUBTITLE=Contribuciones varias
+% DESCRIPTION=Información variada creada por nuestros usuarios.
+% KEYWORDS=reset, usuarios, contribuciones
+=Lista de usuarios=
+----
+
+<a class="user" href="./peque/" title="Sección de Peque">
+<dl class="usr">
+<dt class="usr_name">Peque</dt>
+<dd class="usr_avatar">
+<img src="/uploads/avatar_peque/" alt="Avatar_del_Usuario" />
+</dd>
+<dd class="usr_info">
+<p>Alguna información sobre el usuario...</p>
+<p>Más información sobre el usuario...</p>
+</dd>
+<dd class="usr_exp">
+<ul>
+<li>Experiencia en...</li>
+<li>Interesado en...</li>
+</ul>
+</dd>
+</dl>
+</a>

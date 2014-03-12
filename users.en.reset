@@ -1,0 +1,25 @@
+% TITLE=Users
+% SUBTITLE=Miscellaneous contributions
+% DESCRIPTION=Miscellaneous information made by our users.
+% KEYWORDS=reset, users, contributions
+=User list=
+----
+
+<a class="user" href="./peque/" title="Peque's section">
+<dl class="usr">
+<dt class="usr_name">Peque</dt>
+<dd class="usr_avatar">
+<img src="/uploads/avatar_peque/" alt="User_avatar" />
+</dd>
+<dd class="usr_info">
+<p>Some information about the user...</p>
+<p>More information about the user...</p>
+</dd>
+<dd class="usr_exp">
+<ul>
+<li>Experience in...</li>
+<li>Interested on...</li>
+</ul>
+</dd>
+</dl>
+</a>
