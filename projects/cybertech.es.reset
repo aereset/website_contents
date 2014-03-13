@@ -1,4 +1,51 @@
 % TITLE=Cybertech 2014
 % SUBTITLE=¡Construye tu robot y ven a la competición!
-% DESCRIPTION=Cybertech 2014
-% KEYWORDS=Cybertech 2014 competición robot construir
+% DESCRIPTION=¡Construye tu robot y ven a la competición!
+% KEYWORDS=reset, cybertech, programación, c, arduino, bases
+=Introducción=
+----
+
+Cybertech es una competición anual de robots organizada por la asociación de estudiantes [/ Reset] y el apoyo de [http://www.disam.upm.es/ División de Ingeniería de Sistemas y Automática]. Todo ello gracias a la [http://www.etsii.upm.es/ Escuela Técnica Superior de Ingenieros Industriales] de la [http://www.upm.es/ Universidad Politécnica de Madrid].
+
+Este concurso tiene dos categorías: ''Categoría Classic y Pro'' .
+
+En la ''Categoría Classic'' se compite en dos tipos de pruebas: laberinto y rastreador (siguelineas).
+
+En el laberinto los robots deben encontrar, de manera autónoma, el camino que les permite cruzar un laberinto.
+
+En el siguelineas, los robots deben seguir un circuito definido por una linea pintada en el suelo.
+
+Los retos aumentan al avanzar en la competición, con laberintos cada vez más complicados y obstáculos...
+
+La ''Categoría Pro'' está pensada para participantes mas avanzados, este año hay dos pruebas: Sumo y Clasificador CatchBall.
+
+En el sumo los robots se enfrentan tratando de inmovilizar al contrario o de sacarle de la pista.
+
+CatchBall precisa de capacidad sensorial para localizar bolas de diferentes colores y llevarlas a zonas concretas antes de que lo haga el oponente.
+
+Puedes ver aquí la edición anterior: [/projects/cybertech13 Cybertech 7DD]
+
+? Puedes contactar con la organización aquí: [/contact/cybertech Cybertech]
+
+? El calendario de los talleres, hitos y la competición, aquí : [/calendar Cybertech]
+
+=Normas generales=
+----
+%%El link de normas generales esta caido
+*[/uploads/projects/cybertech/NormasgeneralesCybertech2014 Normas Generales]
+*[/uploads/projects/cybertech/GuíaInformedelProyectoCybertech2014 Guía del Informe del Proyecto del Prototipo]
+*[/uploads/projects/cybertech/GuíadelVIDEOCybertech2014 Guía del vídeo]
+=Bases=
+----
+
+==Classic==
+
+*[/uploads/projects/cybertech/BasesCybertechClassic2014 Bases de Cybertech Classic]
+
+==PRO==
+===Sumo===
+
+*[/uploads/projects/cybertech/BasesCybertechPRO2014_CombateSumodeRobotsTeleoperados Bases de Sumo]
+===Catchball===
+
+*[/uploads/projects/cybertech/BasesCybertechPRO2014_Catchball Bases de Catchball]
