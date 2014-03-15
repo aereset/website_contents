@@ -66,6 +66,8 @@ This would be a big link, normally used for index pages:
 
 [[@: ./relative/link/|This should be a title|And here a brief description of the section to which is pointing. Notice we have used a '.' for indicating a relative link! (useful and clean)]]
 
+[[@: ../enlace/relativo/|This should be a title| If we use  ".." instead of  "."  the link will be built on a higher level  (notice the difference with the previous section link)]]
+
 ??? There is still a lot of work to do! Please, help us improve this parser! :-D
 
 =Not implemented yet...=
