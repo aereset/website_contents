@@ -7,17 +7,17 @@
 ----
 
 <dl class="app">
-			<dt class="app_name">LibreOffice</dt>
-			<dd class="app_img"><img src="/uploads/logo_libreoffice" alt="LibreOffice"></dd>
-			<dd class="app_desc">
-				<p>LibreOffice is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics and databases.</p>
-				<p>It is the result of over twenty years' software engineering, designed from the start as a single piece of software.</p>
-			</dd>
-			<dd class="app_feat">
-				<ul>
-					<li>It makes use of the Open Document Format, while is still compatible with closed formats such as Microsoft formats and others.</li>
-					<li>Easy to learn and available on many, many languages.</li>
-				</ul>
-			</dd>
-			<dd class="app_link"><a href="http://www.libreoffice.org/" title="">http://www.libreoffice.org/</a></dd>
-		</dl>
+<dt class="app_name">LibreOffice</dt>
+<dd class="app_img"><img src="/uploads/logo_libreoffice" alt="LibreOffice"></dd>
+<dd class="app_desc">
+<p>LibreOffice is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics and databases.</p>
+<p>It is the result of over twenty years' software engineering, designed from the start as a single piece of software.</p>
+</dd>
+<dd class="app_feat">
+<ul>
+<li>It makes use of the Open Document Format, while is still compatible with closed formats such as Microsoft formats and others.</li>
+<li>Easy to learn and available on many, many languages.</li>
+</ul>
+</dd>
+<dd class="app_link"><a href="http://www.libreoffice.org/" title="">http://www.libreoffice.org/</a></dd>
+</dl>
