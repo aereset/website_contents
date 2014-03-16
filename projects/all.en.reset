@@ -5,19 +5,19 @@
 =All=
 ----
 
-[[@: ./website/|Website|Our website is also a software project!]]
+[[@: ../website/|Website|Our website is also a software project!]]
 
-[[@: ./robotic-arm/|Robotic Arm|Controls a robotic arm with your own arm!]]
+[[@: ../robotic-arm/|Robotic Arm|Controls a robotic arm with your own arm!]]
 
-[[@: ./heracles/|Heracles|A line follower and maze resolver robot for competitions.]]
+[[@: ../heracles/|Heracles|A line follower and maze resolver robot for competitions.]]
 
-[[@: ./3d-printer/|3D Printer|Help us build our rapid prototyping machine!]]
+[[@: ../3d-printer/|3D Printer|Help us build our rapid prototyping machine!]]
 
-[[@: ./cloud-rotor/|CloudRotor|It's time to do some flying robots!]]
+[[@: ../cloud-rotor/|CloudRotor|It's time to do some flying robots!]]
 
-[[@: ./ceabot/|CEABOT|Program an humanoid robot and compete in this contest!]]
+[[@: ../ceabot/|CEABOT|Program an humanoid robot and compete in this contest!]]
 
-[[@: ./virtual-cybertech/|Virtual Cybertech|Let's go programming a cloud based robot simulator!]]
+[[@: ../virtual-cybertech/|Virtual Cybertech|Let's go programming a cloud based robot simulator!]]
 
-[[@: ./kangoobot/|KangooBot|Design a jumping non electric energy dependant robot!]]
+[[@: ../kangoobot/|KangooBot|Design a jumping non electric energy dependant robot!]]
 
