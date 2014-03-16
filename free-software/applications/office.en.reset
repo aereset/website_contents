@@ -1,0 +1,15 @@
+% TITLE=Office
+% SUBTITLE=Applications for creating documents or managing data
+% DESCRIPTION=Know some great free software applications for office. Documents, presentations, PDF manipulation, databases, spreadsheets, LaTeX, collection managers...
+% KEYWORDS=reset, applications, office, document, presentation, database, spreadsheet, collection, pdf, latex
+=Select any category=
+----
+
+[[@: ./general/|General purpose applications|Document, spreadsheet, presentation and database creation]]
+
+[[@: ./latex/|LaTeX|For advanced document creation]]
+
+[[@: ./pdf/|PDF manipulation|Creating, editing, rearranging...]]
+
+[[@: ./collections/|Collection managers|Books, CD's, films, comics, wines, etc.]]
+

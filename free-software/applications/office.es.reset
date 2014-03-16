@@ -1,0 +1,14 @@
+% TITLE=Oficina
+% SUBTITLE=Aplicaciones para la creación de documentos o gestión de datos
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para oficina. Documentos, presentaciones, manipulación de PDF, bases de datos, hojas de cálculo, LaTeX, gestores de colecciones...
+% KEYWORDS=reset, aplicaciones, oficina, documento, presentación, base de datos, hoja de cálculo, colección, pdf, latex
+=Selecciona alguna categoría=
+----
+
+[[@: ./general/|Aplicaciones de propósito general|Creación de documentos, hojas de cálculo, presentaciones y bases de datos]]
+
+[[@: ./latex/|LaTeX|Para creación de documentos avanzada]]
+
+[[@: ./pdf/|Manipulación de PDF|Crear, editar, reorganizar...]]
+
+[[@: ./collections/|Gestores de colecciones|Libros, CD's, películas, cómics, vinos, etc.]]
