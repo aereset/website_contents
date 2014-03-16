@@ -1,0 +1,8 @@
+% TITLE=Programming
+% SUBTITLE=For experienced and novice programmers
+% DESCRIPTION=Know some great free software applications for programming. Editors, version control systems, debuggers...
+% KEYWORDS=reset, applications, programming, version control, editors, debuggers
+=Select any category=
+----
+
+<a class="cat" href="./editors/"><dl class="cat"><dt class="cat_name">Editors</dt><dd class="cat_desc">Will help you while coding</dd></dl></a><a class="cat" href="./vcs/"><dl class="cat"><dt class="cat_name">Version control systems</dt><dd class="cat_desc">For easier management and maintenance</dd></dl></a><a class="cat" href="./debuggers/"><dl class="cat"><dt class="cat_name">Debuggers</dt><dd class="cat_desc">To find out what's wrong</dd></dl></a><a class="cat" href="./other/"><dl class="cat"><dt class="cat_name">Other tools</dt><dd class="cat_desc">To make translations, compare files...</dd></dl></a>

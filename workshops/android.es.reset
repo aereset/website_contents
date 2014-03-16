@@ -1,0 +1,46 @@
+% TITLE=Programación en Android
+% SUBTITLE=¡Aprende a programar en la plataforma de móviles más utilizada!
+% DESCRIPTION=¡Aprende a programar en la plataforma de móviles más utilizada!
+% KEYWORDS=reset, programacion, android, java, google, web, servicio, layout, actividades, intentos, SQLite
+=Introducción=
+----
+
+<img src="/uploads/pool_android_sdk_cube.png" alt="Android SDK" />
+
+? Estos cursos están relacionados con el <a href="http://reset.etsii.upm.es/en/projects/tiloom/" title="Environmesh contest">concurso Environmesh</a> y serán impartidos de forma gratuita.
+
+=Talleres=
+----
+
+<dl class="app"><dt class="app_name">Sesión 1</dt><dd class="app_img"><img src="/uploads/pool_android_i.png" alt="gatexor" /></dd><dd class="app_desc">Introducción a Android
+
+</dd><dd class="app_feat"><ul><li>Primer proyecto</li><li>Layout</li><li>Actividades</li></ul>
+
+</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/android/AndroidI.zip" title="">Recursos</a></dd></dl><dl class="app"><dt class="app_name">Sesión 2</dt><dd class="app_img"><img src="/uploads/pool_android_ii.png" alt="transistor" /></dd><dd class="app_desc">Android II y Almacenamiendo de Datos
+
+</dd><dd class="app_feat"><ul><li>Intents</li><li>Ficheros</li><li>SQLite</li></ul>
+
+</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/android/AndroidII.zip" title="">Recursos</a></dd></dl><dl class="app"><dt class="app_name">Sesión 3</dt><dd class="app_img"><img src="/uploads/pool_android_iii.png" alt="robotic arm" /></dd><dd class="app_desc">Android III y Servicios Web
+
+</dd><dd class="app_feat"><ul><li>Sockets</li><li>World Wide Web</li><li>Navegador Web</li><li>Servicios RESTful</li></ul>
+
+</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/android/AndroidIII.zip" title="">Recursos</a></dd></dl>=Calendario=
+----
+
+<p class="centered"><img src="/uploads/pool_android_calendar.png" alt="Android calendar" />
+
+?? Las sesiones tendrán lugar en el Aula F12
+
+<strong>¡Anímate a participar!</strong>
+
+=Lo que necesitas=
+----
+
+<ul><li>Un ordenador: puedes traer tu portátil o utilizar los que tenemos en el taller.</li><li>Un IDE: te permite escribir y compilar proyectos en Android. Nosotros vamos a utilizar <a href="http://developer.android.com/sdk/index.html">Android SDK</a></li><li>Envía un email a aereset@gmail.com diciéndonos que vas a venir.</li></ul>
+
+
+
+=Contacto=
+----
+
+<table><caption>Contacto</caption><thead><tr><th>Nombre</th><th>email</th></tr></thead><tbody><tr><td>Asociación de estudiantes Reset</td><td>aereset<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>

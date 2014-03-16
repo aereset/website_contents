@@ -1,0 +1,115 @@
+% TITLE=Fedora
+% SUBTITLE=Frequently asked questions
+% DESCRIPTION=Frequently asked questions: they may answer your own questions!
+% KEYWORDS=reset, distribution, fedora, faq, frequently asked questions, answers, howto, how to
+=chipKIT Uno32 in Fedora=
+----
+
+First, you need to install some dependencies:
+
+<code class="terminal">su -c 'yum install arduino rxtx libelf.so.1 libusb-0.1.so.4 libreadline.so.6'</code>
+
+And give your user some permissions (log out and log back in to your session after this):
+
+<code class="terminal">su -c 'usermod -a -G lock,dialout your_user_name'</code>
+
+Then, <a href="https://github.com/chipKIT32/chipKIT32-MAX/downloads" title="Download chipKIT32-MAX" >download the latest version of the IDE</a> for Linux from the official website, extract it and run the program executing the file "mpide" in the extracted folder.
+
+?? If you are using a 64 bit system, you'll need to fix some issues. Please, follow the instructions bellow.
+
+<h3>Instructions for 64 bits systems</h3>----
+
+With the terminal, go to the downloaded folder:
+
+<code class="terminal">cd /path/to/downloaded/files</code>
+
+Now, go to the "lib" folder in it:
+
+<code class="terminal">cd lib</code>
+
+Remove RXTX related libs:
+
+<code class="terminal">rm librxtxSerial64.so RXTXcomm.jar</code>
+
+Make new links for those libs:
+
+<code class="terminal">ln -s /usr/share/java/RXTXcomm.jar && ln -s /usr/lib64/rxtx/librxtxSerial64.so</code>
+
+Now you should be able to run the application executing "mpide" normally.
+
+=Configuring partitions to be mounted automatically after booting Fedora=
+----
+
+This issue has been already explained. <a href="/en/free-software/distributions/fedora/tips-and-tricks/" title="Fedora tips and tricks guide">More information...</a>
+
+=Flash Player in Fedora=
+----
+
+This issue has been already explained. <a href="/en/free-software/distributions/fedora/post-installation/" title="Fedora post-installation guide">More information...</a>
+
+=GRUB 2: Changing boot sequence=
+----
+
+This issue has been already explained. <a href="/en/free-software/distributions/fedora/tips-and-tricks/" title="Fedora tips and tricks guide">More information...</a>
+
+=MP3, DVD and other media in Fedora=
+----
+
+This issue has been already explained. <a href="/en/free-software/distributions/fedora/post-installation/" title="Fedora post-installation guide">More information...</a>
+
+=MSN messenger in Fedora=
+----
+
+Notice Empathy, the default instant messaging client, can handle MSN accounts. Even though, if you don't like it or you are used to MSN messenger, you may want to try "emesene":
+
+<code class="terminal">su -c 'yum install emesene'</code>
+
+=Printers in Fedora=
+----
+
+If you want to use your printer within Fedora, search for "print" in the Activities menu and add a new printer. If Fedora does not install automatically your printer (perhaps it does not find the drivers), you may want to install some extra packages:
+
+<code class="terminal">su -c 'yum install @printing'</code>
+
+After this, Fedora may be able to find the drivers and automatically install the printer for you.
+
+=Samba in Fedora=
+----
+
+Sharing files and printers with Windows is easy, you only need to install Samba:
+
+<code class="terminal">su -c 'yum install samba'</code>
+
+If you only need to see others' files and printers, you may want to install only the Samba client:
+
+<code class="terminal">su -c 'yum install samba-client'</code>
+
+Notice this will not work until you change your Firewall settings. Search for "firewall" in the Activities menu and allow access to Samba client and, at your option, to Samba:
+
+<figure><img src="/uploads/distros_fedora_firewall_samba.png" alt="Firewall_Samba_image" /><figcaption>Firewall - Allowing access to Samba</figcaption></figure>
+
+=Skype in Fedora=
+----
+
+First, install some required dependencies:
+
+<code class="terminal">su -c 'yum install -y libXss.so.1 libQtDBus.so.4 libQtGui.so.4'</code>
+
+Once you are done, just go the official website and download the Skype for Linux (Fedora 13+) package from there. After the installation, you should be able to use Skype in your computer!
+
+If your webcam is not working, try to install the following package:
+
+<code class="terminal">su -c 'yum install libv4l.i686'</code>
+
+And launch skype in one of this ways:
+
+<code class="terminal">a) env LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so skype<br />b) export XLIB_SKIP_ARGB_VISUALS=1 && LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so skype</code>
+
+=Spotify in Fedora=
+----
+
+You can run Spotify natively if you have a Premium account. Otherwise, you'll need to use Wine to run Spotify:
+
+<code class="terminal">su -c 'yum install wine'</code>
+
+After you have installed wine, download Spotify for Windows from the oficial website and run the installer with Wine. That's all! You'll be able to execute Spotify in Fedora as a normal application.

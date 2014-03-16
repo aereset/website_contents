@@ -1,0 +1,97 @@
+% TITLE=Brazo robótico
+% SUBTITLE=¡Controla un brazo robótico con tu propio brazo!
+% DESCRIPTION=Controls a robotic arm with your own arm!
+% KEYWORDS=reset, 
+=Introducción=
+----
+
+Los objetivos de este proyecto son:
+
+ <ul><li>Diseñar un brazo robótico usando módulos imprimibles en 3D.<ul></ul>
+
+</li><li>Construir y ensamblar el brazo.<ul></ul>
+
+</li></ul>
+
+<ul><li>Usando la cámara Kinect, obtener la posición en el espacio de las articulaciones de una persona.<ul></ul>
+
+</li><li>Desarrollar, con los datos anteriores, las formulas de la cinemática inversa del brazo robótico.<ul></ul>
+
+</li></ul>
+
+<ul><li>Contectar el ordenador con Kinect y un microcontrolador Arduino que enviará los comandos apropiados a los servo-motores.<ul></ul>
+
+</li><li>Divertirse con nuestro robot teleoperado sin cables! :D<ul></ul>
+
+</li></ul>
+
+<p class="centered"><img src="/uploads/pool__projects_robotic-arm_robotic_arm.jpg" alt="/projects/robotic-arm/robotic_arm.jpg"/>
+
+==Colaboradores==
+<ul><li>Dani Casares<ul></ul>
+
+</li><li>Jesús Arroyo<ul></ul>
+
+</li></ul>
+
+<ul><li>Juan González<ul></ul>
+
+</li></ul>
+
+? <a href="/es/contact/reset/" title="Contacta con nosotros a través de nuestro formulario de contacto">¡Únete al proyecto!</a>
+
+  =Desarrollo=
+----
+
+==Concepción general==
+<p class="pubdate">Fechas: <time>2012-03-16</time>
+
+Para empezar, tenemos que diseñar el manipulador, que contiene los 4 primeros grados de libertad, y luego la pinza, con otros 2 GL.
+
+<p class="centered"><img src="/uploads/pool__projects_robotic-arm_human_arm_dof.png" alt="/projects/robotic-arm/human_arm_dof.png"/>
+
+Los músculos serán servomotores.<p class="centered"><img src="/uploads/pool__projects_robotic-arm_servo.jpg" alt="/projects/robotic-arm/servo.jpg"/>
+
+Y para el control, utilizaremos el sensor Kinect, que permite obtener la reconstrucción en 3D del espacio observado. Por supuesto, utilizando para ello Linux.<p class="centered"><img src="/uploads/pool__projects_robotic-arm_kinect_sensor.png" alt="/projects/robotic-arm/kinect_sensor.png"/>
+
+<!----><!--<iframe id="images" src="http://torrent.reset.etsii.upm.es" width="100%" height="300px" scrolling="auto"></iframe>
+
+-->  =Galería=
+----
+
+==Imágenes==
+<p class="centered"><object width="640" height="480"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fphotos%2Faereset%2Fsets%2F72157631972707027%2Fshow%2F&page_show_back_url=%2Fphotos%2Faereset%2Fsets%2F72157631972707027%2F&set_id=72157631972707027&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=122138"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=122138" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fphotos%2Faereset%2Fsets%2F72157631972707027%2Fshow%2F&page_show_back_url=%2Fphotos%2Faereset%2Fsets%2F72157631972707027%2F&set_id=72157631972707027&jump_to=" width="640" height="480"></embed></object>
+
+==Vídeos==
+
+
+<p class="centered"><iframe class="youtube-player" width="640" height="480" src="http://www.youtube.com/embed/EerUt2Qj3aU"></iframe>
+
+  =Recursos=
+----
+
+==Usados==
+<ul><li><a href="http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_Y1">Módulos Y1 (wiki)</a><ul></ul>
+
+</li><li><a href="http://www.thingiverse.com/thing:688">Módulos Y1 (thingiverse)</a><ul></ul>
+
+</li></ul>
+
+<ul><li><a href="http://www.makerbot.com/">Makerbot</a><ul></ul>
+
+</li><li><a href="http://en.wikipedia.org/wiki/Kinect">Kinect</a><ul></ul>
+
+</li></ul>
+
+<ul><li><a href="http://www.ros.org/wiki/">ROS</a><ul></ul>
+
+</li><li><a href="http://www.ubuntu.com/">Ubuntu</a><ul></ul>
+
+</li></ul>
+
+==Generados==
+<ul><li><a href="http://www.thingiverse.com/thing:17883">Módulo R1</a><ul></ul>
+
+</li><li><a href="http://www.thingiverse.com/thing:17884">Módulo U1</a><ul></ul>
+
+</li></ul>

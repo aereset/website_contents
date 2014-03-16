@@ -1,0 +1,16 @@
+% TITLE=Choosing the best distribution
+% SUBTITLE=Students' Association
+% DESCRIPTION=Let us help you select the best distribution for you!
+% KEYWORDS=reset, distributions, choosing
+=Let us help you deciding!=
+----
+
+The <a href="http://www.linuxmint.com/" title="Linux Mint's website">Linux Mint distribution</a> is probably one of the simplest distributions for newcomers:
+
+<p class=centered><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/Linux_Mint_Katya.png" alt="Linux Mint 11 screenshot" />
+
+As nobody is working with LinuxMint in Reset (you won't find any documentation on this distribution), we recommend you to use the <a href="http://fedoraproject.org/" title="Fedora's website">Fedora distribution</a>:
+
+<p class=centered><img src="http://www.gnome.org/wp-content/uploads/2011/09/overview.png" alt="Fedora 16 screenshot" />
+
+?? You may want to try the <a href="/en/free-software/distributions/reset/" title="Reset distribution">Reset Fedora-based distribution</a>. Specially if you haven't got any experience with GNU/Linux systems.

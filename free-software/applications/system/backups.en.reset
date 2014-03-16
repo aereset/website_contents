@@ -1,0 +1,19 @@
+% TITLE=System
+% SUBTITLE=Backups, partition editing, virtualization...
+% DESCRIPTION=Know some great free software applications to keep your data safe...
+% KEYWORDS=reset, applications, system, backup
+=Backups=
+==Safe your data==
+----
+
+<dl class="app"><dt class="app_name">Déjà Dup</dt><dd class="app_img"><img src="/uploads/apps_deja-dup.png" alt="Déjà Dup" /></dd><dd class="app_desc">Déjà Dup is a simple backup tool. It hides the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend.
+
+</dd><dd class="app_feat"><ul><li>Support for local, remote, or cloud backup locations, such as Amazon S3 or Rackspace Cloud Files.</li><li>Incrementally backs up, letting you restore from any particular backup.</li><li>Securely encrypts and compresses your data.</li><li>Schedules regular backups.</li></ul>
+
+</dd><dd class="app_link"><a href="https://launchpad.net/deja-dup" title="">https://launchpad.net/deja-dup</a></dd></dl><dl class="app"><dt class="app_name">Grsync</dt><dd class="app_img"><img src="/uploads/apps_grsync.png" alt="Grsync" /></dd><dd class="app_desc">Grsync is a rsync GUI (Graphical User Interface). Rsync is the well-known and powerful command line directory and file synchronization tool.
+
+It can be effectively used to synchronize local directories and it supports remote targets as well (even though it doesn't support browsing the remote folder).
+
+</dd><dd class="app_feat"><ul><li>Most commonly used rsync options available: can update whole directory trees and filesystems, internal pipelining reduces latency for multiple files, can use rsh, ssh or direct sockets as the transport, supports anonymous rsync which is ideal for mirroring and optionally preserves symbolic links, hard links, file ownership, permissions, devices and times.</li><li>Can do simulation or normal execution.</li><li>Can pause rsync execution</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.opbyte.it/grsync/" title="">http://www.opbyte.it/grsync/</a></dd></dl>

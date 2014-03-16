@@ -1,0 +1,53 @@
+% TITLE=Análisis e interpretación de requisitos
+% SUBTITLE=¡Aprende cómo empezar un proyecto!
+% DESCRIPTION=Learn how to start a project!
+% KEYWORDS=reset, workshop,programming
+<section id="content">=Introducción=
+----
+
+
+
+Este curso es impartido por el profesor <a href="http://www.etsii.upm.es/ingor/proyectos/personal/fernandezsanchez.htm">D. Jose Luis Fernández</a>.<p class="centered"><img src="/uploads/pool_uml_logo.png" alt="uml_logo.png"/>
+
+
+
+? Este taller está relacionado con el <a href="http://reset.etsii.upm.es/es/projects/tiloom/">concurso Environmesh</a> y es impartido totalmente gratis.
+
+=Contenidos=
+----
+
+==Índice==
+
+
+<strong>Captura de Requisitos</strong> <em>1.5 horas</em>Metodología de los casos de uso para un entorno de sensores en el ámbito domótico.
+
+<strong>Modelo de dominio</strong> <em>1.5 horas</em>Después de la captura de requisitos, estos se agrupan con dos criterios:
+
+<ul><li>Diagrama comportamental: diagramas de secuencia, diagramas de actividad y diagramas de máquina de estados.<ul></ul>
+
+</li><li>Diagrama estructural: diagramas de clase y objeto.<ul></ul>
+
+</li></ul>
+
+<p class="centered"><img src="/uploads/pool_uml_dia.png" alt="uml_dia.png"/>
+
+==Recursos==
+<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/uml/Ingeniería_Requistos_en_Servicios_2013.pdf">Presentación</a><ul></ul>
+
+</li></ul>
+
+=Cuándo y dónde=
+----
+
+??? Lo sentimos, el último taller de "Analysis and interpretation of requirements" fue el <strong>14 de marzo del 2013</strong>. Nuestros talleres normalmente tienen lugar una vez al año y entorno a las mismas fechas.
+
+¡Estate atento para eventos futuros!
+
+<!--=Recursos=
+----
+
+Puedes encontrar recursos y fotografías de este taller visitando <a href="ftp://reset.etsii.upm.es/workshops/uml/" title="Directorio FTP del taller Analysis and interpretation of requirements">nuestro directorio FTP</a>.
+
+--><aside class="workshop_tags"><ul><li><a href="/es/workshops/categories/programming/" title="Busca por categoría">programming</a></li></ul>
+
+</aside><footer>

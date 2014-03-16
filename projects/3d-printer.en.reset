@@ -1,0 +1,101 @@
+% TITLE=3D Printer
+% SUBTITLE=Help us build our rapid prototyping machine!
+% DESCRIPTION=Help us build our rapid prototyping machine!
+% KEYWORDS=reset, 
+=Introduction=
+----
+
+Reset is going to build an Open Hardware 3D Printer.
+
+These curious machines add another dimension of possibilities to produce objects as we know it. Specifically this printer uses plastic as raw material.
+
+Prusa Mendel is the free printer more used today. It is stable and is well documented and it is completely free: design, electronics, software, even the pieces of the structure, which are in turn printable!
+
+There is a free repository named <a href="http://www.thingiverse.com/">Thingiverse</a> where people from all over the world upload their designs so that others can download them, print them or improve them.
+
+The aim of Reset is to develp one or more printers (under the project <a href="http://www.reprap.org/wiki/Proyecto_Clone_Wars">The Clone Wars</a>) and teach students how it works, how to build it and how to use it, for later use by any student of the School: Open Use ;)
+
+To do this, workshops will be organized free of charge, and will establish a team-oriented project, composed of anyone who is interested.
+
+<p class="centered"><img src="/uploads/pool__projects_3d-printer_prusa_mendel.jpg" alt="/projects/3d-printer/prusa_mendel.jpg"/>
+
+==Contributors==
+<ul><li>Jesús Arroyo<ul></ul>
+
+</li><li>Jorge Arráez<ul></ul>
+
+</li></ul>
+
+<ul><li>Alejandro Yunta<ul></ul>
+
+</li><li>Pablo Bretones<ul></ul>
+
+</li></ul>
+
+? <a href="/en/contact/reset/" title="Contact us via our contact form">Join the project!</a>
+
+  =Development=
+----
+
+==Fine tuning of the material==
+<p class="pubdate">Date: <time>2012-10-01</time>
+
+The purchase of materials is underway. Everything is preparing to build at least two 3D printers.
+
+We have already the plastic pieces. The &quot;mother&quot; of these is <a href="http://www.reprap.org/wiki/Clone_wars:Impresora_X_Wing">X-Wing</a>:<p class="centered"><img src="/uploads/pool__projects_3d-printer_prusa_iteration_2.jpg" alt="/projects/3d-printer/prusa_iteration_2.jpg"/>
+
+----
+
+==Assembling the printer!==
+<p class="pubdate">Date: <time>2013-02-25</time>
+
+After a time devoted to other events such as:
+
+<ul><li><a href="http://reset.etsii.upm.es/en/workshops/octoberrobotic/">October Robotic</a><ul></ul>
+
+</li><li><a href="http://reset.etsii.upm.es/en/projects/cybertech/">Cybertech</a><ul></ul>
+
+</li></ul>
+
+<ul><li><a href="http://funnyasduck.net/wp-content/uploads/2012/10/funny-homer-simpson-brain-exam-tv-scene.jpg">Exams</a> and other stuff<ul></ul>
+
+</li></ul>
+
+we retake the project with all materials and time needed: D<p class="centered"><img src="/uploads/pool__projects_3d-printer_prusa2_kit.jpg" alt="/projects/3d-printer/prusa2_kit.jpg"/>
+
+The printer still has no name:<ul><li>Enter the <a href="http://www.doodle.com/5emfx6ft43zmza6i">doodle</a> and vote<ul></ul>
+
+</li><li>Or bring <a href="http://www.doodle.com/polls/textWizard.html?pollId=5emfx6ft43zmza6i&amp;adminKey=8czc33vq#text">your ideas</a><ul></ul>
+
+</li></ul>
+
+If you are interested, we will meet at least every <strong>Friday afternoon from 16:00</strong> in the <a href="http://www.disam.upm.es/">Department of Automatic</a>.
+
+You can attend just emailing <em>aereset@gmail.com</em>, or through our <a href="http://reset.etsii.upm.es/en/contact/reset/">contact form</a>.
+
+<!----><!--<iframe id="images" src="http://torrent.reset.etsii.upm.es" width="100%" height="300px" scrolling="auto"></iframe>
+
+-->  =Gallery=
+----
+
+==Images==
+<p class="centered"><object width="640" height="480"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fphotos%2Faereset%2Fsets%2F72157632897821518%2Fshow%2F&page_show_back_url=%2Fphotos%2Faereset%2Fsets%2F72157632897821518%2F&set_id=72157632897821518&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=122138"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=122138" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fphotos%2Faereset%2Fsets%2F72157632897821518%2Fshow%2F&page_show_back_url=%2Fphotos%2Faereset%2Fsets%2F72157632897821518%2F&set_id=72157632897821518&jump_to=" width="640" height="480"></embed></object>
+
+==Videos==
+
+
+<p class="centered"><iframe class="youtube-player" width="640" height="480" src="http://www.youtube.com/embed/?list=PL5214FB3136B7E69A"></iframe>
+
+  =Resources=
+----
+
+==Used==
+<ul><li><a href="http://www.iearobotics.com/wiki/index.php?title=Obijuan_Academy">Obijuan Academy</a><ul><li><a href="http://www.iearobotics.com/wiki/index.php?title=Guia_de_montaje_de_la_Prusa_2">Prusa 2 Tutorial</a><ul></ul>
+
+</li></ul>
+
+</li></ul>
+
+<ul><li><a href="http://blog.reclone3d.com/">Reclone 3D</a><ul></ul>
+
+</li></ul>

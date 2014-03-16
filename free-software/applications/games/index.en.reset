@@ -1,0 +1,8 @@
+% TITLE=Games
+% SUBTITLE=To spend some spare time
+% DESCRIPTION=Know some great free software games you'll enjoy. Entertainment, arcade, strategy, skill, logic, fight, shooter...
+% KEYWORDS=reset, applications, games, entertainment, arcade, strategy, skill, logic, fight, shooter
+=Select any category=
+----
+
+<a class="cat" href="./arcade/"><dl class="cat"><dt class="cat_name">Arcade</dt><dd class="cat_desc">Simple game rules, the rest is up to you!</dd></dl></a><a class="cat" href="./strategy/"><dl class="cat"><dt class="cat_name">Strategy</dt><dd class="cat_desc">More complex games</dd></dl></a><a class="cat" href="./shooter/"><dl class="cat"><dt class="cat_name">Shooter</dt><dd class="cat_desc">Shoot your enemies down!</dd></dl></a><a class="cat" href="./skill/"><dl class="cat"><dt class="cat_name">Skill</dt><dd class="cat_desc">Show off your skills</dd></dl></a><a class="cat" href="./logic/"><dl class="cat"><dt class="cat_name">Logic</dt><dd class="cat_desc">Exercise your mind</dd></dl></a>

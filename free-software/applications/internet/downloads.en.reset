@@ -1,0 +1,23 @@
+% TITLE=Internet
+% SUBTITLE=For surfing the web, and much more!
+% DESCRIPTION=Know some great free software applications for downloading files
+% KEYWORDS=reset, applications, internet, download
+=Download machines=
+==Get the information you want from the web==
+----
+
+<dl class="app"><dt class="app_name">Transmission</dt><dd class="app_img"><img src="/uploads/apps_transmission.png" alt="Transmission" /></dd><dd class="app_desc">Transmission is a BitTorrent client which features a simple interface on top of a cross-platform back-end.
+
+It allows users to download files from the Internet and upload their own files or torrents. By grabbing items and adding them to the interface, users can create queues of files to be downloaded and uploaded.
+
+</dd><dd class="app_feat"><ul><li>Low resource usage.</li><li>Prioritization and selective downloading.</li><li>Torrent file creation.</li><li>A built-in web server so that users can control Transmission remotely via the web.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.transmissionbt.com/" title="">http://www.transmissionbt.com/</a></dd></dl><dl class="app"><dt class="app_name">Tucan</dt><dd class="app_img"><img src="/uploads/apps_tucan.png" alt="Tucan" /></dd><dd class="app_desc">Tucan Manager is a free file sharing application designed for 1-Click Hosters. Fast and lightweight.
+
+</dd><dd class="app_feat"><ul><li>Modular support for the principal Hosters: megaupload, rapidshare, 4shared, mediafire, uploading, hotfile, zshare, sendspace, filefactory, depositfiles, badongo, easy-share, and more.</li><li>Captcha resolution, interchangeable links, premium user accounts, and many other great features.</li></ul>
+
+</dd><dd class="app_link"><a href="http://tucaneando.com/" title="">http://tucaneando.com/</a></dd></dl><dl class="app"><dt class="app_name">aMule</dt><dd class="app_img"><img src="/uploads/apps_amule.png" alt="aMule" /></dd><dd class="app_desc">aMule is an eMule-like client for the eD2k and Kademlia networks.
+
+</dd><dd class="app_feat"><ul><li>It has most features of the eMule client</li><li>Proxy and remotely control support.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.amule.org/" title="">http://www.amule.org/</a></dd></dl>

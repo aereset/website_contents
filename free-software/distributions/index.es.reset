@@ -1,0 +1,8 @@
+% TITLE=Distribuciones
+% SUBTITLE=Diferentes sabores de GNU/Linux
+% DESCRIPTION=Conoce más sobre distintas distribuciones GNU/Linux
+% KEYWORDS=reset, gnu, linux, distribución
+=Selecciona alguna categoría=
+----
+
+<a class="cat" href="./fedora/"><dl class="cat"><dt class="cat_name">Fedora</dt><dd class="cat_desc">¡Echa un vistazo al software libre más avanzado!</dd></dl></a><a class="cat" href="./others/"><dl class="cat"><dt class="cat_name">Otras distribuciones</dt><dd class="cat_desc">En la variedad está el gusto!</dd></dl></a><a class="cat" href="./choosing/"><dl class="cat"><dt class="cat_name">Eligiendo la mejor distribución</dt><dd class="cat_desc">¡Déjanos ayudarte a decidir!</dd></dl></a>

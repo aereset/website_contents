@@ -1,0 +1,23 @@
+% TITLE=Internet
+% SUBTITLE=Para navegar por la red, ¡y mucho más!
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para la descarga de archivos
+% KEYWORDS=reset, aplicaciones, internet, descarga, archivos
+=Máquinas de descarga=
+==Consigue la información que quieres de la web==
+----
+
+<dl class="app"><dt class="app_name">Transmission</dt><dd class="app_img"><img src="/uploads/apps_transmission.png" alt="Transmission" /></dd><dd class="app_desc">Transmission es un cliente de BitTorrent que proporciona una interfaz simple sobre una base multiplataforma.
+
+Permite a los usuarios descargar archivos de Internet y subir sus propios archivos o torrents. El usuario puede crear listas de archivos para descargar y subir simplemente arrastrando los elementos y añadiéndolos a la interfaz.
+
+</dd><dd class="app_feat"><ul><li>Utiliza pocos recursos.</li><li>Descargas selectivas y con prioridades.</li><li>Creación de archivos torrent.</li><li>Incluye un servidor web para que el usuario pueda controlar Transmission de forma remota a través de la red.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.transmissionbt.com/" title="">http://www.transmissionbt.com/</a></dd></dl><dl class="app"><dt class="app_name">Tucan</dt><dd class="app_img"><img src="/uploads/apps_tucan.png" alt="Tucan" /></dd><dd class="app_desc">Tucan es una aplicación libre de compartición de archivos diseñada para múltiples servicios. Rápida y ligera.
+
+</dd><dd class="app_feat"><ul><li>Soporte modular para los principales servicios: megaupload, rapidshare, 4shared, mediafire, uploading, hotfile, zshare, sendspace, filefactory, depositfiles, badongo, easy-share y más.</li><li>Resolución de "captchas", enlaces intercambiables, cuentas de usuario y muchas otras funcionalidades.</li></ul>
+
+</dd><dd class="app_link"><a href="http://tucaneando.com/" title="">http://tucaneando.com/</a></dd></dl><dl class="app"><dt class="app_name">aMule</dt><dd class="app_img"><img src="/uploads/apps_amule.png" alt="aMule" /></dd><dd class="app_desc">aMule es un cliente de las redes eD2k y Kademlia al estilo de eMule.
+
+</dd><dd class="app_feat"><ul><li>Dispone de la mayoría de las funcionalidades del cliente de eMule.</li><li>Soporte para proxy y control remoto.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.amule.org/" title="">http://www.amule.org/</a></dd></dl>

@@ -1,0 +1,19 @@
+% TITLE=Oficina
+% SUBTITLE=Aplicaciones para la creación de documentos o gestión de datos
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para LaTeX
+% KEYWORDS=reset, aplicaciones, oficina, latex
+=LaTeX=
+==Para creación de documentos avanzada==
+----
+
+<dl class="app"><dt class="app_name">LyX</dt><dd class="app_img"><img src="/uploads/apps_lyx.png" alt="LyX" /></dd><dd class="app_desc">LyX es un procesador de documentos que fomenta un enfoque de la escritura basado en la estructura de tus documentos (WYSIWYM) y no sólo en su apariencia (WYSIWYG).
+
+LyX combina la potencia y la flexibilidad de TeX/LaTeX con su sencilla interfaz gráfica. Ésto hace que cualquiera pueda crear documentos con contenidos matemáticos (mediante un editor de ecuaciones integrado) y estructurados como artículos, tesis y libros.
+
+</dd><dd class="app_feat"><ul><li>Editor What You See Is What You Mean (lo que ves es lo que quieres decir), que mantiene la apariencia de cualquier editor de textos.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.lyx.org/" title="">http://www.lyx.org/</a></dd></dl><dl class="app"><dt class="app_name">Texmaker</dt><dd class="app_img"><img src="/uploads/apps_texmaker.png" alt="Texmaker" /></dd><dd class="app_desc">Texmaker es un editor moderno, libre y multiplataforma de LaTeX que integra una gran cantidad de herramientas, necesarias para el desarrollo de documentos en LaTeX, en una sola aplicación.
+
+</dd><dd class="app_feat"><ul><li>Visor de PDF integrado con soporte para synctex y vista en modo continuo.</li><li>Soporte para unicode y corrector ortográfico</li><li>Interfaz moderna y limpia, con asistentes para la generación de código.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.xm1math.net/texmaker/" title="">http://www.xm1math.net/texmaker/</a></dd></dl>

@@ -1,0 +1,8 @@
+% TITLE=Cybertech 2011
+% SUBTITLE=Equipo BricoGeek
+% DESCRIPTION=El equipo BricoGeek participó en la competición de Cybertech 2011. Conoce más sobre cómo fue esta competición y los detalles constructivos del robot y su programación
+% KEYWORDS=reset, cybertech, 2011, bricogeek
+=Enlaces=
+----
+
+<a class="cat" href="./chronicles/"><dl class="cat"><dt class="cat_name">Crónicas</dt><dd class="cat_desc">Crónicas del equipo BricoGeek tras la competición</dd></dl></a><a class="cat" href="./building/"><dl class="cat"><dt class="cat_name">Construcción del robot</dt><dd class="cat_desc">Instrucciones de cómo construir el robot</dd></dl></a><a class="cat" href="./code/"><dl class="cat"><dt class="cat_name">Código</dt><dd class="cat_desc">Documentación sobre el código utilizado</dd></dl></a>

@@ -1,0 +1,76 @@
+% TITLE=Sensors and motors
+% SUBTITLE=A step forward to build your robot
+% DESCRIPTION=A step forward to build your robot
+% KEYWORDS=reset, workshop,microcontrollers,hardware
+<section id="content">=Introduction=
+----
+
+An autonomous robot has three functions: perception, processing and execution. The perception is performed by sensors, processing by a microcontroller and the execution by actuators and motors. Previously we studied the architecture and the behavior of the microcontroller and we wrote some programs. Now is turn for the sensors and motors.
+
+Reset organizes a workshop that aims to learn about different types of sensors (infrared, ultrasonic, touch...) and motors (direct current motor, servomotor...), and learn to control them.
+
+=Contents=
+----
+
+<ul><li>Study of different types of sensors: Operation, connection and programming. CNY70 and GP2Y0A21YK infrared sensors, limit switches, ultrasonic, piezoelectric, LDRs.<ul></ul>
+
+</li><li>Study of different types of motors: Operation, connection and programming. Direct current motor and servomotor.<ul></ul>
+
+</li></ul>
+
+<ul><li>Using the terminal between the microcontroller and the computer.<ul></ul>
+
+</li><li>Practical programming examples.<ul></ul>
+
+</li></ul>
+
+=What you need=
+----
+
+==Index==
+<ul><li>A CNY70 sensor: white/black detection.<ul></ul>
+
+</li><li>A GP2Y0A21YK sensor: distance detection.<ul></ul>
+
+</li></ul>
+
+<ul><li>A limit switch sensor.<ul></ul>
+
+</li><li>A servomotor / CC motor.<ul></ul>
+
+</li></ul>
+
+<ul><li>Solid wire.<ul></ul>
+
+</li><li>A chipKIT Uno32.<ul></ul>
+
+</li></ul>
+
+<ul><li>An USB A/mini-B cable.<ul></ul>
+
+</li><li>Resistances.<ul></ul>
+
+</li></ul>
+
+==Resources==
+<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/SensorsAndMotors/PresentacionTallerSensoresyMotores.pdf"> Presentation</a><ul></ul>
+
+</li><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/SensorsAndMotors/DocumentacionTallerSensoresyMotores.pdf"> Documentation</a><ul></ul>
+
+</li></ul>
+
+=When and where=
+----
+
+??? We are sorry, last "Sensors and motors" workshop was the <strong>3 December 2012</strong>. Our workshops usually take place once a year and around the same dates.
+
+Stay tuned for future events!
+
+<!--=Resources=
+----
+
+You may find resources and pictures of this workshop in <a href="ftp://reset.etsii.upm.es/workshops/sensors-and-motors/" title="FTP directory for the Sensors and motors workshop">our FTP directory</a>.
+
+--><aside class="workshop_tags"><ul><li><a href="/en/workshops/categories/microcontrollers/" title="Search by category">microcontrollers</a></li><li><a href="/en/workshops/categories/hardware/" title="Search by category">hardware</a></li></ul>
+
+</aside><footer>

@@ -1,0 +1,27 @@
+% TITLE=Ciencia y educación
+% SUBTITLE=Para el colegio o la universidad, para estudiantes e investigadores...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para computación numérica y simbólica, estadística, etc.
+% KEYWORDS=reset, aplicaciones, ciencia, educación, matemáticas, numérico, simbólico, computación, estadística
+=Matemáticas=
+==Computación numérica y simbólica, estadística, etc.==
+----
+
+<dl class="app"><dt class="app_name">Octave</dt><dd class="app_img"><img src="/uploads/apps_octave.png" alt="Octave" /></dd><dd class="app_desc">GNU Octave es un lenguaje interpretado de alto nivel, enfocado principalmente a la computación numérica. Proporciona capacidades de resolución numérica de problemas lineales y no lineales y de realización de otros experimentos numéricos. Además, proporciona grandes capacidades gráficas para la visualización y manipulación de datos.
+
+</dd><dd class="app_feat"><ul><li>Bastante similar a Matlab, así que la mayoría de los programas son fácilmente intercambiables.</li><li>Aritmética para reales, complejos, escalares y matrices, resolución de conjuntos de ecuaciones algebraicas no lineales, integración de sistemas de ecuaciones diferenciales ordinarias y diferenciales algebraicas e integración de funciones en intervalos finitos e infinitos.</li><li>Fácilmente extensible y personalizable mediante funciones definidas por el usuario y escritas en el propio lenguaje de Octave, o utilizando módulos cargados dinámicamente y escritos en C, C++, Fortran u otros lenguajes.</li><li>Octave se suele utilizar a través de su interfaz interactiva de comandos, pero también vale para escribir programas no interactivos.</li><li>Puede representar funciones y datos en dos y tres dimensiones.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/octave/" title="">http://www.gnu.org/software/octave/</a></dd></dl><dl class="app"><dt class="app_name">Maxima</dt><dd class="app_img"><img src="/uploads/apps_maxima.png" alt="Maxima" /></dd><dd class="app_desc">Maxima es un sistema de manipulación de expresiones numéricas y simbólicas, incluyendo diferenciación, integración, series de Taylor, transformadas de Laplace, ecuaciones diferenciales ordinarias, sistemas de ecuaciones lineales, polinomios, y conjuntos, listas, vectores, matrices y tensores.
+
+</dd><dd class="app_feat"><ul><li>Produce resultados numéricos de alta precisión utilizando fracciones exactas, enteros de precisión arbitraria y números de coma flotante de precisión variable.</li><li>Puede representar funciones y datos en dos y tres dimensiones.</li></ul>
+
+</dd><dd class="app_link"><a href="http://maxima.sourceforge.net/" title="">http://maxima.sourceforge.net/</a></dd></dl><dl class="app"><dt class="app_name">R</dt><dd class="app_img"><img src="/uploads/apps_r.png" alt="R" /></dd><dd class="app_desc">R es un lenguaje y un entorno para la computación y representación estadística. Es un proyecto de GNU similar al lenguaje S y con un entorno que fue desarrollado en los Bell Laboratories.
+
+Puede considerarse como una implementación diferente de S. Hay algunas diferencias importantes, pero la mayor parte del código escrito para S puede ejecutarse sin ninguna alteración en R.
+
+</dd><dd class="app_feat"><ul><li>Amplia variedad de técnicas estadísticas (modelos lineales y no lineales, tests clásicos de estadística, análisis de series temporales, clasificación, agrupación, ...) y gráficas.</li><li>Colección amplia, coherente e integrada de herramientas intermedias para el análisis de datos.</li><li>Incluye un facilidades para el manejo efectivo de datos y su almacenamiento y una suite de operadores para cálculos con matrices.</li><li>Para tareas computacionalmente intensivas, se puede enlazar código en C, C++ y Fortran para llamarlo en tiempo de ejecución. Los usuarios avanzados podrán escribir código en C para manipular objetos de R directamente.</li><li>Muy extensible (diseñado sobre un verdadero lenguaje de programación, permite a los usuarios añadir funcionalidades mediante la creación de nuevas funciones).</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.r-project.org/" title="">http://www.r-project.org/</a></dd></dl><dl class="app"><dt class="app_name">PSPP</dt><dd class="app_img"><img src="/uploads/apps_pspp.png" alt="pspp" /></dd><dd class="app_desc">PSPP es un programa diseñado para el análisis estadístico de muestras de datos. Es una alternativa libre al software propietario SPSS y resulta muy similar a éste con algunas excepciones.
+
+</dd><dd class="app_feat"><ul><li>Puede realizar estadísticas descriptivas, tests T, regresiones lineales y ensayos no paramétricos.</li><li>Procedimientos estadísticos rápidos, incluso con grandes conjuntos de datos.</li><li>Fácil importación desde hojas de cálculo, archivos de texto y bases de datos.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/pspp/" title="">http://www.gnu.org/software/pspp/</a></dd></dl>

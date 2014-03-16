@@ -1,0 +1,84 @@
+% TITLE=Cybertech 2011
+% SUBTITLE=Construcción del robot
+% DESCRIPTION=Explicación de la construcción del robot y su montaje.
+% KEYWORDS=reset, cybertech, 2011, bricogeek, construcción, montaje, robot, laberinto, rastreador
+=Detalles de construcción=
+----
+
+Intentaremos en esta sección dar unas indicaciones, breves y sencillas, de cómo construir nuestro robot. La configuración que elegimos, las piezas, los motores, los sensores y, en definitiva, todo lo necesario para poder reproducirlo en casa.
+
+Nuestro principal objetivo era la simplicidad. Sin olvidar la fiabilidad, por supuesto, pero simplicidad ante todo. Simplicidad en cuanto al montaje, simplicidad en cuanto a la configuración, simplicidad en cuanto a la programación. Para ello, intentamos siempre emplear el menor número posible de piezas que, además, no sean excesivamente difíciles de conseguir.
+
+Además, hemos procurado montar un robot con el menor número posible de sensores, siempre que fueran capaces de proporcionar la funcionalidad que necesitáramos. Menos sensores facilitan enormemente la programación y, aunque es cierto que con más sensores se pueden implementar algoritmos de control mucho más fiables, no podíamos hacerlo todo en este primer año.
+
+Otro aspecto esencial de nuestra propuesta era su reducido tamaño. A pesar de que la competición admitía robots de tamaño y peso mucho mayores, emplear un robot más pequeño tiene la ventaja de poder emplear motores menos potentes (tenemos que desplazar menos peso), con lo que consumen menos y nos permite reducir aún más el peso total mediante el uso de baterías más pequeñas.
+
+Al final, se obtienen mayores velocidades y, sobre todo, mejor maniobrabilidad. Por no mencionar, claro está, que un robot pequeño podría ser usado en laberintos con pasillos mucho más estrechos sin hacer apenas modificaciones (sólo ligeros cambios en la programación), y nunca sabemos lo que nos deparará la competición en años venideros: tal vez los laberintos se hagan más estrechos e intrincados; nosotros, por si acaso, estamos preparados, pues esto es un proyecto a largo plazo, sobre el que pensamos seguir trabajando en los próximos años.
+
+Vamos con ello: primero, la base. Inicialmente pensamos en metacrilato como un material suficientemente rígido y ligero que, además, es aislante eléctrico. Y no es mala idea, siempre que tengáis acceso a un taller que os permita mecanizarlo y obtener las piezas que queráis. Nosotros no lo teníamos, así que hubo que pensar en una alternativa. Y la encontramos: un CD. Un CD viejo, con algún programa obsoleto grabado que ya nadie quiere, de esos que todos tenemos por casa. Ligero y con una rigidez aceptable, sin olvidar que podemos mecanizarlo con unas tijeras en casa:
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_Cutting_the_CD.jpg" alt="Cortando el CD" /><figcaption>Marcando y recortando la base del robot</figcaption></figure>
+
+Un par de cortes en los laterales para posicionar adecuadamente los motores y ya tenemos la base de nuestro robot. A continuación, podemos ver un plano detallado de la base inferior:
+
+<p class="centered"><img src="/uploads/users_peque_cybertech-2011_Base_0.jpg" alt="Base inferior" />
+
+Los taladros laterales son para montar, por la parte inferior, los motores con reductora en sus respectivas abrazaderas. Es importante que se hagan con la mayor precisión posible, pues cuanto más paralelas consigamos montar las ruedas, menos se desviará nuestro robot y más velocidad y control conseguiremos. Los otros cuatro taladros son para montar las bolas locas que utilizaremos como apoyo:
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_Base_complete.jpg" alt="Base completa" /><figcaption>Base del robot montada</figcaption></figure>
+
+Como se puede apreciar en esta imagen, los tornillos empleados para fijar las abrazaderas de los motores deben ser bastante largos, pues servirán para montar encima otra pieza que hará de segunda base para colocar sobre ella el Arduino y demás componentes electrónicos.
+
+Aprovecharemos el agujero central del CD para pasar por ahí los cables de alimentación de los motores, que irán por el espacio que quedará entre esta base y la del segundo nivel que soporta los componentes electrónicos:
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_Base_underside.jpg" alt="Cara inferior" /><figcaption>Cara inferior de la base del robot</figcaption></figure>
+
+Las bolas locas no se colocan al mismo nivel que las ruedas motrices, puesto que un robot con cuatro puntos de apoyo no podría avanzar apropiadamente sobre superficies irregulares, salvo que estuviera provisto de algún sistema de amortiguadores (las ruedas motrices podrían quedarse en el aire y perderíamos entonces el control sobre el robot). En vez de eso, será la bola trasera la que vaya normalmente apoyada (tendremos sobrepeso en la parte trasera) y la delantera irá en el aire. Está colocada meramente como protección, para asegurarnos de que en frenadas fuertes o en baches pronunciados -en los que la plataforma podría balancearse hacia adelante- va a tocar en el suelo y va a devolver al robot a su posición estable.
+
+A continuación, podemos ver un plano detallado de la base superior:
+
+<p class="centered"><img src="/uploads/users_peque_cybertech-2011_Base_1.jpg" alt="Base superior" />
+
+Sobre esta segunda base, que ya tiene los taladros hechos a tal propósito, se monta el Arduino UNO. Sobre el Arduino colocaremos una última pieza (también recortada de un CD) con una pequeña placa de prototipado que nos sirvió para hacer los circuitos de alimentación de los sensores y los cables de comunicación del puerto en serie del Arduino con la placa del control motor. El montaje final queda de la siguiente forma:
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_Structure_complete.jpg" alt="Estructura completa" /><figcaption>Estructura del robot completa</figcaption></figure>
+
+Aquí podemos ver una vista explosionada del conjunto:
+
+<p class="centered"><img src="/uploads/users_peque_cybertech-2011_Solid_edge_view.jpg" alt="Vista explosionada" />
+
+A partir de aquí, cada prueba en la que íbamos a participar tenía sus propias particularidades, por lo que el diseño del robot iba a seguir dos ramas diferenciadas.
+
+<h3>Laberinto</h3>----
+
+Empleamos aquí tres sensores de proximidad como único medio de control. Menos sensores era imposible colocar para programar un algoritmo como el que queríamos implementar, pues necesitábamos medir distancias con las dos paredes laterales y con la pared frontal simultáneamente.
+
+Lo cierto es que, en un principio, pensamos que necesitaríamos cinco sensores en total. Dos orientados en perpendicular (90º respecto a la dirección de avance), para controlar las paredes laterales, uno frontal, y otros dos situados a 45º (para medir también en las bisectrices). Pero luego nos dimos cuenta de que podíamos prescindir de los dos últimos sensores si adelantábamos ligeramente los sensores laterales, dejándolos a unos 75º finalmente.
+
+Como último detalle, acabamos elevando un poco todos los sensores, para separarlos del suelo, que a veces provocaba medidas erróneas cuando reflejaba mucha luz:
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_4270_detail.jpg" alt="Detalle de los sensores para el laberinto" /><figcaption>Detalle de los sensores SHARP usados para la prueba del laberinto</figcaption></figure>
+
+No tenemos la total certeza sobre esto, pero lo cierto es que los sensores laterales -colocados en posición vertical- no nos dieron ningún problema durante la competición, mientras que el sensor frontal fue el único que, cuando el sol incidía directamente sobre él, detectaba paredes donde no las había. Esto nos hizo fallar en un par de pruebas, con resultados bastante desastrosos para nuestra posición en la clasificación general de la competición, así que, ante la duda, os recomiendo poner los tres sensores elevados y en posición vertical, sobre alguna estructura como la que nosotros hicimos a modo de soporte con piezas de Mecano que teníamos por casa de cuando aún jugábamos con ellos.
+
+Cabe destacar, finalmente, que como fuente de alimentación utilizamos unas pilas normales de las de 9V que se pueden encontrar en cualquier tienda. Dado que la intensidad que necesitábamos era muy pequeña, aguantaban bien una o dos pruebas, tras lo cual teníamos que sustituirlas; pero lo cierto es que nos ahorraban bastante espacio y eso era importante para nosotros. Para el año que viene, tal vez, estamos considerando la posibilidad de emplear tres baterías de 3,7V en serie, junto con un regulador de tensión que nos permita variar la velocidad del robot: podremos arriesgar más con los motores a tope o ser más conservadores disminuyendo la tensión, según nos convenga.
+
+<h3>Rastreador</h3>----
+
+Para la competición de Rastreadores íbamos a usar, primero, motores con reductora 1:10 en vez de la reductora 1:30 de los motores que empleamos para las pruebas de Laberinto. La necesidad de mayor velocidad y el hecho de no necesitar un control tan fino sobre la posición del robot, ni bloquear las ruedas para dar media vuelta ni hacer movimientos de giro o frenado brusco fue lo que condicionó nuestra decisión.
+
+La segunda gran diferencia, obviamente, era los sensores. Como medio de control usamos un array de sensores IR muy pegado al suelo, que detectaba perfectamente el recorrido trazado con cinta aislante sobre un suelo de madera blanca.
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_IR_sensor_array.jpg" alt="IR sensor array" /><figcaption>Detalle del array de sensores QTR-8RC</figcaption></figure>
+
+Sin embargo, durante las pruebas previas, en casa, tuvimos la mala fortuna de quemarlo (o tal vez fuera por nuestro mal hacer debido a la falta de experiencia y la fortuna no tuviera nada que ver en esto). Así que tuvimos que improvisar una solución de última hora con una serie de sensores IR montados sobre un trozo de cartón (decidimos colocar sólo cinco para simplificar el diseño, dejando los laterales del extremo con un poco más de separación para abarcar mayor superficie y tener más precisión cerca del centro):
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_4271_detail.jpg" alt="Detalle de los sensores para el rastreador" /><figcaption>Detalle de los sensores CNY-70 utilizados para la prueba de rastreadores</figcaption></figure>
+
+La instalación de los finales de carrera a última hora, para evitar los problemas que nos estaban dando los sensores de proximidad, si bien dejó todo un poco más lleno de cables y menos estético, acabó cumpliendo con su cometido a la perfección y resultó ser un sisema mucho más fiable (aunque más lento):
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_4271_view.jpg" alt="Vista general del robot rastreador" /><figcaption>Vista general del robot diseñado para la prueba de rastreadores</figcaption></figure>
+
+Lo ideal sería adelantar lo máximo que pudiéramos el array de sensores respecto del resto del robot, para lo que montamos un soporte con las mismas piezas de Mecano que teníamos por casa. Sin embargo, no podíamos hacer ese soporte tan largo como quisiéramos, pues cargaba demasiado la parte delantera y el robot basculaba hacia adelante e iba arrastrando el array por el suelo, con la consiguiente pérdida de velocidad. Añadir más peso en la parte trasera tampoco era una opción, pues demasiado peso repercutía en una menor capacidad de aceleración (positiva y de frenado) y por tanto en un peor control.
+
+Así que tuvimos que conformarnos con esta solución de compromiso, a falta de ver si para el año que viene podemos construir algún tipo de estructura que nos permita adelantar aún más esos sensores sin los problemas que acabamos de comentar.

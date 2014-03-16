@@ -1,0 +1,8 @@
+% TITLE=Internet
+% SUBTITLE=For surfing the web, and much more!
+% DESCRIPTION=Know some great free software applications for the internet. Browsers, download machines, chat applications...
+% KEYWORDS=reset, applications, internet, browser, download, chat
+=Select any category=
+----
+
+<a class="cat" href="./browsers/"><dl class="cat"><dt class="cat_name">Browsers</dt><dd class="cat_desc">And start surfing the web!</dd></dl></a><a class="cat" href="./downloads/"><dl class="cat"><dt class="cat_name">Download machines</dt><dd class="cat_desc">Get the information you want from the web</dd></dl></a><a class="cat" href="./chat/"><dl class="cat"><dt class="cat_name">Chatting</dt><dd class="cat_desc">Keep in touch with other people</dd></dl></a>

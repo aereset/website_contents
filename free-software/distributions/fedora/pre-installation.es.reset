@@ -1,0 +1,51 @@
+% TITLE=Fedora
+% SUBTITLE=Antes de la instalación
+% DESCRIPTION=Proceso de pre-instalación: descarga de la imagen viva, creación del LiveUSB, arranque y preparación del disco duro para el proceso de instalación.
+% KEYWORDS=reset, distribución, fedora, pre-instalación, trucos, configuración
+=Descargando una imagen viva=
+----
+
+Utilizar una imagen viva es probablemente la mejor manera de probar e instalar un sistema operativo en tu ordenador. Puedes <a href="http://fedoraproject.org/en/get-fedora-options" title="Descargar una imagen viva de Fedora desde el sitio web oficial">descargar una imagen viva de Fedora desde el sitio web oficial</a>. ¡Observa que puedes encontrar muchas imágenes distintas!
+
+La diferencia entre la edición Escritorio, edición KDE, edición LXDE y edición XFCE es sólo el escritorio, todas son Fedora. Tal vez quieras probar diferentes escritorios para ver cuál te gusta más pero, por ahora, te recomendamos que selecciones las opción por defecto (edición Escritorio), que viene con el <a href="http://www.gnome.org/gnome-3/" title="Sitio web de GNOME 3">escritorio GNOME 3</a>.
+
+Para cada escritorio, puedes elegir entre un sistema de 32 bits o uno de 64. Si no sabes cuál necesitas, descarga la versión de 32 bits (o pregunta a alguien).
+
+<p class="centered"><a href="http://fedoraproject.org/en/get-fedora" title="Download 32-bit Fedora with GNOME desktop"><img src="/uploads/distros_fedora_download_32bit.png" alt="Download_Fedora_32bit_image" /></a>
+
+=Creando un LiveUSB=
+----
+
+Una vez que hayas descargado la imagen viva (el archivo .iso), sólo necesitas hacerla arrancable para poder probar e instalar el sistema en tu ordenador.
+
+Hay varias formas de hacer un archivo .iso arrancable. Como a día de hoy la mayor parte de los ordenadores te permiten arrancar desde un USB, te enseñaremos cómo crear un LiveUSB. De nuevo, puedes encontrar múltiples programas que te permiten crear este medio vivo, te recomendamos <a href="http://unetbootin.sourceforge.net/" title="Descarga Unetbootin desde el sitio web oficial">descargar Unetbootin</a>.
+
+Conecta un USB con al menos 1 GB de espacio libre y ejecuta Unetbootin. Selecciona la opción "Diskimage", busca el archivo .iso que has descargado y selecciona el dispositivo USB que acabas de conectar (si no estás seguro, desconecta cualquier otro dispositivo de almacenamiento USB para quedarte sólo con una opción):
+
+<figure><img src="/uploads/distros_fedora_unetbootin.png" alt="Unetbootin_interface_image" /><figcaption>Interfaz de Unetbootin</figcaption></figure>
+
+Cuando el proceso haya finalizado, ¡tendrás un LiveUSB arrancable!
+
+=Arrancando el sistema vivo=
+----
+
+Arrancar es lo que hacemos cada vez que encendemos nuestro ordenador; arrancamos nuestro sistema operativo desde el disco duro. Lo que queremos ahora es arrancar desde el medio vivo que hemos creado. Algunos ordenadores pueden arrancar automáticamente desde CDs arrancables, pero sólo unos pocos harán eso desde un dispositivo USB.
+
+Lo que tenemos que hacer es entrar en el "Menú de arranque", que nos permitirá seleccionar el dispositivo desde el que queremos arrancar ("removable devide" o USB):
+
+<figure><img src="/uploads/distros_fedora_bootmenu.png" alt="Boot_menu_image" /><figcaption>Menú de arranque</figcaption></figure>
+
+Normalmente puedes acceder a este menú presionando la tecla F12, F11, F10, F9 o F8 justo después de encender tu ordenador (antes de que arranque desde el disco duro y empiece a cargar tu sistema operativo).
+
+?? Si prestas atención a la primera pantalla que ves después de encender el ordenador, tal vez veas qué tecla debes presionar para acceder al menú de arranque. De otro modo, busca en Internet o entra en el menú de configuración ("setup") para hacer que la BIOS arranque primero desde dispositivos USB.
+
+Una vez que has seleccionado el USB para arrancar, la opción por defecto ¡iniciará automáticamente una sesión viva de Fedora!
+
+=¡Me gusta Fedora!=
+----
+
+Ya estás en una sesión viva de Fedora. Puedes abrir algunas aplicaciones y asegurarte de que todo funciona correctamente.
+
+<figure><img src="/uploads/distros_fedora_live_desktop.png" alt="Live_desktop_gnome3_image" /><figcaption>Escritorio vivo con GNOME 3</figcaption></figure>
+
+Si te gusta la sensación, <a href="/es/free-software/distributions/fedora/installation/" title="guía de instalación de Fedora">¡continúa con el proceso de instalación!</a>

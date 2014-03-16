@@ -1,0 +1,95 @@
+% TITLE=Installing CUDA in Fedora 16
+% SUBTITLE=Learn how to set up CUDA development environment in Fedora 16
+% DESCRIPTION=Here you'll find how to install and set up the CUDA development environment in Fedora 16.
+% KEYWORDS=reset, cuda, fedora, 16, sdk, toolkit, installation, gpu, development
+=Installing NVIDIA drivers=
+----
+
+I am not covering all possibilities here on how to install NVIDIA drivers on your computer, I am supposing you have Fedora 16 with an standard kernel (not PAE), with a GeForce 6 or higher NVIDIA card and with no Optimus technology (that means the output of "lspci | grep VGA" does not show two (Intel and nVidia) VGA compatible controllers). Otherwise, check out a more detailed guide for PAE kernels and/or older graphics cards.
+
+Update your system:
+
+<code class="terminal">su -c 'yum update -y --skip-broken'</code>
+
+After updating, you may need to reboot. If you are not sure, just reboot and continue the process.
+
+Install RPM Fusion repositories:
+
+<code class="terminal">su -c 'yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm &amp;&amp; yum update -y'</code>
+
+Install NVIDIA drivers (you may want to skip akmod-nvidia installation):
+
+<code class="terminal">su -c 'yum install kmod-nvidia kernel-devel'</code>
+
+Backup your initramfs image (just in case...):
+
+<code class="terminal">su -c 'mv /boot/initramfs-$(uname -r).img /boot/initramfs-$(uname -r)-nouveau.img'</code>
+
+Generate a new one:
+
+<code class="terminal">su -c 'dracut /boot/initramfs-$(uname -r).img $(uname -r)'</code>
+
+Restart your computer and... You should be done!
+
+??? If, after rebooting, you find a black screen, press CTRL+ALT+F2, log in with your user name and password and execute this command: su -c 'nvidia-xconfig' && reboot
+
+If you need 3D acceleration in 32 bits applications (perhaps while using Wine), install the package "<strong>xorg-x11-drv-nvidia-libs.i686</strong>".
+
+=Installing CUDA toolkit and SDK=
+----
+
+First, you'll need to install some dependencies:
+
+<code class="terminal">su -c 'yum install make gcc-c++ freeglut-devel libXi-devel libXmu-devel'</code>
+
+After that, <a href="http://developer.nvidia.com/cuda-downloads" title="Get latest CUDA Toolkit">download CUDA Tool Kit and GPU Computing SDK from NVIDIA official website</a>. Go to the Linux section and download "CUDA Toolkit for Fedora" and "GPU Computing SDK - complete package including all code samples".
+
+? I downloaded version 4.1.15, but I hope this will apply for older/newer versions.
+
+Now, go to the folder were you downloaded the CUDA Tool Kit and make it executable:
+
+<code class="terminal">chmod +x ./cudatoolkit*</code>
+
+Proceed with the installation:
+
+<code class="terminal">su -c './cudatoolkit*'</code>
+
+? I chose <strong>/opt</strong> when I was asked for the install path, but you may use the default one or choose any other.
+
+Make the GPU Computing SDK executable as well (use the corresponding name instead of gpucomputing*, for example: cuda-samples* for CUDA 5):
+
+<code class="terminal">chmod +x ./gpucomputing*</code>
+
+And again, proceed with the installation (notice we are not using superuser privileges):
+
+<code class="terminal">./gpucomputing*</code>
+
+?? If you chose <strong>/opt</strong> for the install path, you may need to tell the installer <strong>/opt/cuda</strong> is the CUDA install path.
+
+You will need to update the PATH variable:
+
+<code class="terminal">echo 'export PATH=$PATH:/opt/cuda/bin' >> ~/.bashrc_profile</code>
+
+And the LD_LIBRARY_PATH as well:
+
+<code class="terminal">echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/cuda/lib:/opt/cuda/lib64' >> ~/.bashrc_profile</code>
+
+Reload your bashrc_profile:
+
+<code class="terminal">source ~/.bash_profile</code>
+
+Fedora 16 uses GCC 4.6, which is not already supported by CUDA. Anyway, you can tell CUDA to ommit this check. You just need to edit the file "/opt/cuda/include/host_config.h" (instead of /opt use your installation path). There, in line 80, change the "__GNUC_MINOR__ > X" expression, and use a higher minor version, such as 7 (you don't need to do this if you installed CUDA 5):
+
+<code class="terminal"><strong>80:</strong> #if __GNUC__ > 4 || (__GNUC__ == 4 && __GNUC_MINOR__ > 7)</code>
+
+Right now, if you try to compile the examples, you will get an error saying "<strong>/usr/bin/ld: cannot find -lcuda</strong>".
+
+There is an easy solution for that problem: make some symbolic links to the CUDA libraries.
+
+<code class="terminal">su -c 'ln -s /usr/lib64/nvidia/libcuda.so /usr/lib64/libcuda.so &amp&amp ln -s /usr/lib64/nvidia/libcuda.so.1 /usr/lib64/libcuda.so.1'</code>
+
+That's all folks!
+
+You may need to reboot before trying to build the C examples.
+
+<code class="terminal">cd ~/NVIDIA_GPU_Computing_SDK/C &amp&amp make</code>

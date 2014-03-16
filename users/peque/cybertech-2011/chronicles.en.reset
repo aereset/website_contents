@@ -1,0 +1,290 @@
+% TITLE=Cybertech 2011
+% SUBTITLE=Crónicas del equipo BricoGeek
+% DESCRIPTION=En estas crónicas se relatan los hechos acontecidos en la competición de Cybertech 2011. Redactado por Luis Sánchez de León, colaborador del equipo BricoGeek.
+% KEYWORDS=reset, cybertech, 2011, bricogeek, crónicas, laberinto, rastreador
+=Introducción=
+----
+
+Esta historia es la historia de un pequeño grupo de amigos -tres, para ser más exactos-, compañeros de clase en la universidad, emprendedores y ambiciosos, que decidieron embarcarse en un proyecto llenos de ilusión y con los que tuve el placer de compartir interminables horas de esfuerzo, dedicación, nervios e incertidumbre. Son la clase de personas con las que da gusto estar, generosos y comprometidos, siempre dispuestos a regalar una sonrisa:
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_Elena.jpg" alt="Elena sonriendo" /><figcaption>La más risueña del equipo ;-)</figcaption></figure>
+
+Ahora, una vez que todo ha terminado, no puedo evitar mirar hacia atrás con cierta nostalgia. Será la edad. Nostalgia que, por otro lado, me impulsa a contar las aventuras y desventuras vividas durante este tiempo, para que no caigan en el olvido fácilmente. La historia comienza no ha mucho tiempo, pocos meses a lo sumo, con la convocatoria abierta para una nueva edición de Cybertech. ¿Que no sabéis lo que es Cybertech? Bien, empecemos por el principio.
+
+Como cada año desde hace más de una década, la Escuela Técnica Superior de Ingenieros Industriales de la Universidad Politécnica de Madrid convoca una competición en la que estudiantes de la propia Universidad diseñan, construyen y programan un robot que, de forma totalmente autónoma, debe enfrentarse a una serie de pruebas establecidas. Este año llegamos ya a la XI edición.
+
+¿Y qué tiene de especial esta edición? Pues nada, en realidad. Sencillamente, que en esta ocasión Javier García López, Elena Hernanz Pérez y Miguel Sánchez de León Peque -pues así se llaman nuestros protagonistas- se inscribieron para la competición, comenzando así esta particular aventura que me dispongo a contaros. Afortunadamente, no se encontraron solos ante el peligro y lo desconocido, pues sus familias los hemos ayudado en lo que hemos podido durante su azarosa singladura.
+
+Con inagotable paciencia, aguantamos sin rechistar la casa llena de cartones que formaban intrincados laberintos y metros de cinta aislante negra pegados en el suelo recorridos una vez tras otra por un pequeño artefacto que, inevitablemente, se empeñaba en no terminar de funcionar nunca del todo bien.
+
+En mi caso, además, y es por eso que tal vez yo me sienta casi como un componente más del equipo (se me permitirá, pues, que hable del equipo en primera persona), tuve la oportunidad de echarles una mano con algo de la programación necesaria (sobre todo a mi hermano, Miguel), especialmente en las últimas semanas, cuando el tiempo empezaba a apremiar y el día de la competición se echaba encima sin remedio.
+
+Lo más importante de toda esta experiencia es lo que hemos aprendido y disfrutado desde el principio, me parece a mí. Embarcarnos en un proyecto que sabemos que no ha hecho más que empezar y que esperamos que nos dé muchas más alegrías en las próximas ediciones de Cybertech. Aprender de los aciertos y errores, y no tomarse los resultados de este año como un fracaso sino como una oportunidad. Oportunidad para levantarse, seguir luchando y seguir mejorando. Superar los retos que se nos planteen. Y, sobre todo, seguir con ese buen humor y, por supuesto, no dejar de sonreír:
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_BricoGeek_team.jpg" alt="Equipo BricoGeek" /><figcaption>De izquierda a derecha: Javi, Elena y Miguel</figcaption></figure>
+
+Espero sinceramente que Óscar González esté suficientemente satisfecho con los resultados de este año y tenga casi la misma ilusión que nosotros por continuar con este proyecto en el futuro. Y espero sinceramente volver a tener la oportunidad de colaborar yo mismo con este equipo.
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_BricoGeek_team_2.jpg" alt="Equipo BricoGeek" /><figcaption>¡Ánimo, BricoGeek!</figcaption></figure>
+
+¡Un saludo y hasta la próxima!
+
+Luis Sánchez de León Peque
+
+=Nuestros comienzos=
+----
+
+El primer gran reto al que todo equipo debe enfrentarse, por nimio que parezca, es elegir un nombre. Su identidad, al fin y al cabo. El segundo problema, claro está, era la financiación. Y es en este punto donde surgió la brillante idea: ¿por qué no buscar patrocinador? Lo cierto es que fuimos muy afortunados de encontrar a Óscar González, a quien tenemos que agradecer enormemente toda la ayuda que nos ha brindado. Se ofreció enseguida a suministrarnos los componentes que necesitáramos, creando así el equipo BricoGeek:
+
+<p class="centered"><img src="/uploads/users_peque_cybertech-2011_BricoGeek.png" alt="BricoGeek" />
+
+Como supongo que todos aquéllos a los que os interese un poco la robótica y el modelismo ya sabréis, BricoGeek es uno de los mayores distribuidores de componentes electrónicos de nuestro país y del resto del mundo. Su ayuda, desde luego, fue clave para conseguir los resultados que obtuvimos. Y no podemos dejar pasar la oportunidad de agradecerles una vez más la confianza que desde un principio depositaron en nosotros. Confiamos en que ellos estén tan satisfechos con esta colaboración como lo estamos nosotros y continúen apoyándonos para poder seguir desarrollando nuestro robot de cara a futuras ediciones de Cybertech.
+
+Y así fue como nuestros chicos se pusieron manos a la obra. Horas de duro trabajo:
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_Javier_at_work.jpg" alt="Javier Trabajando" /><figcaption>Javier trabajando en la plataforma del robot (un CD)</figcaption></figure>
+
+Que poco a poco iban dando forma a nuestra propuesta:
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_Elena_Miguel_first_prototype.jpg" alt="Elena y Miguel" /><figcaption>Elena y Miguel con las plataformas montadas</figcaption></figure>
+
+Hasta que, por fin, los dos primeros prototipos vieron la luz:
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_4270_prototype.jpg" alt="Prototipo del robot 4270" /><figcaption>Prototipo del robot para la prueba del laberinto</figcaption></figure>
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_4271_prototype.jpg" alt="Prototipo del robot 4271" /><figcaption>Prototipo del robot para la prueba del sigue-líneas</figcaption></figure>
+
+Como veis, optamos por construir dos plataformas, totalmente idénticas salvo en lo que a sensores se refiere. Así teníamos la posibilidad de trabajar en paralelo en la programación de las dos pruebas que componían la competición. Las bases establecían claramente que se debía presentar un solo robot que realizase ambas pruebas (permitiendo, eso sí, la sustitución de módulos hardware de una prueba a otra), pero para trabajar en casa resultaba mucho más cómodo no tener que andar continuamente desmontando unos componentes y montando otros en su lugar.
+
+Con esto, teníamos ya el camino despejado para meternos de lleno con la programación. Tarea nada fácil, por cierto, en la que hemos invertido cientos de horas. Una lenta evolución en la que el robot aprendía, poco a poco, a desenvolverse en situaciones cada vez más complicadas.
+
+<h3>Prueba del laberinto</h3>----
+
+Primeros pasos: aprender a seguir un pasillo sin bifurcaciones, manteniéndose lo más centrado posible entre las dos paredes:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/pfRCLY1jv7Q"></iframe>
+
+Luego hubo que conseguir realizar giros de 90º para pasar de un pasillo a otro que fuera perpendicular al primero, lo que nos dio algunos problemillas:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/8bLQbK6waGE"></iframe>
+
+Para terminar finalmente recorriendo un laberinto cualquiera, decidiendo qué camino tomar en cada bifurcación (en este vídeo el robot está programado para elegir siempre el pasillo situado más a la izquierda):
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/f6VSuKZMNp4"></iframe>
+
+<h3>Prueba de rastreadores</h3>----
+
+Primeros pasos: seguir un camino con curvas suaves:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/vzunw3WaO70"></iframe>
+
+Luego hubo que enseñar al robot a volver al camino cuando lo perdía al llegar a una curva de 90º:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/Rky-vX_-RzA"></iframe>
+
+Para terminar finalmente eliminando las oscilaciones del robot (ajustando las constantes del control PID), consiguiendo de esta forma alcanzar máxima velocidad en las rectas y curvas suaves:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/OgoR1qZVGvw"></iframe>
+
+=Primer día de la competición=
+----
+
+Y así llegamos al primer día de competición -el miércoles 27 de abril-, siempre con la sensación de que faltaba tiempo para seguir probando y mejorando algunas cosas, pero con el convencimiento de haber hecho un buen trabajo y llenos de ilusión y confianza.
+
+<h3>Primera prueba de la mañana: Rastreadores I</h3>----
+
+Era una prueba descalificatoria: tenías que superarla para poder participar en Rastreadores II, pero el tiempo en el que lo hicieras era irrelevante, siempre que estuviera dentro del límite. Se trataba simplemente de demostrar que tu robot podía recorrer un circuito cerrado y simple en menos de dos minutos sin salirse:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ihW-Zhrzc8Y"></iframe>
+
+<h3>Segunda prueba de la mañana: Laberinto I</h3>----
+
+Se trataba de una prueba en la que el laberinto del que había que salir era conocido de antemano (y con bastante antelación) por todos los equipos. De cuatro intentos, se guardaba sólo el mejor tiempo para la clasificación general. Todo el trabajo realizado en el código para que el robot fuera capaz de distinguir bifurcaciones nos permitió programarlo para que seleccionase directamente el camino más rápido, en vez de tener que explorar pasillos que no llevaban a ningún sitio, consiguiendo marcar el mejor tiempo de la prueba en nuestro último intento (menos de 15'', frente a los más de 25'' de nuestro más inmediato competidor o los 40'' ó 50'' de la mayoría de los demás equipos):
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/ARBDq6MAw0A"></iframe>
+
+<h3>Primera prueba de la tarde: Rastreadores II</h3>----
+
+Una prueba de velocidad, en un recorrido que podía tener curvas de 90º y bifurcaciones. Una pequeña marca situada al lado de la línea que el robot debía seguir indicaba cuál era el lado más favorecido de la siguiente bifurcación (el atajo más corto), aunque es cierto que nosotros (como la mayoría de los equipos) no programamos el robot para leer esas marcas: en ocasiones, el camino largo tenía curvas menos cerradas, por lo que permitían al robot ir más rápido y tardar menos que en recorrer el camino corto. Así que preferimos dejar "al azar" que el robot tomase uno u otro:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/far7IBoWwNg"></iframe>
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/8Tqu6vvFhXU"></iframe>
+
+Ambos eran recorridos simétricos y, al final, lo que contaba era el mejor tiempo marcado en cualquiera de los intentos por cualquiera de los recorridos. Nuestro equipo marcó el segundo mejor tiempo de la prueba con algo menos de 16'', sólo dos décimas de segundo por delante de nuestro inmediato perseguidor (que volvía a ser, igual que en la prueba de laberintos, el equipo Horus) y algo más de dos segundos por detrás de un inscrito de última hora que no participó en la competición de laberintos y tenía, por tanto, un robot muy especializado en la prueba de rastreadores, lo que le daba cierta ventaja sobre el resto de los equipos.
+
+No obstante, el tiempo de esta prueba no era demasiado importante, pues sólo contaba para determinar las posiciones en la parrilla de salida de las carreras en paralelo que se harían al día siguiente en la prueba de Rastreadores IV, que era la gran final y la que determinaría la clasificación definitiva de cada equipo en esta competición. Así que nuestro segundo puesto nos garantizaba la pole position en una de las semifinales y no cruzarnos con el gran favorito hasta las finales: el trabajo en la prueba de rastreadores, al menos en lo que a ese primer día de competición se refería, estaba hecho. Y bien hecho, cabría añadir: podíamos rozar la plata con la punta de los dedos.
+
+<h3>Segunda prueba de la tarde: Laberinto II</h3>----
+
+Se trataba ahora de un laberinto conocido por todos los equipos, pero en el que había ciertas paredes que, de forma intencionada, no se especificaba del todo dónde iban a estar. Así, los equipos tenían una idea del aspecto general que iba a tener el laberinto, pero no conocían el trazado exacto hasta pocas horas antes de la prueba.
+
+Sin embargo, en esta ocasión, el tiempo que iba a contar de cara a la clasificación general no sería el mejor realizado por cada equipo, sino la suma de los tiempos realizados en cada uno de los cuatro intentos de los que disponíamos para superar el laberinto.
+
+En cualquier caso -y a pesar de la poca antelación con la que conocimos el recorrido definitivo de este segundo laberinto-, como ya habíamos probado y verificado nuestro algoritmo para seleccionar el camino más rápido en el laberinto de por la mañana, pudimos volver a usarlo con algunos cambios mínimos en las decisiones que el robot debía tomar en cada nodo para adaptarlo al nuevo recorrido.
+
+Al ser éste de por la tarde un laberinto muy similar al primero de la mañana, casi todos los equipos volvieron a marcar tiempos muy similares. Nosotros, en nuestro primer intento, lo hicimos en menos de 15'', marcando una vez más el mejor tiempo de la prueba:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/AXd2ObYYBrM"></iframe>
+
+Pero bueno, estaba claro que no todo podía salirnos bien, y en el segundo intento de esta prueba de laberinto llegaron los imprevistos. Al estar cayendo la tarde, el Sol estaba ya bajo y daba directamente en el laberinto. Al darles la luz directamente, los sensores de distancia daban algunas medidas erróneas y, en este caso, nuestro sensor frontal detectó una pared donde no la había:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/2e0PjoyhieM"></iframe>
+
+Yo -que era el que hacía de reportero-, al ver que el robot toma un pasillo cerrado al que no debería haber entrado dejé ya caer la cámara sin darme cuenta de que aún estaba grabando: no íbamos a salir del laberinto. Era uno de los riesgos que habíamos decidido asumir al programar el robot para tomar en cada bifurcación el camino apropiado: cualquier error de lectura nos iba a hacer fallar en la prueba.
+
+En este caso, nuestro robot gira a la izquierda y entra en un pasillo en el que no debería porque ha detectado que no hay bifurcación. Esto significa que cuando llegue a la siguiente bifurcación hará lo que debería haber hecho en ésta, y no lo que debería hacer realmente. Si, por ejemplo, hubiéramos programado un algoritmo para que el robot siguiera la pared izquierda desde que entrase al laberinto hasta que saliese -como hicieron la mayoría de los equipos-, ese error de lectura nos hubiera dado igual: teníamos que entrar a ese pasillo de todas formas y al salir hubiéramos retomado el camino de la salida sin mayores contratiempos.
+
+Aquello ya no tenía solución. Lo hecho, hecho estaba. De nada servía lamentarse por lo que podría haber pasado si hubiéramos sido un poco más conservadores y no hubiéramos querido arriesgar. Nos quedábamos con la desagradable sensación de que era un error ajeno a nosotros (el código que habíamos implementado ya había demostrado que funcionaba en la vuelta anterior), que en un día más nublado o a otra hora del día en la que el sol no hubiera dado directamente no nos hubiera afectado. Pero no teníamos más remedio que apechugar con ese fallo, por el que nos iban a penalizar con un "tiempo de referencia", definido en las bases de la competición literalmente como "el tiempo del último clasificado en la prueba de Laberinto I", que había sido de aproximadamente 1' 38''.
+
+Y es aquí donde se me perdonará que la narración pierda el tono más o menos neutro que venía manteniendo, para desahogarme en una crítica (constructiva, por supuesto) hacia una decisión arbitral que considero, como mínimo, poco meditada.
+
+Ciertamente, me invade un desagradable sentimiento de indignación cada vez que vuelvo a pensar en todo esto. Y es que sucedió que, a pesar de lo claro que eran las normas en ese punto, los jueces de la competición, en su infinita sabiduría que los pobres mortales no alcanzamos a comprender y escudándose únicamente en que la última norma de la competicióń decía que "las decisiones de los jueces tanto durante el desarrollo de las carreras como las referentes a la adjudicación de los premios serán inapelables", decidieron que ese tiempo no era suficiente penalización y cambiaron las reglas sobre la marcha.
+
+Decidieron revisar la prueba del Laberinto I en busca no ya del tiempo del último clasificado, sino del peor tiempo que cualquier equipo hubiera hecho en cualquiera de sus intentos. Para colmo -ironías de la vida- éramos nosotros mismos los que, en nuestro segundo intento, por un pequeño desajuste, chocamos directos contra una pared por la que fuimos deslizando poco a poco hasta llegar a la salida con un tiempo de aproximadamente 4' 03''. Curiosamente, en aquel momento fueron los propios jueces los que nos sugirieron que no retirásemos el robot e hiciéramos un intento nulo, ya que siempre era mejor salir del laberinto que no salir y aquel tiempo no iba a contar para nada y no podía perjudicarnos.
+
+Así pues, perdimos la primera posición -que habíamos ostentado hasta entonces- en favor del equipo Horus que, con un código muy simple pero muy robusto, marcaba siempre tiempos ligeramente superiores a los 25'' pero sin equivocarse ni una sola vez:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/_FbfpXr_E4I"></iframe>
+
+Desde aquí nuestra más sincera enhorabuena para ellos, pues no sólo ganaron la prueba de laberintos, sino también en la clasificación global de Cybertech, y hay que reconocer que hicieron un gran trabajo, dado que las bases de la competición establecían claramente que en la prueba de laberintos se consideraba la suma de todos los tiempos realizados y no sólo el mejor obtenido, por lo que premiaban la robustez y la fiabilidad frente a la innovación.
+
+Las desgracias nunca vienen solas, dicen. Y es cierto. Aunque en nuestro tercer intento de esta prueba volvimos a marcar un tiempo inferior a los 15'', en el último intento de la tarde el sol volvió a asomarse entre las nubes para jugarnos otra mala pasada: nuevamente intento nulo. Y las posibilidades de ganar la competición de laberintos desaparecían allí mismo frente a nuestros ojos.
+
+Lo que da verdadera rabia es que, si nos atenemos a lo que marcaban las bases de la competición, deberíamos haber descendido sólo a la segunda posición. Y esto, además, nos hubiera hecho escalar algunas posiciones también en la clasificación global de Cybertech. Sin embargo, con los cambios en las reglas y los tiempos de penalización de 4' 03'' acabamos el día cuartos de la clasificación general de la competición de Laberinto, por detrás de otros dos equipos que, aunque no habían marcado muy buenos tiempos, tampoco habían fallado en ninguno de sus intentos.
+
+Nuestro código podía fallar, es cierto. Pero de los errores se aprende. Los fallos de este año serán nuestros puntos fuertes el año que viene. Y, además, este tipo de código nos abre las puertas a seguir mejorándolo para futuras ediciones de Cybertech desde una base sólidamente verificada durante la competición de este año.
+
+Frente a un algoritmo de "seguimiento de una única pared" como el del resto de participantes, nuestro proyecto tiene la ventaja de "explorar pasillos". Es decir, nuestro robot sabe cuándo está pasando por un pasillo recto, cuándo el pasillo gira, cuándo se abren bifurcaciones y cuándo ha llegado a un pasillo cerrado y debe volver a la bifurcación anterior para tomar otro camino. Todas esas posibilidades, hasta donde hemos podido, las hemos puesto a prueba este año antes y durante la competición, lo que nos ha servido para realizar pequeñas correcciones y ajustes que nos van allanando el camino para presentar un robot cada vez más competitivo en años sucesivos.
+
+El tipo de código por el que nosotros apostamos ofrece la posibilidad de programar algoritmos de "mapeo y resolución" que son, básicamente, algoritmos que permiten al robot hacer una primera vuelta de exploración en laberintos desconocidos de antemano, en la que memoriza el camino más corto para, en las siguientes veces que recorra el mismo laberinto, poder tomar la mejor decisión en cada bifurcación que se encuentre, ahorrando muchísimo tiempo. De hecho, nosotros llegamos a programar un algoritmo de este tipo en el robot pero, por falta de tiempo para realizar suficientes pruebas y por no estar totalmente seguros de su fiabilidad, no pudimos usarlo durante la competición
+
+Llegar a implementar un algoritmo así es nuestro gran reto para el año que viene, partiendo con la ligera ventaja de tener el robot ya completamente construido y no necesitar cambios de hardware (aunque podríamos plantearnos algunos para ser todavía más competitivos) y de tener, además, un programa ya suficientemente verificado de "exploración de pasillos", por lo que podremos centrar todos nuestros esfuerzos en desarrollar el código de "mapeo y resolución".
+
+El camino hasta llegar a parecernos siquiera lo más mínimo a los robots más punteros de resolución de laberintos es largo, desde luego:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/76blllun09Q"></iframe>
+
+Pero estamos dispuestos a recorrerlo. Despacio, avanzando poco a poco y con seguridad.
+
+=Preparando el día de las finales=
+----
+
+Así es: las pruebas del miércoles habían terminado, pero a nosotros nos quedaban aún largas horas de intenso trabajo. Tras el duro revés sufrido, sólo queda levantarse y seguir luchando. Las condiciones del polideportivo en el que tenía lugar la competición no eran las mismas que habíamos tenido en casa durante nuestros ensayos preliminares: el sol podía dar directamente en los sensores y provocar medidas erróneas, el suelo estaba bastante lleno de polvo y hacía que las ruedas derrapasen con facilidad, y un largo etcétera de detalles que podían influir notoriamente en nuestros resultados.
+
+Así que, nada más terminar las pruebas del día y sin tiempo para descansar, nos pusimos manos a la obra con algunos cambios de última hora. Mientras la mayoría de la gente, compañeros, familiares y amigos se iban tranquilamente a ver el Madrid-Barça, nuestra devoción y sacrificio personales por el equipo alcanzó su máxima expresión haciendo oídos sordos a tales tentaciones para seguir centrados en el trabajo que teníamos con el robot. Quedaba aún el gran día de las finales por disputarse, y queríamos estar al máximo nivel y preparados para todo.
+
+En primer lugar, para el laberinto implementamos un control tipo PID muy similar al que usábamos en la prueba de rastreadores, que nos ayudase a mantener el robot más estable y centrado en los pasillos, incluso cuando la suciedad hiciera que las ruedas empezasen a derrapar. Además, incluimos en el setup inicial del robot unas cuantas líneas para que él decidiera aleatoriamente, antes de empezar el laberinto, si iba a explorar primero pegado a la pared derecha o a la izquierda.
+
+Como la última prueba del laberinto era con un recorrido que ningún equipo podía conocer de antemano y no habíamos podido probar suficientemente las funciones de "mapeo y resolución", tuvimos que implementar el código más estable y verificado. Mediante la elección aleatoria de qué pared explorar primero maximizábamos la probabilidad de explorar al menos una vez por el camino más corto.
+
+Los cambios del rastreador, por contra, fueron algo más profundos, incluyendo parte del hardware. Y es que, después de la mala pasada que nos había jugado el sol en la última prueba de laberintos, no queríamos confiar todo el éxito de la prueba a que los sensores de distancia frontal (empleados en las carreras del día siguiente para adelantar a otros vehículos más lentos y evitar obstáculos) funcionasen como es debido.
+
+Así que decidimos sustituirlos por un par de finales de carrera en la parte frontal, que avisaran de la presencia de otro coche y obstáculo en la pista por contacto para activar las subrutinas de cambio de carril y adelantamiento:
+
+<figure class="picture rotate_cw_1"><img src="/uploads/users_peque_cybertech-2011_Limit_switchs.jpg" alt="Robot 4271 con finales de carrera" /><figcaption>Detalle de los finales de carrera</figcaption></figure>
+
+Obviamente, esto nos hacía perder tiempo, pero resultaba infinitamente más fiable y no queríamos volver a arriesgarnos.
+
+=Segundo día de la competición=
+----
+
+Llegábamos así al segundo y último día de competición: 28 de abril, el día de las finales. Tras casi 14 horas de pie el día anterior reajustando, reprogramando y probando el robot entre lo que duró la competición y todo lo que tuvimos que seguir trabajando después, los ánimos comenzaban a flaquear un poco. Pero, haciendo un esfuerzo sobrehumano, el jueves volvimos a madrugar y, habiendo dormido apenas 4 horas, nos plantamos a primera hora en el polideportivo otra vez, para terminar de verificar todo y asegurarnos de que esta vez no íbamos a tener sorpresas.
+
+Las caras por la mañana eran todo un poema, todos con la mirada perdida en el infinito esperando a que nos abrieran. En parte por el sueño y el cansancio acumulados, en parte por la desilusión del día anterior en las pruebas de laberinto y en parte por los nervios por las pruebas que aún teníamos por delante y en las que no queríamos volver a fallar.
+
+No obstante, y a pesar de todos los males y preocupaciones, logramos sobreponernos al desánimo y dar lo mejor de nosotros hasta el final.
+
+<h3>Primera prueba de la mañana: Rastreadores III</h3>----
+
+Se trataba, nuevamente, de una prueba descalificatoria. En un circuito cerrado, con dos carriles paralelos, idéntico al que se iba a usar en las carreras de por la tarde, tenías que demostrar la capacidad de tu robot de sortear obstáculos fijos, dando una vuelta entera al circuito en menos de tres minutos:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/qKDwaHSnKcI"></iframe>
+
+La cartulina blanca que tuvimos que poner detrás de nuestro robot era para que cualquier otro coche que corriera con nosotros en la última prueba, en caso de alcanzarnos, nos identificase como un obstáculo y nos sortease en vez de seguir empujándonos. Aunque, sinceramente, no esperábamos ir tan mal como para que tuvieran que adelantarnos los demás competidores. Suponía una ligera desestabilización por añadir peso en la parte trasera, pero luego resultó actuar como un contrapeso excelente y con pequeños ajustes en el control PID volvimos a ser plenamente competitivos.
+
+Esta prueba, aparentemente sencilla, dio algunos problemas a bastantes equipos (especialmente a aquellos que mantenían sensores de distancia para detectar obstáculos), por lo que los jueces decidieron quitar algún obstáculo y ponerlos sólo en tramos rectos para que todos los equipos pudieran superarla, en aras de mantener la competitividad de cara a la gran final que iba a disputarse esa misma tarde. Es cierto que hubiera estado feo que sólo tres equipos (que fuimos los que superamos esta prueba a la primera) participasen en las carreras de por la tarde. Hubiera sido una final sin demasiada competencia, lo que nunca está bien si de verdad quieres llamarlo "la gran final". No hubiera sido muy "grandiosa".
+
+De todas formas, había más intentos para poder superar la prueba, así que no hubiéramos sido sólo tres equipos ni aunque hubieran dejado los obstáculos donde estaban. Sin embargo, me hubiera parecido lógico -ya que los demás equipos se enfrentaron a una prueba más sencilla-, dar algún tipo de bonificación por lo menos a los que la superamos con toda su dificultad en el primer intento. No es una crítica. Más bien, una sugerencia para el año que viene, por si alguno de los organizadores lee esto y está de acuerdo conmigo y quiere hacer algún ligero cambio en las reglas de la competición. Es sólo una opinión.
+
+En cualquier caso, una vez superada, estábamos ya en las semifinales, con la pole asegurada. Incluso aunque en las finales lo más lógico es que fuéramos segundos en la parrilla de salida, eso también nos aseguraba vía libre por delante en un carril sin coches a la vista. Así que no podíamos quejarnos, pues no nos podía haber ido mejor.
+
+<h3>Segunda prueba de la mañana: Laberinto III</h3>----
+
+Para esta prueba, los jueces recogieron todos los robots de todos los participantes antes de montar el laberinto en el que íbamos a competir. Así, nadie podía programar su robot para coger desde el primer momento el camino más corto. De hecho, para asegurarse de que nadie hacía ningún tipo de trampas, eran los propios jueces los únicos que podían tocar el robot para encenderlo y colocarlo a la entrada del laberinto o recogerlo a la salida y apagarlo.
+
+Como ningún equipo tenía implementadas las funciones de "mapeo y resolución", el simple hecho de ser nosotros los únicos que habíamos programado el robot para, aleatoriamente, ir unas veces explorando por la derecha y otras por la izquierda ya nos daba una cierta ventaja. Fuera como fuera el laberinto, teníamos bastantes posibilidades de, en al menos uno de los tres intentos, escoger el lado más favorecido.
+
+Para la clasificación general, de nuevo, se tenía en cuenta la suma de los tiempos conseguidos por cada equipo en cada uno de sus intentos. Eso dejaba la clasificación general en función de ocho tiempos para cada equipo: el mejor tiempo obtenido en Laberinto I, la suma de los cuatro tiempos de Laberinto II (que era la prueba que más peso tenía) y la suma de los tres tiempos de Laberinto III. Con este tipo de clasificación y con las penalizaciones del día anterior estaba claro que no podíamos aspirar a la primera posición. Pero eso no quitaba para intentar hacerlo lo mejor posible y, a ser posible, escalar algún puesto y llegar a conquistar alguno de los premios que había en juego.
+
+Esta vez no hubo sorpresas desagradables (seguramente tuvo bastante que ver que la prueba se disputase por la mañana y el sol no diera en esa parte del polideportivo) y nuestros tres recorridos salieron perfectos. Uno por la derecha, otro por la izquierda y el último por la derecha otra vez:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/-hgpfZo0CwE"></iframe>
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/FjY6wt62vOk"></iframe>
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/P7NxhPuWqV8"></iframe>
+
+En este caso, se ve claramente que explorar por la derecha era más rápido que por la izquierda. Una vez más, al igual que ocurriera en el Laberinto I y en el Laberinto II, volvimos a marcar el tiempo más rápido de toda la prueba: menos de 25''. El equipo Horus, por ejemplo, que sólo exploraba por la izquierda, tardó en todos sus intentos alrededor de los 29'' (lo mismo, más o menos, que nosotros en el segundo intento, cuando también exploramos por la izquierda), por lo que quedó muy patente la ventaja que suponía tener un código y un robot flexible desde ese punto de vista, que permitiera explorar uno u otro lado indistintamente.
+
+En cualquier caso, con los tiempos de penalización por los fallos del día anterior, sólo conseguimos remontar una posición, quedando finalmente como terceros clasificados en la competición de laberinto.
+
+Sin embargo, creo que todos nos llevamos un cierto sentimiento de "victoria moral". Y os prevengo de que aquí me voy a dejar llevar un poco por el orgullo y es incluso posible que llegue a pecar de pretencioso, pues yo, camuflado entre el público con la cámara, no hacía más que oír a mi alrededor comentarios de alabanza y admiración hacia nuestro robot, que era sin duda el que más expectación despertaba de cuantos tomaron parte en la competición. Es un detalle que, aunque no sirva para nada, creo que demuestra que estamos haciendo las cosas bien: vamos por buen camino, en mi opinión.
+
+El caso es que al final nos quedamos con una agridulce medalla de bronce que, si bien no es lo que esperábamos conseguir, no deja de ser un buen resultado.
+
+<h3>La prueba de la tarde: Rastreadores IV</h3>----
+
+Y llegamos así a la última prueba de la competición. Las carreras de rastreadores. Por nuestro tiempo en la prueba de Rastreadores II, salíamos en la pole de una de las semifinales:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/yED42ABW1Sk"></iframe>
+
+Dos vueltas al mismo circuito de la prueba de Rastreadores III, pero adelantando a otros vehículos además de obstáculos fijos. Superada sin problemas, aunque por un momento pareció que nos íbamos a quedar enganchados detrás de otro participante al que íbamos a doblar.
+
+Curiosamente, la otra semifinal dio algunos problemillas más. El claro favorito, aquél que sólo competía en rastreadores y no en laberintos, que obviamente salía desde la pole, tuvo serios problemas la primera vez, al igual que el equipo Horus, que salía el primero del otro carril:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/UkjNSVMzAEs"></iframe>
+
+De hecho, ningún equipo terminó esa semifinal, así que hubo que repetirla. Cosas de las bases, que a mí no me parecen muy lógicas, pero ahí están y no se pueden discutir. Tal vez habría que replantearse reescribir ligeramente las normas para el año que viene, porque el hecho de repetir una semifinal si no acaban al menos dos equipos es dar más oportunidades a unos equipos que a otros. A nosotros no nos afectaba, pues ya estábamos clasificados para la final; pero, ¿y los demás equipos? ¿Por qué los de esa semifinal tuvieron más de una oportunidad mientras que, por ejemplo, los dos equipos que terminaron últimos de nuestra semifinal no tuvieron derecho a repetirla? Al fin y al cabo, ellos terminaron. ¿No se supone que es mejor terminar -aunque sea despacio- que no terminar? ¿No hubiera sido mejor, entonces, tener previsto algún otro sistema de repesca que diera las mismas oportunidades a todos los equipos que no estuvieran ya clasificados para la final? Es sólo una sugerencia.
+
+El caso es que la semifinal se repitió, como si nadie hubiera tomado la salida. Y esta vez sólo uno terminó, y no fue ninguno de los favoritos:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/VDKyR1_ZPbA"></iframe>
+
+Así que hubo que volver a repetirla: más oportunidades para los mismos. ¿No os parece un poco excesivo? Y esta vez ya sí, el gran favorito consiguió su plaza en la final absoluta de la prueba de rastreadores, aunque le hicieron salir en última posición de la parrilla de salida, para compensar que había tenido muchas más oportunidades que el resto (y tiempo para reajustar su robot entre una oportunidad y otra) para hacerse con esa plaza:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/-Q9UxmIc8G4"></iframe>
+
+En la final, sin embargo, los dos coches más lentos le taparon el paso durante un buen rato, por lo que sacamos una buena ventaja, hasta que llegaron los doblados:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/qJGWcsrxf30"></iframe>
+
+Un mal adelantamiento, en una curva muy cerrada, y nuestro robot no es capaz de recuperar la línea para seguir la carrera. Descalificados. Tan cerca de la medalla de oro como estábamos y desapareció de golpe. Es más, al haber sido los primeros descalificados, a pesar de que habíamos ya doblado a un coche, no quedamos ni siquiera en el podio: cuartos al final, a pesar de no haber fallado hasta aquel momento ni una sola vez. Es uno de esos instantes en los que piensas en la Fórmula 1 y te preguntas por qué aquí no hay banderas azules. Con lo bien que hubiera estado que los doblados hubieran tenido que apartarse.
+
+El gran favorito acabó ganando y me pregunto yo (de nuevo, no con ánimo de criticar, sino como sugerencia para, tal vez, cambiar un poco las reglas para años venideros), ¿por qué puedes fallar dos veces seguidas en dos semifinales y acabar ganando la competición mientras que si fallas una única vez pero es en la final te quedas cuarto y no hay más que hablar? ¿No parece un poco injusto que unos coches tengan tantas oportunidades y otros no?
+
+Curiosamente, un rato después acabaron descalificando al ganador por no haberse presentado a la prueba del laberinto, por considerar que eso le daba una ventaja injusta en la prueba de rastreadores. Y digo yo (por seguir con esta serie de preguntas que intentan invitar a la reflexión de los organizadores, para ver si entre todos vamos mejorando no sólo la competencia, sino también la competición de cara al año que viene), ¿para qué le dejaron participar, entonces? Ya sabían desde el primer día que no participaba en el laberinto. Y a pesar de eso le dejaron competir para luego descalificarlo. De hecho, no sólo le dejaron competir: tuvo la oportunidad de intentar superar la prueba de su semifinal no una, ni dos, sino tres veces seguidas. Lo único que consiguieron de este modo es que otro equipo que podría haberse clasificado para la final aunque tuviera peor tiempo se quedase fuera. Y, visto lo visto, en la final cualquier cosa podría haber sido y, ¿por qué no? Ese equipo podría haberse hecho con algún premio importante. Lo que quiero decir es que o lo descalificas y no le dejas competir o, si le dejas competir, no lo descalificas. El esperar a ver los resultados de la competición para tomar la decisión no es justo para nadie: ni para el descalificado ni para el resto.
+
+El caso es que el ganador de la competición acabó descalificado. Así que nos subieron un puesto a todos y acabamos terceros de esta competición también. Nuevamente medalla de bronce y nuevamente con sabor agridulce: no está mal, pero estuvimos demasiado cerca de ganar el oro como para no quedarnos ligeramente decepcionados con el resultado final.
+
+=Entrega de premios=
+----
+
+<h3>Premio al mejor diseño tecnológico</h3>----
+
+El gran favorito de las carreras de rastreadores, por contra, fue el ganador del premio al diseño tecnológico. Sencillamente, un "premio al diseño tecnológico" suena lo suficientemente ambiguo como para que se lo den a cualquiera. Nadie explicaba realmente qué era lo que se iba a valorar para conceder ese premio. Pero lo cierto es que no vi a ningún juez -ni a los organizadores- preguntando, investigando o haciendo por enterarse de qué tecnología, qué algoritmos o qué herramientas de diseño había usado cada equipo. ¡Incluso la prensa preguntó sobre estos detalles a los equipos participantes!. Tal vez ese premio le correspondiera realmente a quien lo ganó, pero en ese caso creo que deberían haber explicado, al menos mínimamente, por qué su robot lo merecía.
+
+<h3>Clasificación global</h3>----
+
+Y así llegamos ya al final de Cybertech, en el que se proclama el campeón absoluto. Para determinarlo, se empleaba un sistema de puntos que se nos comunicó a los equipos el primer día de la competición (un poco más de antelación tampoco hubiera estado mal, para qué nos vamos a engañar), por el que cada uno de los doce equipos iban sumando puntos según su resultado en la clasificación general de cada una de las competiciones de Laberinto y Rastreadores:
+
+<table><caption>Sistema de puntuación</caption><thead><tr><th>Clasificación</th><th>Puntos</th></tr></thead><tbody><tr><td>1</td><td>25</td></tr><tr><td>2</td><td>20</td></tr><tr><td>3</td><td>16</td></tr><tr><td>4</td><td>13</td></tr><tr><td>5</td><td>11</td></tr><tr><td>6</td><td>10</td></tr><tr><td>7</td><td>9</td></tr><tr><td>8</td><td>8</td></tr><tr><td>9</td><td>7</td></tr><tr><td>10</td><td>6</td></tr><tr><td>11</td><td>5</td></tr><tr><td>12</td><td>4</td></tr></tbody></table>Nosotros, con dos medallas de bronce en las competiciones de Laberinto y Rastreadores, quedamos terceros también de la clasificación global de Cybertech. Tres terceros puestos, al final, que no parece tampoco nada del otro mundo. Pero hay un detalle que cabría mencionar: fuimos el único equipo que recibió premio en las tres categorías (Competición de Laberinto, Competición de Rastreadores y Clasificación Global), y eso creo que es de valorar.
+
+En mi opinión, creo que se podría premiar un poco más la regularidad, porque con este sistema de puntuación se valoraba más, por ejemplo, hacer 1º + 8º (33 puntos) a pesar de que ser el 8º de 12 equipos es un resultado bastante malo, que hacer 3º + 3º (32 puntos) que son resultados mucho más constantes. En la Fórmula 1, por ejemplo, desde el año 2003 ya se premia más un 3º + 3º que un 1º + 8º en dos carreras. Pero bueno, así eran las normas y nosotros no podíamos cambiarlas.
+
+Al final los resultados no fueron tan malos, si tenemos en cuenta que es nuestro primer año participando en Cybertech. Tenemos ya la vista puesta en la edición del próximo año, en la que tendremos como gran objetivo general mejorar los resultados de este año. Viendo lo rápido que va subiendo el nivel de todos los equipos participantes de unos años a otros, seguro que no será una tarea sencilla.
+
+=Enlaces=
+----
+
+<ul><li><a href="../building/" title="Detalles de la construcción del robot">Detalles de construcción</a></li><li><a href="../code/" title="Documentación sobre el código utilizado">Detalles del código</a></li></ul>

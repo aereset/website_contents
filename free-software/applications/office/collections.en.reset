@@ -1,0 +1,13 @@
+% TITLE=Office
+% SUBTITLE=Applications for creating documents or managing data
+% DESCRIPTION=Know some great free software applications for managing collections (books, CD's, films, comics, wines, etc)
+% KEYWORDS=reset, applications, office, collection
+=Collection managers=
+==Books, CD's, films, comics, wines, etc.==
+----
+
+<dl class="app"><dt class="app_name">Tellico</dt><dd class="app_img"><img src="/uploads/apps_tellico.png" alt="Tellico" /></dd><dd class="app_desc">Tellico makes it easy to track your books, videos, music, even your wine and anything else. A simple and intuitive interface shows cover images, groupings, and any detail you want. Grab information from many popular Internet sites, including IMDB.com, Amazon.com, and most libraries.
+
+</dd><dd class="app_feat"><ul><li>Imports and exports many file formats: MODS, Bibtex, ONIX, HTML, PilotDB, RIS, CSV, PDF metadata and more.</li><li>Supports default and user-defined custom collections.</li><li>Imports information directly from Amazon.com (US, Japan, Germany, United Kingdom, France, and Canada), IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, and many other data sources.</li></ul>
+
+</dd><dd class="app_link"><a href="http://tellico-project.org/" title="">http://tellico-project.org/</a></dd></dl>

@@ -1,0 +1,68 @@
+% TITLE=Empezando con Linux
+% SUBTITLE=Primeros pasos en Ubuntu
+% DESCRIPTION=First steps in Ubuntu
+% KEYWORDS=reset, workshop,gnu-linux,free-software
+<section id="content">=Introducción=
+----
+
+Bien, ya has instalado Ubuntu, ¿y ahora qué?. Reset te enseña cómo manejar, configurar y conocer el potencial de esta distribución GNU/Linux. 
+
+<p class="centered"><img src="/uploads/pool_tux_matrix_group.png" alt="tux_matrix_group.png"/>
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/dq4Oj5quskI"></iframe>
+
+Puedes ver cómo funciona el nuevo Ubuntu. Es fácil y potente al mismo tiempo. 
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/brJw8ydJA94"></iframe>
+
+¿A qué estás esperando? 
+
+=Contenidos=
+----
+
+<ul><li>Empezando con el nuevo escritorio.<ul></ul>
+
+</li><li>Configuración del sistema.<ul></ul>
+
+</li></ul>
+
+<ul><li>Instalar y desinstalar programas.<ul></ul>
+
+</li><li>Aplicaciones libres.<ul></ul>
+
+</li></ul>
+
+<ul><li>Cómo funciona el sistema: kernel, jerarquía del sistema de archivos...<ul></ul>
+
+</li><li>Siente el poder: Terminal.<ul></ul>
+
+</li></ul>
+
+<ul><li>Si tienes alguna sugerencia o quieres saber más sobre algún tema en particular por favor contacta con nosotros.<ul></ul>
+
+</li></ul>
+
+=Lo que necesitas=
+----
+
+<ul><li>Ubuntu: puedes o bien traer tu portátil si ya has instalado Ubuntu o utilizar alguno de los ordenadores disponibles en el taller. Te recomendamos que utilices tu propio ordenador ya que la versión de Ubuntu instalada en los otros está desactualizada.<ul></ul>
+
+</li><li>Envía un email a aereset@gmail.com diciéndonos que vas a venir.<ul></ul>
+
+</li></ul>
+
+=Cuándo y dónde=
+----
+
+??? Lo sentimos, el último taller de "Starting with Linux" fue el <strong>2 de Noviembre del 2011</strong>. Nuestros talleres normalmente tienen lugar una vez al año y entorno a las mismas fechas.
+
+¡Estate atento para eventos futuros!
+
+<!--=Recursos=
+----
+
+Puedes encontrar recursos y fotografías de este taller visitando <a href="ftp://reset.etsii.upm.es/workshops/starting-with-linux/" title="Directorio FTP del taller Starting with Linux">nuestro directorio FTP</a>.
+
+--><aside class="workshop_tags"><ul><li><a href="/es/workshops/categories/gnu-linux/" title="Busca por categoría">gnu-linux</a></li><li><a href="/es/workshops/categories/free-software/" title="Busca por categoría">free-software</a></li></ul>
+
+</aside><footer>

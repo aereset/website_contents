@@ -1,0 +1,77 @@
+% TITLE=Fedora
+% SUBTITLE=Después de la instalación
+% DESCRIPTION=Proceso de post-instalación: actualización del sistema, instalación de RPM Fusion, Flash Player, códecs, controladores propietarios y software utilizado habitualmente...
+% KEYWORDS=reset, distribución, fedora, post-instalación, trucos, configuración, controladores, drivers
+=Actualizando tu sistema=
+----
+
+Una vez has instalado la distribución de Fedora en tu disco duro y has arrancado tu sistema, probablemente desees tener algunos programas y códecs disponibles.
+
+Siempre, después de instalar una nueva distribución en tu ordenador, deberás asegurarte de que el sistema se encuentra actualizado, así que tendrás que utilizar la herramienta gráfica de Actualización del Sistema (busca por "actualiza" en el menú de aplicaciones) o bien ejecutar el siguiente comando en la terminal:
+
+<code class="terminal">su -c 'yum update -y --skip-broken'</code>
+
+?? <strong>Importante:</strong> Tras esta actualización, deberías reiniciar el ordenador.
+
+=Repositorios RPM Fusion=
+----
+
+? Puedes saltarte este paso si has instalado la distribución Reset basada en Fedora.
+
+Fedora no viene con una gran cantidad de software propietario comúnmente utilizado como Flash, códecs MP3, etc.. En caso de que quieras hacer uso de este software, deberás habilitar los repositorios RPM Fusion en tu sistema.
+
+Para hacerlo, descarga e instala los siguientes paquetes:
+
+<ul><li><a href="http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm">RPM Fusion free</a></li><li><a href="http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm">RPM Fusion non-free</a></li></ul>
+
+O simplemente ejecuta el siguiente comando en la terminal:
+
+<code class="terminal">su -c 'yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm'</code>
+
+Tras esto, deberás actualizar el sistema como en el primer paso, utilizando la interfaz gráfica o la terminal de nuevo:
+
+<code class="terminal">su -c 'yum update -y'</code>
+
+=Flash Player=
+----
+
+? Puedes saltarte este paso si has instalado la distribución Reset basada en Fedora.
+
+Aunque Flash Player acabará siendo innecesario en el futuro, probablemente aún lo necesites para, por ejemplo, reproducir algunos vídeos de Youtube que todavía no sean compatibles con HTML5.
+
+En primer lugar, necesitarás importar el repositorio de Adobe Flash Player a tu sistema. Para hacerlo, dirígete a la <a href="http://get.adobe.com/es/flashplayer/" title="Descarga Adobe Flash Player">página de descarga de Adobe Flash Player</a> y selecciona la opción de "<em>YUM for Linux (YUM)</em>" para descargar e instalar el paquete.
+
+De ahora en adelante, utilizaremos la terminal, ya que es una solución más rápida. Abre una terminal (busca por "terminal" en el menú de aplicaciones) y ejecuta el comando siguiente para instalar Flash Player en tu sistema:
+
+<code class="terminal">su -c 'yum install -y flash-plugin'</code>
+
+¡Simplemente cierra tu navegador, ábrelo de nuevo y disfruta!
+
+?? <strong>Nota:</strong> Si quieres que Flash Player te funciones en Google Chrome o Chromium, sigue las instrucciones en la <a href="http://fedoraproject.org/wiki/Flash#Installing_the_plugin_on_Chrome" title="Instrucciones para habilitar Flash Player en Google Chrome o Chromium">Wiki de Fedora</a>.
+
+=Códecs y complementos=
+----
+
+? Puedes saltarte este paso si has instalado la distribución Reset basada en Fedora.
+
+Ahora que ya has instalado los repositorios RPM Fusion en tu sistema, podrás instalar una gran cantidad de códecs para reproducir audio y vídeo, para trabajar con archivos .rar, etc..
+
+Si quieres tener todo instalado, sencillamente ejecuta el comando siguiente en una terminal:
+
+<code class="terminal">su -c 'yum install -y lxsplit p7zip p7zip-plugins unrar ffmpeg gstreamer-ffmpeg gstreamer-plugins-bad gstreamer-plugins-bad-free gstreamer-plugins-bad-nonfree gstreamer-plugins-bad-extras gstreamer-plugins-ugly gstreamer-plugins-base gstreamer-plugins-good gstreamer-plugins-schroedinger xine-lib-extras-nonfree xine-lib xine-lib-extras-freeworld'</code>
+
+=Programas comúnmente utilizados=
+----
+
+? Puedes saltarte este paso si has instalado la distribución Reset basada en Fedora.
+
+Reset te recomienda instalar algunos programas comúnmente utilizados, que tal vez puedas necesitar en un futuro próximo. Para instalar nuestros programas recomendados, abre una terminal y ejecuta:
+
+<code class="terminal">su -c 'yum install -y gnome-shell-extensions-alternative-status-menu gnome-tweak-tool gimp gimp-data-extras inkscape mypaint empathy telepathy-sofiasip telepathy-butterfly telepathy-farsight telepathy-gabble telepathy-idle tucan firefox transmission-gtk youtube-dl evince evince-djvu evince-dvi libreoffice-base libreoffice-calc libreoffice-draw libreoffice-impress libreoffice-math libreoffice-writer libreoffice-graphicfilter  libreoffice-ogltrans libreoffice-presentation-minimizer pdfshuffler pdfmerge tellico gparted alacarte wine cheese brasero brasero-nautilus sound-juicer rhythmbox vlc openshot'</code>
+
+=Más cosas para hacer=
+----
+
+Tras seguir esta guía de post-instalación, estarás preparado para utilizar tu sistema para casi cualquier tarea sin tener ningún problema. De todos modos, si tienes tiempo para ello, tal vez quieras echar un vistazo a los enlaces siguientes:
+
+<ul><li><a href="/es/free-software/distributions/fedora/tips-and-tricks/" title="guía de trucos y consejos para Fedora">Fedora tips and tricks guide</a></li><li><a href="/es/free-software/distributions/fedora/faq/" title="preguntas más frecuentes con Fedora">Fedora frequently asked questions</a></li></ul>

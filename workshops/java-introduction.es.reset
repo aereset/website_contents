@@ -1,0 +1,92 @@
+% TITLE=Introducción a Java
+% SUBTITLE=¡Aprende a programar con este lenguaje orientado a objetos!
+% DESCRIPTION=Learn how to program with this Object Oriented Language!
+% KEYWORDS=reset, workshop,programming
+<section id="content">=Introducción=
+----
+
+¿Sabes lo que es la programación?¿Has hecho tus primeros intentos, pero necesitas prácticas de más alto nivel? ¡Aprende Java!
+
+Con este curso de introducción, aprende programación orientada a objetos y explora un nuevo mundo en las aplicaciones software.
+
+Este es el primer paso para, por ejemplo, empezar a programar en Android. ¿A qué estás esperando?
+
+<p class="centered"><img src="/uploads/pool_java_logo.png" alt="java_logo.png"/>
+
+? Este taller está relacionado con el <a href="http://reset.etsii.upm.es/en/projects/tiloom/">concurso Environmesh</a> y es impartido totalmente gratis.
+
+=Contenidos=
+----
+
+
+
+==Índice==
+<ul><li>Programación orientada a objetos.<ul></ul>
+
+</li><li>Java IDEs: Eclipse y Netbeans.<ul></ul>
+
+</li></ul>
+
+<ul><li>Estructura del programa y sintaxis.<ul></ul>
+
+</li><li>Clases y objetos.<ul></ul>
+
+</li></ul>
+
+<ul><li>Encapsulamiento y visibilidad.<ul></ul>
+
+</li><li>Herencia.<ul></ul>
+
+</li></ul>
+
+<ul><li>Sobrecarga.<ul></ul>
+
+</li><li>Polimorfismo.<ul></ul>
+
+</li></ul>
+
+<ul><li>Interfaces.<ul></ul>
+
+</li></ul>
+
+==Recursos==
+<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/java/java_introduction.pdf">Presentación</a><ul></ul>
+
+</li><li><a href="http://www.java.com">Java Sitio Oficial</a><ul></ul>
+
+</li></ul>
+
+<ul><li><a href="http://www.eclipse.org">Eclipse IDE</a><ul></ul>
+
+</li></ul>
+
+
+
+=Lo que necesitas=
+----
+
+<ul><li>Un ordenador: puedes traer tu portátil o utilizar los que tenemos en el taller.<ul></ul>
+
+</li><li>Un IDE. te permite escribir y compilar proyectos Java. Nosotros vamos a utilizar Eclipse.<ul></ul>
+
+</li></ul>
+
+<ul><li>Envía un email a aereset@gmail.com diciéndonos que vas a venir.<ul></ul>
+
+</li></ul>
+
+=Cuándo y dónde=
+----
+
+??? Lo sentimos, el último taller de "Introduction to Java" fue el <strong>20 de marzo del 2013</strong>. Nuestros talleres normalmente tienen lugar una vez al año y entorno a las mismas fechas.
+
+¡Estate atento para eventos futuros!
+
+<!--=Recursos=
+----
+
+Puedes encontrar recursos y fotografías de este taller visitando <a href="ftp://reset.etsii.upm.es/workshops/java-introduction/" title="Directorio FTP del taller Introduction to Java">nuestro directorio FTP</a>.
+
+--><aside class="workshop_tags"><ul><li><a href="/es/workshops/categories/programming/" title="Busca por categoría">programming</a></li></ul>
+
+</aside><footer>

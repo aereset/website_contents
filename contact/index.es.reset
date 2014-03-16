@@ -1,0 +1,23 @@
+% TITLE=Contacta con Reset
+% SUBTITLE=Formulario de contacto
+% DESCRIPTION=Contacta con nuestra asociación mediante éste formulario de contacto.
+% KEYWORDS=reset, contacto, asociación, formulario, email
+<section id="content"><header class="error">=Contacta con Reset=
+==Formulario de contacto==
+=Por favor, rellena el formulario siguiente=
+----
+
+<form action="" method="post"><fieldset><legend>Formulario de contacto</legend>? <b>Importante:</b> Todos los campos son obligatorios.
+
+<div class="form_wrapper"><div class="p_data"><label for="form_contact_email">e-mail:</label><input name="email" id="form_contact_email" value="" type="email" maxlength="60" required="required" /></div><div class="i_data"><label for="form_contact_issue">Tema:</label><input name="issue" id="form_contact_issue" value="" type="text" maxlength="125" required="required" /><label for="form_contact_info">Información:</label><textarea name="contact_info" id="form_contact_info" cols="30" rows="5" required="required"></textarea></div><input type="hidden" name="type" value="contact_form" /><input type="submit" value="Enviar" /></div></fieldset></form><footer class="error"><p class="section_title">Contacta con Reset
+
+</footer></section></div><!-- Wrapper's end --><aside id="r_aside"><section class="r_aside"><h3>Noticias</h3><div class="block">=No hay noticias recientes=
+Futuros talleres y eventos serán publicados aquí, ¡estate atent@!
+
+</div></section><section class="r_aside"><h3>Colaboran</h3><div class="block"><script src="/js/collaborate.js"></script></div></section><section class="r_aside"><h3>Amigos</h3><div class="block"><script src="/js/friends.js"></script></div></section><section class="r_aside"><h3>Otros temas</h3><div class="block"><script src="/js/other_topics.js"></script></div></section></aside><footer id="w_footer"><section id="footer_lists"><div class="footer_nav" id="info_nav"><h3>Información</h3><ul class="footer_nav_left"><li><a href="/es/information/participate/" title="¡Ayúdanos con este proyecto!">¡Únete a nosotros!</a></li><li><a href="/es/information/contributors/" title="Nuestros colaboradores">Colaboradores</a></li><li><a href="/es/information/website/" title="Conoce más sobre esta página">Sobre esta página</a></li></ul>
+
+</div><div class="footer_nav" id="contact_nav"><h3>Contacto</h3><ul class="footer_nav_right"><li><a href="/es/contact/mail/" title="¡Únete a nuestras listas de correo!">Listas de correo</a></li><li><a href="/es/contact/reset/" title="Contacta con nosotros a través de nuestro formulario de contacto">Contacta con Reset</a></li><li><a href="/es/contact/webmaster/" title="Contacta con el administrador de esta página">Contacta con el webmaster</a></li></ul>
+
+</div></section><p class="copyright">Copyright © 2010-2013 Asociación de Estudiantes Reset
+
+</footer></body></html>

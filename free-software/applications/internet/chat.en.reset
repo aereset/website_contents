@@ -1,0 +1,23 @@
+% TITLE=Internet
+% SUBTITLE=For surfing the web, and much more!
+% DESCRIPTION=Know some great free software applications for chatting
+% KEYWORDS=reset, applications, internet, chat
+=Chatting=
+==Keep in touch with other people==
+----
+
+<dl class="app"><dt class="app_name">Emesene</dt><dd class="app_img"><img src="/uploads/apps_emesene.png" alt="Emesene" /></dd><dd class="app_desc">Its goal is to replicate the functions of the official Windows Live client in a simpler, cleaner and easier to use interface.
+
+Now is not limited only to MSN but also supports GTalk and Facebook.
+
+</dd><dd class="app_feat"><ul><li>It has most features of the Windows Live Messenger client.</li><li>Highly customizable, with lots of plugins available.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.emesene.org/" title="">http://www.emesene.org/</a></dd></dl><dl class="app"><dt class="app_name">Empathy</dt><dd class="app_img"><img src="/uploads/apps_empathy.png" alt="Empathy" /></dd><dd class="app_desc">Empathy is a messaging program which supports text, voice, and video chat and file transfers over many different protocols.
+
+</dd><dd class="app_feat"><ul><li>Multi-protocol: Google Talk (Jabber/XMPP), MSN, IRC, Salut, AIM, Facebook, Yahoo!, Gadu Gadu, Groupwise, ICQ and QQ.</li><li>Voice and video call using SIP, XMPP and Google Talk.</li></ul>
+
+</dd><dd class="app_link"><a href="http://live.gnome.org/Empathy" title="">http://live.gnome.org/Empathy</a></dd></dl><dl class="app"><dt class="app_name">Mumble</dt><dd class="app_img"><img src="/uploads/apps_mumble.png" alt="Mumble" /></dd><dd class="app_desc">Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+
+</dd><dd class="app_feat"><ul><li>Low resource consumption and great voice activity detection (you can use it in a noisy environment).</li><li>Positional audio support.</li><li>Other features: recording, priority speaker</li></ul>
+
+</dd><dd class="app_link"><a href="http://mumble.sourceforge.net/" title="">http://mumble.sourceforge.net/</a></dd></dl>

@@ -1,0 +1,13 @@
+% TITLE=Sistema
+% SUBTITLE=Copias de seguridad, edición de particiones, virtualización...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para virtualización
+% KEYWORDS=reset, aplicaciones, sistema, virtualización
+=Virtualización=
+==¡Para ejecutar múltiples SO y mucho más!==
+----
+
+<dl class="app"><dt class="app_name">VirtualBox-OSE</dt><dd class="app_img"><img src="/uploads/apps_virtualbox-ose.png" alt="VirtualBox-OSE" /></dd><dd class="app_desc">VirtualBox es una potente herramienta de virtualización para x86 y AMD64/Intel64 diseñada para las empresas así como para el uso doméstico.
+
+</dd><dd class="app_feat"><ul><li>Huéspedes con 64 bits (en anfitriones de 64 bits con extensiones de CPU para la virtualización).</li><li>TRADÚCEME: NCQ support for SATA, SCSI and SAS raw disks and partitions.</li><li>Soporte para los formatos de VMware y Microsoft VHD.</li><li>Emulación de audio Intel HD e ICH9.</li><li>Muchas otras funcionalidades.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.virtualbox.org/" title="">http://www.virtualbox.org/</a></dd></dl>

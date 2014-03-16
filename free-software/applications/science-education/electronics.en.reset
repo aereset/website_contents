@@ -1,0 +1,31 @@
+% TITLE=Science and education
+% SUBTITLE=For school or university, for students and researchers...
+% DESCRIPTION=Know some great free software applications for electronics (schematic and PCB design, simulation...)
+% KEYWORDS=reset, applications, science, education, electronics, schematic, pcb, simulation
+=Electronics=
+==Schematic and PCB design, simulation...==
+----
+
+<dl class="app"><dt class="app_name">KiCAD</dt><dd class="app_img"><img src="/uploads/apps_kicad.png" alt="KiCAD" /></dd><dd class="app_desc">Kicad is an open source software for the creation of electronic schematic diagrams and printed circuit board artwork.
+
+The suite consist of a project manager, schematic editor, netlist converter, pcb designer and a gerber viewer.
+
+</dd><dd class="app_feat"><ul><li>Eeschema (schematic editor): create simple or hierarchical sheets, test if with the Electrical Rules Check tool (ERC), create netlists for Pcbnew or for Spice...</li><li>Pcbnew (PCB editor): works with 1 to 16 copper layers plus 12 technical layers (silk screen, solder mask...) and creates all the necessary files for building printed boards (GERBER files for photoplotters, drilling files and component location files). It can show a 3D view of the printed board with its components. You can also plot board layes on PostScript laser printers (for prototypes).</li><li>Both Eeschema and Pcbnew have a library manager and editor for components and footprints.</li><li>It exports to many common formats like Postscript, Scalable Vector Graphics, Gerber RS274D/X, HPGL, DXF, Excellon...</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.lis.inpg.fr/realise_au_lis/kicad/" title="">http://www.lis.inpg.fr/realise_au_lis/kicad/</a></dd></dl><dl class="app"><dt class="app_name">gEDA/gaf</dt><dd class="app_img"><img src="/uploads/apps_geda.png" alt="gEDA/gaf" /></dd><dd class="app_desc">The gEDA project has produced and continues working on a full GPL'd suite and toolkit of Electronic Design Automation tools. These tools are used for electrical circuit design, schematic capture, simulation, prototyping, and production. Currently, the gEDA project offers a mature suite of free software applications for electronics design, including schematic capture, attribute management, bill of materials (BOM) generation, netlisting into over 20 netlist formats, analog and digital simulation, and printed circuit board (PCB) layout.
+
+gEDA/gaf (gschem and friends) consists of many tools for schematic design.
+
+</dd><dd class="app_feat"><ul><li>Main features...</li><li>Main features...</li></ul>
+
+</dd><dd class="app_link"><a href="http://geda.seul.org/wiki/geda:gaf" title="">http://geda.seul.org/wiki/geda:gaf</a></dd></dl><dl class="app"><dt class="app_name">gEDA/PCB</dt><dd class="app_img"><img src="/uploads/apps_pcb.png" alt="PCB" /></dd><dd class="app_desc">The gEDA project has produced and continues working on a full GPL'd suite and toolkit of Electronic Design Automation tools. These tools are used for electrical circuit design, schematic capture, simulation, prototyping, and production. Currently, the gEDA project offers a mature suite of free software applications for electronics design, including schematic capture, attribute management, bill of materials (BOM) generation, netlisting into over 20 netlist formats, analog and digital simulation, and printed circuit board (PCB) layout.
+
+PCB is an interactive printed circuit board editor.
+
+</dd><dd class="app_feat"><ul><li>Main features...</li><li>Main features...</li></ul>
+
+</dd><dd class="app_link"><a href="http://pcb.gpleda.org/" title="">http://pcb.gpleda.org/</a></dd></dl><dl class="app"><dt class="app_name">Qucs</dt><dd class="app_img"><img src="/uploads/apps_qucs.png" alt="Qucs" /></dd><dd class="app_desc">Qucs is a circuit simulator with graphical user interface. The software aims to support all kinds of circuit simulation types, e.g. DC, AC, S-parameter, Transient, Noise and Harmonic Balance analysis. Pure digital simulations are also supported.
+
+</dd><dd class="app_feat"><ul><li>Uses FreeHDL and Icarus Verilog for VHDL and Verilog digital simulation.</li><li>The Analogue Device Model Synthesis (ADMS) package is interfaced to Qucs allowing Verilog-A compact device and circuit macromodelling.</li><li>Supports the following analogue analysis types: DC, AC, AC noise, S-parameter, S-parameter noise and transient.</li></ul>
+
+</dd><dd class="app_link"><a href="http://qucs.sourceforge.net/" title="">http://qucs.sourceforge.net/</a></dd></dl>

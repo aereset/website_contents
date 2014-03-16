@@ -1,0 +1,17 @@
+% TITLE=Juegos
+% SUBTITLE=Para pasar algo de tiempo libre
+% DESCRIPTION=Juegos más complejos
+% KEYWORDS=reset, aplicaciones, juegos, entretenimiento, estrategia
+=Estrategia=
+==Juegos más complejos==
+----
+
+<dl class="app"><dt class="app_name">0 A.D.</dt><dd class="app_img"><img src="/uploads/apps_0ad.png" alt="0ad" /></dd><dd class="app_desc">0 A.D. es un juego multiplataforma de estrategia en tiempo real sobre las batallas antiguas. En resumen, es un juego de guerra y economía basado en la historia que permite a los jugadores volver a vivir o reescribir la historia de las antiguas civilizaciones, centrándose en los años entre el 500 a.C. y el 500 d.C.. El proyecto es muy ambicioso, trayendo consigo unos gráficos 3D profesionales, un trabajo artístico detallado, excelente sonido y un motor de juego potente y flexible.
+
+</dd><dd class="app_feat"><ul><li>Civilizaciones únicas, mejora de unidades automática, guerras navales realistas.</li><li>Las unidades guarecidas serán visibles en las almenas de las estructuras o las cubiertas de los barcos, y capaces de disparar a los oponentes a su alcance.</li><li>Fidelidad en los mapas del mundo y unos gráficos increíblemente realistas.</li><li>Juego multijugador "peer to peer".</li></ul>
+
+</dd><dd class="app_link"><a href="http://wildfiregames.com/0ad/" title="">http://wildfiregames.com/0ad/</a></dd></dl><dl class="app"><dt class="app_name">Spring games</dt><dd class="app_img"><img src="/uploads/apps_spring.png" alt="Spring" /></dd><dd class="app_desc">Spring es un proyecto cuyo objetivo es crear un nuevo y versátil motor RTS. Hay varios juegos construidos para el Spring Engine. Lleva mucho tiempo aprender a jugar a los juegos Spring debido a su complejidad.
+
+</dd><dd class="app_feat"><ul><li>Juega en línea, en una red local o desconectado en modo de un jugador.</li><li>Mapas grandes y detallados en los que llevar a cabo las batallas, totalmente en 3D con terreno deformable, fuegos en los bosques, agua dinámica con efecto espejo...</li><li>Combates totalmente en 3D sobre la tierra, el mar y el aire, con trayectorias de proyectiles realistas (motor de leyes físicas).</li><li>Oponentes con IA complejos, algunos de ellos son verdaderamente buenos.</li><li>Puedes escribir tus propios scripts que te ayudarán a manejar las unidades (por ejemplo: para batallas grandes).</li></ul>
+
+</dd><dd class="app_link"><a href="http://springrts.com/" title="">http://springrts.com/</a></dd></dl>

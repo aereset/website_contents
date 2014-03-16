@@ -1,0 +1,8 @@
+% TITLE=Science and education
+% SUBTITLE=For school or university, for students and researchers...
+% DESCRIPTION=Know some great free software applications for science and education. Math, electronics, physics, chemistry, CAD...
+% KEYWORDS=reset, applications, science, education, math, electronics, physics, chemistry, CAD
+=Select any category=
+----
+
+<a class="cat" href="./math/"><dl class="cat"><dt class="cat_name">Math</dt><dd class="cat_desc">Numeric and symbolic computation, statistics, etc.</dd></dl></a><a class="cat" href="./electronics/"><dl class="cat"><dt class="cat_name">Electronics</dt><dd class="cat_desc">Schematic and PCB design, simulation...</dd></dl></a><a class="cat" href="./cad/"><dl class="cat"><dt class="cat_name">CAD</dt><dd class="cat_desc">Computer aided design</dd></dl></a>

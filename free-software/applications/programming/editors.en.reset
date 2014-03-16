@@ -1,0 +1,21 @@
+% TITLE=Programming
+% SUBTITLE=For experienced and novice programmers
+% DESCRIPTION=Know some great free software editors for writting your code
+% KEYWORDS=reset, applications, programming, editors
+=Editors=
+==Will help you while coding==
+----
+
+<dl class="app"><dt class="app_name">Geany</dt><dd class="app_img"><img src="/uploads/apps_geany.png" alt="Geany" /></dd><dd class="app_desc">Geany is a small and lightweight Integrated Development Environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
+
+</dd><dd class="app_feat"><ul><li>Lightweight IDE with many supported filetypes.</li><li>Many plugins available: LaTeX support, GDB interface, spell checker...</li><li>Other basic features: syntax highlighting, code folding, auto-completion, auto-closing tags...</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.geany.org/" title="">http://www.geany.org/</a></dd></dl><dl class="app"><dt class="app_name">KDevelop</dt><dd class="app_img"><img src="/uploads/apps_kdevelop.png" alt="KDevelop" /></dd><dd class="app_desc">It is a complete, feature-full, plugin extensible Integrated Development Environment for C/C++, PHP and other programming languages. It is based on KDevPlatform, and the KDE and Qt libraries and is under development since 1998.
+
+</dd><dd class="app_feat"><ul><li>Front-end for the GNU Compiler Collection and GNU/Debugger.</li><li>Revision control support (CVS, Subversion, Git, Mercurial, Bazaar and more) and project management for different project types.</li><li>Built-in Doxygen support.</li><li>Many basic features as code completion, class browser, syntax highlighting, automatic identation...</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.kdevelop.org/" title="">http://www.kdevelop.org/</a></dd></dl><dl class="app"><dt class="app_name">Bluefish</dt><dd class="app_img"><img src="/uploads/apps_bluefish.png" alt="Bluefish" /></dd><dd class="app_desc">Bluefish is targeted towards webdesigners, with many options to write websites and scripts.
+
+</dd><dd class="app_feat"><ul><li>Nice wizards for HTML documents.</li><li>Powerful search and replace, allowing POSIX and Perl compatible regular expressions and sub-pattern replacing.</li><li>Other basic features: in-line reference information, code folding, syntax highlighting, auto completion and auto tag closing, spell checker...</li></ul>
+
+</dd><dd class="app_link"><a href="http://bluefish.openoffice.nl/" title="">http://bluefish.openoffice.nl/</a></dd></dl>

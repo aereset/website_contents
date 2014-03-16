@@ -1,0 +1,13 @@
+% TITLE=Juegos
+% SUBTITLE=Para pasar algo de tiempo libre
+% DESCRIPTION=Ejercita tu mente
+% KEYWORDS=reset, aplicaciones, juegos, entretenimiento, lógica
+=Lógica=
+==Ejercita tu mente==
+----
+
+<dl class="app"><dt class="app_name">GNUbik</dt><dd class="app_img"><img src="/uploads/apps_gnubik.png" alt="GNUbik" /></dd><dd class="app_desc">El programa GNUbik es un puzzle interactivo para un jugador. Sí, es otra implementación del clásico juego inventado por Erno Rubik. Deberás manipular el cubo haciendo uso del ratón. En el momento en el que todas las caras lucen un único color, el juego termina.
+
+</dd><dd class="app_feat"><ul><li>Soporte para cubos de cualquier tamaño. 3 por 3 es el predeterminado.</li><li>Colores personalizados. Elige cualquier color disponible en tu sistema. Simplemente arrastra el color hasta el cubo. En lugar de colores, también puedes utilizar imágenes.</li><li>Puedes ver la solución del cubo. Puedes escribir tus propios scripts y ejecutarlos sobre el cubo.</li><li>Puedes grabar y reproducir secuencias de movimientos.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/gnubik/" title="">http://www.gnu.org/software/gnubik/</a></dd></dl>

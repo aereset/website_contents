@@ -1,0 +1,13 @@
+% TITLE=Other applications
+% SUBTITLE=Including proprietary software
+% DESCRIPTION=Know some other software that you may want to install in your computer. Including proprietary software...
+% KEYWORDS=reset, applications, proprietary, software
+=Proprietary software=
+==Prevent using it unless unavoidable cases!==
+----
+
+You may need to use some proprietary software for your work, studies, etc.. In this case, you may find that your application is already supported in GNU/Linux systems. Take a look at the following list of common used proprietary software:
+
+<ul><li>Diablo II <span class="note">*</span></li><li>Google Chrome</li><li>Maple</li><li>Matlab</li><li>Opera</li><li>Safari <span class="note">*</span></li><li>Skype</li><li>Spotify <span class="note">*</span></li><li>StarCraft II <span class="note">*</span></li><li>Oracle Virtual Box</li><li>WoW <span class="note">*</span></li></ul>
+
+?? <span class="note">*</span> Only using <a href="http://www.winehq.org/" title="Wine's website">Wine</a>.

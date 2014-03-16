@@ -1,0 +1,18 @@
+% TITLE=Cybertech 2011
+% SUBTITLE=Documentación del código
+% DESCRIPTION=Documentación sobre el código utilizado en el robot del equipo BricoGeek en la competición de Cybertech 2011.
+% KEYWORDS=reset, cybertech, 2011, bricogeek, código, git, laberinto, rastreador
+=Información sobre el código utilizado=
+----
+
+El código, siguiendo la filosofía del software libre, está alojado en SourceForge dentro del <a href="http://sourceforge.net/projects/mje-robots/" title="Enlace al proyecto MJE-Robots">proyecto MJE-Robots</a> y ha sido liberado con <a href="http://www.gnu.org/licenses/gpl-3.0.txt" title="GNU General Public License v3">licencia GPLv3</a>. Además, para facilitar el desarrollo del código, hemos empleado el <a href="http://git-scm.com/" title="Sitio web del controlador de versiones Git">controlador de versiones Git</a>:
+
+<code class="terminal">git clone git://mje-robots.git.sourceforge.net/gitroot/mje-robots/mje-robots</code>
+
+Os pedimos que compartáis cualquier mejora que realicéis sobre el código y que también nos enviéis correcciones de aquellos errores que pueda haber. Para ello, podéis poneros en contacto con el administrador del proyecto o con cualquier desarrollador (utilizando las direcciones de correo electrónico que aparecen en cada cambio registrado por el controlador de versiones).
+
+* Nota: para ayudar en la depuración del código, es recomendable montar un diodo RGB en la placa de prototipado:
+
+<figure class="picture rotate_ccw_1"><img src="/uploads/users_peque_cybertech-2011_rgb_diode.jpg" alt="Diodo RGB" /><figcaption>Diodo RGB montado sobre la placa de prototipado para facilitar la depuración</figcaption></figure>
+
+Variando los colores del diodo de unas funciones a otras, podemos saber qué es exactamente lo que está ejecutando el robot en cada momento. La ayuda que un simple diodo ofrece para la depuración de errores resulta inestimable; no hay nada peor que ver a tu robot estrellándose contra una pared una vez tras otra y no estar del todo seguro de por qué lo hace: ¿será la función de giro la que falla? ¿la de avance siguiendo una pared? ¿la resolución de un nodo que está mal programada? ¿el sensor que da una mala medida y ve paredes donde no las hay?...

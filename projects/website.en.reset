@@ -1,0 +1,85 @@
+% TITLE=Website
+% SUBTITLE=Our website is also a software project!
+% DESCRIPTION=Our website is also a software project!
+% KEYWORDS=reset, 
+=Introduction=
+----
+
+The purposes of this is:
+
+<ul><li>[DONE] Develop a fully functional website.<ul></ul>
+
+</li><li>[DONE] Enable multilingual support.<ul></ul>
+
+</li></ul>
+
+<ul><li>[DONE] Make a design according to the latest standards (X)HTML5 and CSS3 defined by the W3C.<ul></ul>
+
+</li><li>[DONE] Create a mobile friendly website.<ul></ul>
+
+</li></ul>
+
+<ul><li>Integrate a forum in the website.<ul></ul>
+
+</li><li>Integrate a user database and allow on-line content creation and editing.<ul></ul>
+
+</li></ul>
+
+<ul><li>Create a parser that writes all the static web pages, avoiding PHP for security and for faster loading and less CPU consumption.<ul></ul>
+
+</li><li>Develop a search engine for the website.<ul></ul>
+
+</li></ul>
+
+<ul><li>Have fun and learn about web development and server management!<ul></ul>
+
+</li></ul>
+
+==Contributors==
+<ul><li>Miguel Sánchez de León Peque<ul></ul>
+
+</li><li>Jesús Arroyo Torrens<ul></ul>
+
+</li></ul>
+
+? <a href="/en/contact/reset/" title="Contact us via our contact form">Join the project!</a>
+
+  =Development=
+----
+
+==JavaScript parser for content generation==
+<p class="pubdate">Date: <time>2012-09-20</time>
+
+We are developing a JavaScript parser that will locally read all website content (in &quot;WikiReset&quot; format) and generate the corresponding static content to be served.
+
+First of all, we are trying to make it parse correctly and recursively the WikiReset pages and generate the content for them. Then, we'll try to make it generate the templates files, per-page index menus, keyword listing... and who knows, maybe automatically detect words that could be links and create links out of them! :-D
+
+----
+
+==Getting rid of PHP (multilingual support)==
+<p class="pubdate">Date: <time>2012-10-01</time>
+
+This milestone is already finished. We have managed to make Apache take care of the language selection using content negotiation. The server loads a different HTML page that the parser should have already generated locally. We have also added URI rewritting rules and redirections to allow manual language modification by the user and to correctly display the selected language in the URI.
+
+<!----><!--<iframe id="images" src="http://torrent.reset.etsii.upm.es" width="100%" height="300px" scrolling="auto"></iframe>
+
+-->  =Gallery=
+----
+
+==Images==
+<p class="centered"><object width="640" height="480"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fphotos%2Faereset%2Fsets%2F72157631686653928%2Fshow%2F&page_show_back_url=%2Fphotos%2Faereset%2Fsets%2F72157631686653928%2F&set_id=72157631686653928&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=122138"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=122138" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fphotos%2Faereset%2Fsets%2F72157631686653928%2Fshow%2F&page_show_back_url=%2Fphotos%2Faereset%2Fsets%2F72157631686653928%2F&set_id=72157631686653928&jump_to=" width="640" height="480"></embed></object>
+
+==Videos==
+
+
+<p class="centered"><iframe class="youtube-player" width="640" height="480" src="http://www.youtube.com/embed/cjgiqk3NyH8"></iframe>
+
+  =Resources=
+----
+
+==Used==
+<ul><li><a href="http://www.w3.org/">W3C</a><ul></ul>
+
+</li><li><a href="http://www.apache.org/">Apache</a><ul></ul>
+
+</li></ul>

@@ -1,0 +1,111 @@
+% TITLE=Cybertech 7DD
+% SUBTITLE=¡Construye tu robot y ven a la competición!
+% DESCRIPTION=¡Construye tu robot y ven a la competición!
+% KEYWORDS=reset, cybertech, programación, c, chipkit, bases
+=Introducción=
+----
+
+Cybertech es una competición anual de robots organizada por la asociación de estudiantes <a href="http://reset.etsii.upm.es/" title="Reset website">Reset</a> y el apoyo de  <a href="http://www.disam.upm.es/" title="DISAM">División de Ingeniería de Sistemas y Automática</a>. Todo ello gracias a la <a href="http://www.etsii.upm.es/" title="ETSII website">Escuela Técnica Superior de Ingenieros Industriales</a> de la <a href="http://www.upm.es/" title="UPM website">Universidad Politécnica de Madrid</a>.
+
+Este concurso tiene dos tipos de pruebas en la <i>Categoría Classic</i>: laberinto y rastreador (siguelineas).
+
+En la primera de ellas el objetivo de los robots es entoncontrar la salida del laberinto. En la otra, los robots deben seguir un circuito de una linea pintada en el suelo. El reto aumenta al avanzar en la competición, con laberintos cada vez más complicados y obstáculos...
+
+Este año queremos abrir este concurso a estudiantes de otras universidades. Para ello hemos creado una <i>Categoría Master</i> con pruebas originales y de mayor complejidad.
+
+<!--Here is a presentation of <a href="ftp://reset.etsii.upm.es/projects/cybertech/CategoríaSenior.pdf" title="Possible Tests Senior Category">possible tests</a> of the <i>Master Category</i>.
+
+-->Puedes ver aquí la edición anterior: <a href="../cybertech12" title="Cybertech 2012">Cybertech 2012</a>
+
+?? Atención: se ha cerrado la inscripción en la Categoría Classic. Gracias por vuestro interés! <a href="http://es-es.facebook.com/photo.php?fbid=342477279184553&set=a.342477115851236.74219.143717755727174&type=1&theater" title="first_workshop">:D</a>
+
+? Si estás interesado en participar en Cybertech 7DD Master te recomendamos echar un vistazo a nuestras <a href="#Master" title="Master Category">nuevas categorías</a>.
+
+=Clasificación=
+----
+
+<table><caption>Clasificación Final</caption><thead><tr><th>Posición</th><th>Equipo</th></tr></thead><tbody><tr><td>1º</td><td>Void-Loop</td></tr><tr><td>2º</td><td>Bip!</td></tr><tr><td>3º</td><td>BlueCube</td></tr><tr><td>4º</td><td>Preset</td></tr><tr><td>5º</td><td>Guarn-e</td></tr><tr><td>6º</td><td>Scratchy</td></tr><tr><td>7º</td><td>Trasto</td></tr><tr><td>8º</td><td>Setsiis</td></tr><tr><td>9º</td><td>GoTo</td></tr><tr><td>10º</td><td>Team Rocket</td></tr><tr><td>11º</td><td>SPQRobots</td></tr><tr><td>11º</td><td>EggTech</td></tr></tbody></table>
+
+=Calendario=
+----
+
+<ul><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/Triptico_Cybertech_7DD.pdf">Tríptico de Cybertech 7DD</a></li></ul>
+
+=Bases=
+----
+
+==Classic==
+<ul><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/BasesCybertech7DD.pdf">Bases de Cybertech Classic</a></li></ul>
+
+<h4 id="the_subject">La asignatura</h4><ul><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/NormasAsignatura2013.pdf">Sobre la asignatura</a></li><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/GuíaInformedelProyectoCybertech7DD.pdf">Guía del proyecto</a></li><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/GuíaInformedelVIDEOCybertech7DD.pdf">Guía del vídeo</a></li></ul>
+
+==Master==
+<h3 id="the_forest"><i>El Bosque</i></h3><ul><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/BasesCybertech7DD_El_Bosque.pdf">Bases de El Bosque </a></li></ul>
+
+<h3 id="ball_collector"><i>Selector de Bolas</i></h3><ul><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/BasesCybertech7DD_El_Selector_de_Bolas.pdf">Bases de El Selector de Bolas</a></li></ul>
+
+<h3 id="social_robot"><i>Robot Social</i></h3><ul><li><a href="ftp://reset.etsii.upm.es/projects/cybertech/BasesCybertech7DD_Robot_Social.pdf">Bases de Robot Social</a></li></ul>
+
+<!--=Exhibición de robots=
+----
+
+¡Durante la competición, tendremos los siguientes robots corriendo, reptando, rodando o volando!
+
+<ul><li>AR Drone: pilota un quadrotor</li><p class="centered"><img src="/uploads/projects_cybertech_ar_drone.jpg" alt="ar_drone">
+
+<li>Makerbot</li><p class="centered"><img src="/uploads/projects_cybertech_makerbot.jpg" alt="makerbot">
+
+<li>ArduSnake</li><p class="centered"><img src="/uploads/projects_cybertech_ardusnake.png" alt="ardusnake">
+
+<li>Miniskybot</li><p class="centered"><img src="/uploads/projects_cybertech_miniskybot.png" alt="miniskybot">
+
+<li>RoSphere</li><p class="centered"><img src="/uploads/projects_cybertech_rosphere.jpg" alt="rosphere">
+
+<li>Retina Táctil</li><p class="centered"><img src="/uploads/projects_cybertech_retinatactil.png" alt="retina-tactil">
+
+<li>WSN Deployer</li><p class="centered"><img src="/uploads/projects_cybertech_wsn.png" alt="wsn">
+
+</ul>
+
+-->=Inscripción=
+----
+
+Envía un correo con los siguientes datos:
+
+¿Tienes un grupo? (Si/No)
+
+Si no tienes grupo:
+
+<ul><li>Nombre y apellidos</li><li>Correo.</li><li>Edad.</li><li>Experiencia en robótica y procedencia (ETSII, EUITI,Carlos III, otros, etc.)</li></ul>
+
+Si tienes un grupo (entre 2 y 5 miembros), para cada miembro:
+
+<ul><li>Nombre y apellidos</li><li>Correo.</li><li>Edad.</li><li>Experiencia en robótica y procedencia (ETSII, EUITI,Carlos III, otros, etc.)</li></ul>
+
+a:
+
+<p class="centered"><img src="/uploads/projects_cybertech_cyberio_mini.gif" alt="Cyberio" />
+
+<p class="centered"><strong>cybertech<span class="display-none">@anti-spam</span>@etsii.upm.es</strong>
+
+?? ¡En todo caso, recuerda que en el primer taller (día 30 de Noviembre a las 18.30 en el Gimnasio) se formarán los grupos, se repartirá el material y se asignarán los tutores!
+
+=Talleres=
+----
+
+Reset está llevando a cabo algunos talleres que tal vez te sean útiles para empezar a desarrollar tu robot. ¡Puedes asistir a estos talleres aunque no vayas a participar en la competición!
+
+<ul><li><a href="/es/workshops/chipkit-uno32/" title="Tallere de introducción al microcontrolador chipKIP Uno32">chipKIT Uno32</a></li><li><a href="/es/workshops/sensors-and-motors/" title="Taller de introducción a sensores y motores">Sensores y motores</a></li><li><a href="/es/workshops/soldering/" title="Taller de introducción a la soldadura">Soldadura</a></li></ul>
+
+=Contacto=
+----
+
+<table><caption>Tutores</caption><thead><tr><th>Nombre</th><th>email</th><th>Grupos</th></tr></thead><tbody><tr><td>Alejandro García Jiménez</td><td>alemandersen<span class="display-none">@anti-spam</span>@gmail.com</td><td>G8, G15</td></tr><tr><td>Ana Cabrera</td><td>ana408_<span class="display-none">@anti-spam</span>@hotmail.com</td><td>G17, G30</td></tr><tr><td>Álvaro Pérez Corral</td><td>kerumanu<span class="display-none">@anti-spam</span>@hotmail.com</td><td>G3, G21, G14</td></tr><tr><td>Elena Quesada González</td><td>lena.qgq<span class="display-none">@anti-spam</span>@gmail.com</td><td>G7, G20, G29</td></tr><tr><td>Enrique Sánchez Ocaña</td><td>e.sanchez.ocana<span class="display-none">@anti-spam</span>@gmail.com</td><td>G9, G22</td></tr><tr><td>Francisco Javier Gordillo Hualde</td><td>xav.hualder<span class="display-none">@anti-spam</span>@gmail.com</td><td>G6, G13</td></tr><tr><td>Jesús Arroyo Torrens</td><td>jesus.jkhlg<span class="display-none">@anti-spam</span>@gmail.com</td><td>G2, G19</td></tr><tr><td>Jorge Luis Arraez</td><td>jlarraez<span class="display-none">@anti-spam</span>@gmail.com</td><td>G10, G23</td></tr><tr><td>Jorge Camarero</td><td>jcamarerov<span class="display-none">@anti-spam</span>@gmail.com</td><td>G5, G28, G26</td></tr><tr><td>Juan Herrero Macías</td><td>toomuchimprevisible<span class="display-none">@anti-spam</span>@hotmail.com</td><td>G12, G24, G31</td></tr><tr><td>Juan Jesús Roldán Gómez</td><td>jj.roldan.88<span class="display-none">@anti-spam</span>@gmail.com</td><td>G1, G16, G27</td></tr><tr><td>Miguel Sánchez de León Peque</td><td>msdeleonpeque<span class="display-none">@anti-spam</span>@gmail.com</td><td>G11, G25</td></tr><tr><td>Verónica Díaz Pascual</td><td>veronica.diazpas<span class="display-none">@anti-spam</span>@gmail.com</td><td>G4, G18</td></tr></tbody></table>
+
+<table><caption>Organización</caption><thead><tr><th>Nombre</th><th>email</th></tr></thead><tbody><tr><td>Alejandro García Jiménez</td><td>alemandersen<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Francisco Javier Gordillo Hualde</td><td>xav.hualder<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Jesús Arroyo Torrens</td><td>jesus.jkhlg<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Jorge Luis Arraez</td><td>jlarraez<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Juan Herrero Macías</td><td>toomuchimprevisible<span class="display-none">@anti-spam</span>@hotmail.com</td></tr><tr><td>Verónica Díaz Pascual</td><td>veronica.diazpas<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>
+
+<table><caption>Infraestructura</caption><thead><tr><th>Nombre</th><th>email</th></tr></thead><tbody><tr><td>Coloma Mº Gili Millán</td><td>colomagm<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Francisco Javier Gordillo Hualde</td><td>xav.hualder<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Manu Gómez Trujillo</td><td>manu.gtrujillo<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Verónica Díaz Pascual</td><td>veronica.diazpas<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>
+
+<table><caption>Marketing</caption><thead><tr><th>Nombre</th><th>email</th></tr></thead><tbody><tr><td>Jesús Arroyo Torrens</td><td>jesus.jkhlg<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Jorge Luis Arraez</td><td>jlarraez<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>
+
+<!--</tbody><tr><td>Jesús Arroyo Torrens</td><td>jesus.jkhlg<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Miguel Sánchez de León Peque</td><td>msdeleonpeque<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Lucía Hernández Hernández</td><td>h_x_2_hh<span class="display-none">@anti-spam</span>@hotmail.com</td></tr><tr><td>Juan Jesús Roldán Gómez</td><td>jj.roldan.88<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Román Mansilla Martín</td><td>roman.mansilla<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Javier García Sogo</td><td>jgsogo<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Clara Casas Castedo</td><td>clara.casas.castedo<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Dani Casares Palomeque</td><td>exergy123<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Juan Herrero Macías</td><td>mystikalprophet<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody>-->

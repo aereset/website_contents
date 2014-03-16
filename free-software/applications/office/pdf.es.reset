@@ -1,0 +1,17 @@
+% TITLE=Oficina
+% SUBTITLE=Aplicaciones para la creación de documentos o gestión de datos
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para la creación y manipulación de PDF
+% KEYWORDS=reset, aplicaciones, oficina, pdf
+=Manipulación de PDF=
+==Crear, editar, reorganizar...==
+----
+
+<dl class="app"><dt class="app_name">PDF-Shuffler</dt><dd class="app_img"><img src="/uploads/apps_pdf-shuffler.png" alt="PDF-Shuffler" /></dd><dd class="app_desc">PDF-Shuffler ayuda al usuario a unir o dividir documentos PDF y a rotar, cortar y reorganizar sus páginas.
+
+</dd><dd class="app_feat"><ul><li>Interfaz gráfica interactiva e intuitiva.</li></ul>
+
+</dd><dd class="app_link"><a href="http://sourceforge.net/projects/pdfshuffler/" title="">http://sourceforge.net/projects/pdfshuffler/</a></dd></dl><dl class="app"><dt class="app_name">gscan2pdf</dt><dd class="app_img"><img src="/uploads/apps_gscan2pdf.png" alt="gscan2pdf" /></dd><dd class="app_desc">gscan2pdf es una interfaz gráfica que simplifica el proceso de creación de PDF a partir de múltiples hojas escaneadas.
+
+</dd><dd class="app_feat"><ul><li>Producción de archivos PDF o DjVu.</li><li>Soporte para reconocimiento óptico de caracteres (OCR).</ul>
+
+</dd><dd class="app_link"><a href="http://gscan2pdf.sourceforge.net/" title="">http://gscan2pdf.sourceforge.net/</a></dd></dl>

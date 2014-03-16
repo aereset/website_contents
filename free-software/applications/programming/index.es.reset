@@ -1,0 +1,8 @@
+% TITLE=Programación
+% SUBTITLE=Para programadores principiantes y experimentados
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para la programación. Editores, sistemas de control de versiones, depuradores...
+% KEYWORDS=reset, aplicaciones, programación, control de versiones, editores, depuradores
+=Selecciona alguna categoría=
+----
+
+<a class="cat" href="./editors/"><dl class="cat"><dt class="cat_name">Editores</dt><dd class="cat_desc">Te ayudarán al escribir código</dd></dl></a><a class="cat" href="./vcs/"><dl class="cat"><dt class="cat_name">Sistemas de control de versiones</dt><dd class="cat_desc">Para un mejor manejo y mantenimiento</dd></dl></a><a class="cat" href="./debuggers/"><dl class="cat"><dt class="cat_name">Depuradores</dt><dd class="cat_desc">Para encontrar qué es lo que falla</dd></dl></a><a class="cat" href="./other/"><dl class="cat"><dt class="cat_name">Otras herramientas</dt><dd class="cat_desc">Para hacer traducciones, comparar archivos...</dd></dl></a>

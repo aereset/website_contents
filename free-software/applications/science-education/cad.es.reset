@@ -1,0 +1,13 @@
+% TITLE=Ciencia y educación
+% SUBTITLE=Para el colegio o la universidad, para estudiantes e investigadores...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para el diseño asistido por ordenador (CAD)
+% KEYWORDS=reset, aplicaciones, ciencia, educación, CAD, diseño asistido por ordenador
+=CAD=
+==Diseño asistido por computador==
+----
+
+<dl class="app"><dt class="app_name">FreeCAD</dt><dd class="app_img"><img src="/uploads/apps_freecad.png" alt="freecad" /></dd><dd class="app_desc">FreeCAD es una herramienta libre de modelación 3D CAD/MCAD/CAx/CAE/PLM, enfocada a la ingeniería mecánica y el diseño de productos pero que también puede ser utilizada para otros propósitos relacionados con la ingeniería, como la arquitectura u otras modalidades.
+
+</dd><dd class="app_feat"><ul><li>Operaciones complejas sobre figuras complejas en 3D.</li><li>Arquitectura modular que permite la utilización de complementos para añadir funcionalidades al núcleo de la aplicación.</li><li>TRADÚCEME: Full parametric model allowing any type of parameter-driven custom objects, that can even be fully programmed in python.</li><li>Importación/exportación en formatos estándar como STEP, IGES, OBJ, DXF, SVG, U3D o STL.</li><li>Operaciones complejas sobre figuras complejas en 3D.</li></ul>
+
+</dd><dd class="app_link"><a href="http://sourceforge.net/apps/mediawiki/free-cad/index.php" title="">http://sourceforge.net/apps/mediawiki/free-cad/index.php</a></dd></dl>

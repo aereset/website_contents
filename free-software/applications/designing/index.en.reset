@@ -1,0 +1,8 @@
+% TITLE=Designing
+% SUBTITLE=Develop your creativity
+% DESCRIPTION=Know some great free software applications for designing. Raster and vector graphics editors, 3D design...
+% KEYWORDS=reset, applications, desinging, vector, svg, raster, 3D
+=Select any category=
+----
+
+<a class="cat" href="./raster/"><dl class="cat"><dt class="cat_name">Raster graphics editor</dt><dd class="cat_desc">For resolution-based images</dd></dl></a><a class="cat" href="./vector/"><dl class="cat"><dt class="cat_name">Vector graphics editor</dt><dd class="cat_desc">For vector-based images</dd></dl></a><a class="cat" href="./3d/"><dl class="cat"><dt class="cat_name">3D design</dt><dd class="cat_desc">Explore the third dimension!</dd></dl></a>

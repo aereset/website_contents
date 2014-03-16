@@ -1,0 +1,21 @@
+% TITLE=Programación
+% SUBTITLE=Para programadores principiantes y experimentados
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para escribir tu código
+% KEYWORDS=reset, aplicaciones, programación, editores
+=Editores=
+==Te ayudarán al escribir código==
+----
+
+<dl class="app"><dt class="app_name">Geany</dt><dd class="app_img"><img src="/uploads/apps_geany.png" alt="Geany" /></dd><dd class="app_desc">Geany es un pequeño y ligero entorno de desarrollo integrado. Se desarrolló para crear un IDE rápido y sencillo, que dependiese de sólo algunos otros paquetes.
+
+</dd><dd class="app_feat"><ul><li>IDE ligero con soporte para gran cantidad de tipos de archivo.</li><li>Muchos complementos disponibles: soporte para LaTeX, interfaz para GDB, revisor ortográfico...</li><li>Otras funcionalidades principales: resaltado de sintaxis, código plegable, terminación automática, cierre automático de etiquetas...</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.geany.org/" title="">http://www.geany.org/</a></dd></dl><dl class="app"><dt class="app_name">KDevelop</dt><dd class="app_img"><img src="/uploads/apps_kdevelop.png" alt="KDevelop" /></dd><dd class="app_desc">Es un entorno de desarrollo integrado completo, extensible y funcional para C/C++, PHP y otros lenguajes de programación. Se basa en KDevPlatform y las bibliotecas KDE y Qt y lleva siendo desarrollado desde 1998.
+
+</dd><dd class="app_feat"><ul><li>Interfaz para el compilador GCC y el depurador GNU/Debugger.</li><li>Soporte para control de versiones (CVS, Subversion, Git, Mercurial, Bazaar y más) y gestión de distintos tipos de proyectos.</li><li>Incluye soporte para Doxygen.</li><li>Muchas funcionalidades básicas como terminación automática, navegador de clases, resaltado de sintaxis, sangrado automático...</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.kdevelop.org/" title="">http://www.kdevelop.org/</a></dd></dl><dl class="app"><dt class="app_name">Bluefish</dt><dd class="app_img"><img src="/uploads/apps_bluefish.png" alt="Bluefish" /></dd><dd class="app_desc">Bluefish está especialmente pensado para diseñadores web, con una gran cantidad de opciones para escribir páginas web y scripts.
+
+</dd><dd class="app_feat"><ul><li>Asistentes que facilitan la creación de documentos HTML.</li><li>Potente función de buscar y reemplazar, permitiendo expresiones regulares compatibles con Perl y POSIX.</li><li>Otras funcionalidades básicas: información de referencia, código plegable, resaltado de sintaxis, terminación automática y cerrado automático de etiquetas, corrector ortográfico...</li></ul>
+
+</dd><dd class="app_link"><a href="http://bluefish.openoffice.nl/" title="">http://bluefish.openoffice.nl/</a></dd></dl>

@@ -1,0 +1,15 @@
+% TITLE=Diseño
+% SUBTITLE=Desarrolla tu creatividad
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para el diseño 3D.
+% KEYWORDS=reset, aplicaciones, diseño, 3D
+=Diseño 3D=
+==¡Explora la tercera dimensión!==
+----
+
+<dl class="app"><dt class="app_name">Blender</dt><dd class="app_img"><img src="/uploads/apps_blender.png" alt="Blender" /></dd><dd class="app_desc">Blender es una suite profesional y de software libre para la creación de contenidos 3D, disponible para todos los sistemas operativos más importantes.
+
+TRADÚCEME: Blender's features include advanced simulation tools such as rigid, realistic body, fluid, cloth and softbody dynamics, modifier-based modeling tools, powerful character animation tools, a node-based material and compositing system and Python for embedded scripting.
+
+</dd><dd class="app_feat"><ul><li>Organización de la ventana completamente personalizable, con tantas configuraciones como quieras.</li><li>TRADÚCEME: Very fast Catmull-Clark subdivision surfaces with optimal iso-lines display, sharpness editing and smooth soft selection editing tools for organic modeling.</li><li>Editor de animaciones no lineal para mezclar acciones individuales creadas en el editor de acciones.</li><li>TRADÚCEME: Lots of other features for modeling, rigging, rendering, animation, shading, UV unwrapping, imaging and compositing, physics and particles and realtime 3D/game creation.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.blender.org/" title="">http://www.blender.org/</a></dd></dl>

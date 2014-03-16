@@ -1,0 +1,8 @@
+% TITLE=Diseño
+% SUBTITLE=Desarrolla tu creatividad
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para el diseño. Editores de gráficos vectoriales y rasterizados, diseño 3D...
+% KEYWORDS=reset, aplicaciones, diseño, vectorial, svg, rasterizados, 3D
+=Selecciona alguna categoría=
+----
+
+<a class="cat" href="./raster/"><dl class="cat"><dt class="cat_name">Editor de gráficos rasterizados</dt><dd class="cat_desc">Para imágenes basadas en una resolución</dd></dl></a><a class="cat" href="./vector/"><dl class="cat"><dt class="cat_name">Editor de gráficos vectoriales</dt><dd class="cat_desc">Para imágenes basadas en vectores</dd></dl></a><a class="cat" href="./3d/"><dl class="cat"><dt class="cat_name">Diseño 3D</dt><dd class="cat_desc">¡Explora la tercera dimensión!</dd></dl></a>

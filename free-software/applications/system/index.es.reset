@@ -1,0 +1,8 @@
+% TITLE=Sistema
+% SUBTITLE=Copias de seguridad, edición de particiones, virtualización...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para tu sistema. Copias de seguridad, edición de particiones, virtualización...
+% KEYWORDS=reset, aplicaciones, sistema, copia de seguridad, partición, virtualización
+=Selecciona alguna categoría=
+----
+
+<a class="cat" href="./backups/"><dl class="cat"><dt class="cat_name">Copias de seguridad</dt><dd class="cat_desc">Protege tus datos</dd></dl></a><a class="cat" href="./partitions/"><dl class="cat"><dt class="cat_name">Edición de particiones</dt><dd class="cat_desc">Crear, borrar, redimensionar o mover particiones</dd></dl></a><a class="cat" href="./virtualization/"><dl class="cat"><dt class="cat_name">Virtualización</dt><dd class="cat_desc">¡Para ejecutar múltiples SO y mucho más!</dd></dl></a>

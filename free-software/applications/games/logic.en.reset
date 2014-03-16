@@ -1,0 +1,13 @@
+% TITLE=Games
+% SUBTITLE=To spend some spare time
+% DESCRIPTION=Exercise your mind
+% KEYWORDS=reset, applications, games, entertainment, logic
+=Logic=
+==Exercise your mind==
+----
+
+<dl class="app"><dt class="app_name">GNUbik</dt><dd class="app_img"><img src="/uploads/apps_gnubik.png" alt="GNUbik" /></dd><dd class="app_desc">The GNUbik program is an interactive, graphical, single player puzzle. Yes, this is another implementation of the classic game like that invented by Erno Rubik. You have to manipulate the cube using the mouse. When each face shows only one colour, the game is solved.
+
+</dd><dd class="app_feat"><ul><li>Supports cubes of any size. 3 by 3 by 3 is the default.</li><li>Custom colours. Choose any that are available to your system. Just drag and drop them to the cube. Instead of colours, you can also use images.</li><li>You can watch the cube solve itself. And you can write your own scripts and run them on the cube.</li><li>You can record and playback sequences of moves.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/gnubik/" title="">http://www.gnu.org/software/gnubik/</a></dd></dl>

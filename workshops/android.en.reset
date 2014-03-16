@@ -1,0 +1,46 @@
+% TITLE=Android Programming
+% SUBTITLE=Learn to program in the most used mobile platform!
+% DESCRIPTION=Learn to program in the most used mobile platform.
+% KEYWORDS=reset, programming, android, java, google, web, service, layout, activities, intents, SQLite
+=Introduction=
+----
+
+<img src="/uploads/pool_android_sdk_cube.png" alt="Android SDK" />
+
+? These courses are related to the <a href="http://reset.etsii.upm.es/en/projects/tiloom/" title="Environmesh contest">Environmesh contest</a> and are all imparted for free.
+
+=Workshops=
+----
+
+<dl class="app"><dt class="app_name">Session 1</dt><dd class="app_img"><img src="/uploads/pool_android_i.png" alt="gatexor" /></dd><dd class="app_desc">Introduction to Android
+
+</dd><dd class="app_feat"><ul><li>First Project</li><li>Layout</li><li>Activities</li></ul>
+
+</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/android/AndroidI.zip" title="">Resources</a></dd></dl><dl class="app"><dt class="app_name">Session 2</dt><dd class="app_img"><img src="/uploads/pool_android_ii.png" alt="transistor" /></dd><dd class="app_desc">Android II and Data Storage
+
+</dd><dd class="app_feat"><ul><li>Intents</li><li>Files</li><li>SQLite</li></ul>
+
+</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/android/AndroidII.zip" title="">Resources</a></dd></dl><dl class="app"><dt class="app_name">Session 3</dt><dd class="app_img"><img src="/uploads/pool_android_iii.png" alt="robotic arm" /></dd><dd class="app_desc">Android III and Web Services
+
+</dd><dd class="app_feat"><ul><li>Sockets</li><li>World Wide Web</li><li>Web Browser</li><li>RESTful Services</li></ul>
+
+</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/android/AndroidIII.zip" title="">Resources</a></dd></dl>=Calendar=
+----
+
+<p class="centered"><img src="/uploads/pool_android_calendar.png" alt="Android calendar" />
+
+?? The sessions will be held in the Aula F12
+
+<strong>Cheer up to participate!</strong>
+
+=What You Need=
+----
+
+<ul><li>A computer: you may bring your laptop or borrow the ones we have in the lab.</li><li>An IDE: enables you to write and build Android projects. We are going to use <a href="http://developer.android.com/sdk/index.html">Android SDK</a></li><li>Send an email to aereset@gmail.com saying that you are coming.</li></ul>
+
+
+
+=Contact=
+----
+
+<table><caption>Contact</caption><thead><tr><th>Name</th><th>email</th></tr></thead><tbody><tr><td>Reset Students' Association</td><td>aereset<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>

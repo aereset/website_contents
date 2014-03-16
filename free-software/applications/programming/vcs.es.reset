@@ -1,0 +1,23 @@
+% TITLE=Programación
+% SUBTITLE=Para programadores principiantes y experimentados
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para sistemas de control de veriones
+% KEYWORDS=reset, aplicaciones, programación, control de versiones
+=Sistemas de control de versiones=
+==Para un mejor manejo y mantenimiento==
+----
+
+<dl class="app"><dt class="app_name">Git</dt><dd class="app_img"><img src="/uploads/apps_git.png" alt="Git" /></dd><dd class="app_desc">Git es un sistema de control de versiones distribuido que hace énfasis en la velocidad de ejecución. Git fue diseñado y desarrollado en un principio por Linus Torvalds para el desarrollo del kernel de Linux.
+
+Cada copia de trabajo de Git es un repositorio con pleno derecho, una historia completa y plenas capacidades de seguimiento de la revisión, no dependiente de acceso a la red o un servidor central.
+
+</dd><dd class="app_feat"><ul><li>Desarrollo distribuido con un fuerte soporte para el desarrollo no linear.</li><li>Los repositorios se pueden publicar mediante HTTP, FTP o rsync.</li><li>Manejo muy eficiente de grandes proyectos.</li></ul>
+
+</dd><dd class="app_link"><a href="http://git-scm.com/" title="">http://git-scm.com/</a></dd></dl><dl class="app"><dt class="app_name">Mercurial</dt><dd class="app_img"><img src="/uploads/apps_mercurial.png" alt="Mercurial" /></dd><dd class="app_desc">Mercurial una herramienta de control de versiones distribuida e implementada utilizando el lenguaje de programación Python, aunque incluye una implementación de la detección de diferencias escrita en C.
+
+</dd><dd class="app_feat"><ul><li>Desarrollo distribuido con capacidades avanzadas de creación y combinación de ramas.</li><li>Conceptualmente simple.</li><li>Incluye una interfaz web integrada.</li></ul>
+
+</dd><dd class="app_link"><a href="http://mercurial.selenic.com/" title="">http://mercurial.selenic.com/</a></dd></dl><dl class="app"><dt class="app_name">Subversion</dt><dd class="app_img"><img src="/uploads/apps_subversion.png" alt="Subversion" /></dd><dd class="app_desc">Subversion no es un sistema de control de versiones distribuido. Aunque existen alternativas mejores (como los sistemas de control de versiones distribuidos), tal vez necesites trabajar con Subversion, ya que muchos proyectos empezaron y todavía siguen trabajando con él.
+
+</dd><dd class="app_feat"><ul><li>Sucesor prácticamente compatible con el más antiguo CVS.</li><li>Ampliamente utilizado en proyectos antiguos.</li></ul>
+
+</dd><dd class="app_link"><a href="http://subversion.apache.org/" title="">http://subversion.apache.org/</a></dd></dl>

@@ -1,0 +1,13 @@
+% TITLE=Science and education
+% SUBTITLE=For school or university, for students and researchers...
+% DESCRIPTION=Know some great free software applications for computer aided design (CAD)
+% KEYWORDS=reset, applications, science, education, CAD, computer aided design
+=CAD=
+==Computer aided design==
+----
+
+<dl class="app"><dt class="app_name">FreeCAD</dt><dd class="app_img"><img src="/uploads/apps_freecad.png" alt="freecad" /></dd><dd class="app_desc">FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler, aimed directly at mechanical engineering and product design but also fits in a wider range of uses around engineering, such as architecture or other engineering specialties.
+
+</dd><dd class="app_feat"><ul><li>Complex 3D operations on complex shape types.</li><li>Modular architecture that allow plugins (modules) to add functionality to the core application.</li><li>Full parametric model allowing any type of parameter-driven custom objects, that can even be fully programmed in python.</li><li>Import/export to standard formats such as STEP, IGES, OBJ, DXF, SVG, U3D or STL.</li><li>Complex 3D operations on complex shape types.</li></ul>
+
+</dd><dd class="app_link"><a href="http://sourceforge.net/apps/mediawiki/free-cad/index.php" title="">http://sourceforge.net/apps/mediawiki/free-cad/index.php</a></dd></dl>

@@ -1,0 +1,23 @@
+% TITLE=Internet
+% SUBTITLE=Para navegar por la red, ¡y mucho más!
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas de mensajería instantánea
+% KEYWORDS=reset, aplicaciones, internet, chat, mensajería instantánea
+=Chat=
+==Mantente en contacto con otras personas==
+----
+
+<dl class="app"><dt class="app_name">Emesene</dt><dd class="app_img"><img src="/uploads/apps_emesene.png" alt="Emesene" /></dd><dd class="app_desc">Su objetivo es replicar las funcionalidades del cliente oficial Windows Live, de una forma más limpia y con una interfaz más sencilla.
+
+Actualmente no sólo está limitado a MSN, sino que también soporta GTalk y Facebook.
+
+</dd><dd class="app_feat"><ul><li>Dispone de la mayoría de las funcionalidades del cliente Windows Live Messenger.</li><li>Muy personalizable, con una gran cantidad de complementos disponibles.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.emesene.org/" title="">http://www.emesene.org/</a></dd></dl><dl class="app"><dt class="app_name">Empathy</dt><dd class="app_img"><img src="/uploads/apps_empathy.png" alt="Empathy" /></dd><dd class="app_desc">Empathy es un programa de mensajería instantánea que soporta texto, voz, video y transferencia de archivos sobre muchos protocolos diferentes.
+
+</dd><dd class="app_feat"><ul><li>Multiprotocolo: Google Talk (Jabber/XMPP), MSN, IRC, Salut, AIM, Facebook, Yahoo!, Gadu Gadu, Groupwise, ICQ and QQ.</li><li>Llamada de voz y de vídeo utilizando SIP, XMPP y Google Talk.</li></ul>
+
+</dd><dd class="app_link"><a href="http://live.gnome.org/Empathy" title="">http://live.gnome.org/Empathy</a></dd></dl><dl class="app"><dt class="app_name">Mumble</dt><dd class="app_img"><img src="/uploads/apps_mumble.png" alt="Mumble" /></dd><dd class="app_desc">Mumble es un programa libre, de baja latencia y alta calidad para conversaciones de voz. Especialmente diseñado para ser utilizado en las comunicaciones entre jugadores de un videojuego.
+
+</dd><dd class="app_feat"><ul><li>Consume pocos recursos y tiene una gran capacidad de detección de actividad de voz (lo puedes utilizar en entornos ruidosos).</li><li>Soporte para sonido posicional.</li><li>Otras funcionalidades: grabación, voz preferente.</li></ul>
+
+</dd><dd class="app_link"><a href="http://mumble.sourceforge.net/" title="">http://mumble.sourceforge.net/</a></dd></dl>

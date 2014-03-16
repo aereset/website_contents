@@ -1,0 +1,67 @@
+% TITLE=Fedora
+% SUBTITLE=Tips and tricks
+% DESCRIPTION=Tips and tricks: Learn how to configure your system to your own needs.
+% KEYWORDS=reset, distribution, fedora, configuration, tips, tricks
+=Mounting partitions=
+----
+
+Probably, you've got some partitions in your hard drive that you would like to be mounted when you boot your system.
+
+To do so, open the Disk Utility (search for "disk utility" in the applications menu), select the hard drive which contains the partition and look for its information:
+
+<figure><img src="/uploads/distros_fedora_partition_info.png" alt="Partition info" /><figcaption>Partition information</figcaption></figure>
+
+Lets say we want the partition "Media" to be mounted every time we boot the system. First, if it's already mounted, we must click on "Unmount Volume". Then, we'll make a mount point for the partition:
+
+<code class="terminal">su -c 'mkdir /media/<strong>Media</strong>'</code>
+
+Then, we'll need to edit /etc/fstab:
+
+<code class="terminal">su -c 'echo "/dev/<strong>sda6</strong> /media/<strong>Media</strong> auto defaults 0 0" >> /etc/fstab'</code>
+
+?? <strong>Attention:</strong> remember to use your own partition label instead of "<strong>Media</strong>" and your own device instead of "<strong>sda6</strong>".
+
+You can repeat the process with as many partitions as you want.
+
+To apply changes, reboot your system or run:
+
+<code class="terminal">su -c 'mount -a'</code>
+
+=Rights on mounted partitions=
+----
+
+If you want to be able to read and write your mounted partitions, but you can't, just run:
+
+<code class="terminal">su -c 'chown -R <strong>username</strong> /media/<strong>PartitionLabel</strong>'</code>
+
+?? Remember to use your actual <strong>username</strong> and <strong>PartitionLabel</strong>
+
+=Changing boot sequence=
+----
+
+Fedora 16 comes with GRUB 2 as the default boot loader. If you want to change the boot sequence and, for example, set Windows as the default OS, follow this instructions.
+
+First, you will need to find the menuentry for Windows:
+
+<code class="terminal">su -c 'cat /boot/grub2/grub.cfg |grep Windows'</code>
+
+The result will be something like this:
+
+<code class="terminal">menuentry <strong>"Windows 7 (loader) (on /dev/sda1)"</strong> --class windows --class os {</code>
+
+Now set the Windows entry as the default (select text between "" from the above command):
+
+<code class="terminal">su -c 'grub2-set-default <strong>"Windows 7 (loader) (on /dev/sda1)"</strong>'</code>
+
+Verify the default entry:
+
+<code class="terminal">su -c 'grub2-editenv list'</code>
+
+If everything is fine, generate a new GRUB configuration file:
+
+<code class="terminal">su -c 'grub2-mkconfig -o /boot/grub2/grub.cfg'</code>
+
+=More tips and tricks=
+----
+
+We haven't told you everything, and we bet you'll have more questions about Fedora. We recommend you to play, try, and search on the internet to solve your problems or doubts. You can also have a look at our <a href="/en/free-software/distributions/fedora/faq/" title="Fedora frequently asked questions">Fedora frequently asked questions</a> section, as your answers may be there already!

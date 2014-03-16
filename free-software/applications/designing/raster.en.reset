@@ -1,0 +1,13 @@
+% TITLE=Designing
+% SUBTITLE=Develop your creativity
+% DESCRIPTION=Know some great free software applications for raster designing.
+% KEYWORDS=reset, applications, desinging, raster
+=Raster graphics editor=
+==For resolution-based images==
+----
+
+<dl class="app"><dt class="app_name">Gimp</dt><dd class="app_img"><img src="/uploads/apps_gimp.png" alt="Gimp" /></dd><dd class="app_desc">GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
+
+</dd><dd class="app_feat"><ul><li>Customizable Interface.</li><li>Photo enhancement and digital retouching.</li><li>New non-destructive image processing core.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gimp.org/" title="">http://www.gimp.org/</a></dd></dl>

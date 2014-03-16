@@ -1,0 +1,17 @@
+% TITLE=Games
+% SUBTITLE=To spend some spare time
+% DESCRIPTION=Show off your skills
+% KEYWORDS=reset, applications, games, entertainment, skill
+=Skill=
+==Show off your skills==
+----
+
+<dl class="app"><dt class="app_name">Performous</dt><dd class="app_img"><img src="/uploads/apps_performous.png" alt="Performous" /></dd><dd class="app_desc">Performous is an open-source karaoke, band and dancing game where one or more players perform a song and the game scores their performances.
+
+</dd><dd class="app_feat"><ul><li>Supports songs in UltraStar, Frets on Fire and StepMania formats.</li><li>Microphones and instruments from SingStar, Guitar Hero and Rock Band are autodetected as well as some dancepads.</li><li>Multiple vocal track support and toggleable karaoke with songs that have separate song and vocal tracks.</li><li>God mode, whammy bar gameplay, solo parts, big rock endings and drum fills.</li><li>Webcam support.</li></ul>
+
+</dd><dd class="app_link"><a href="http://performous.org/" title="">http://performous.org/</a></dd></dl><dl class="app"><dt class="app_name">Typespeed</dt><dd class="app_img"><img src="/uploads/apps_typespeed.png" alt="Typespeed" /></dd><dd class="app_desc">Typespeed's idea is ripped from ztspeed (a DOS game made by Zorlim). The Idea behind the game is rather easy: type words that are flying by from left to right as fast as you can. If you miss 10 or more words, game is over.
+
+</dd><dd class="app_feat"><ul><li>You will improve your type speed while you're having fun.</li><li>Many languages to practice: English, Spanish, French, German, Italian, Finnish, Portuguese, Nederlandse... and even some programming languages and more: C# keywords, DOS commands, Unix commands, programming functions...</li><li>Hiscore display, recording statistics about your typing skills.</li><li>Single and multiplayer gameplay.</li></ul>
+
+</dd><dd class="app_link"><a href="http://typespeed.sourceforge.net/" title="">http://typespeed.sourceforge.net/</a></dd></dl>

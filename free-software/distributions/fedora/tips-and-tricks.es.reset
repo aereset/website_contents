@@ -1,0 +1,67 @@
+% TITLE=Fedora
+% SUBTITLE=Trucos y consejos
+% DESCRIPTION=Trucos y consejos: aprende cómo configurar tu sistema adaptándolo a tus necesidades.
+% KEYWORDS=reset, distribución, fedora, configuración, consejos, trucos
+=Montando particiones=
+----
+
+Probablemente, tienes algunas particiones en el disco duro que quieras que estén montadas cada vez que arranques tu sistema.
+
+Para hacerlo, abre la Utilidad de Discos (busca por "utilidad" en el menú de aplicaciones), selecciona el disco duro que contiene a la partición y mira su información:
+
+<figure><img src="/uploads/distros_fedora_partition_info.png" alt="Información de la partición" /><figcaption>Información de la partición</figcaption></figure>
+
+Digamos que queremos que la partición "Media" esté montada cada vez que arranquemos el sistema. Primero, si ya se encuentra montada, deberemos hacer "click" en "Desmontar Volumen". Después, crearemos un punto de montaje para la partición:
+
+<code class="terminal">su -c 'mkdir /media/<strong>Media</strong>'</code>
+
+Luego, tendremos que editar el archivo /etc/fstab:
+
+<code class="terminal">su -c 'echo "/dev/<strong>sda6</strong> /media/<strong>Media</strong> auto defaults 0 0" >> /etc/fstab'</code>
+
+?? <strong>Atención:</strong> recuerda utilizar la etiqueta de tu partición en lugar de "<strong>Media</strong>" y tu propio dispositivo en lugar de "<strong>sda6</strong>".
+
+Puedes repetir el proceso con tantas particiones como quieras.
+
+Para aplicar los cambios, reinicia el sistema o ejecuta:
+
+<code class="terminal">su -c 'mount -a'</code>
+
+=Privilegios en las particiones montadas=
+----
+
+Si quieres poder leer y escribir en tus particiones montadas, pero no puedes, sencillamente ejecuta:
+
+<code class="terminal">su -c 'chown -R <strong>username</strong> /media/<strong>PartitionLabel</strong>'</code>
+
+?? Recuerda utilizar tu propio <strong>username</strong> (nombre de usuario) y tu <strong>PartitionLabel</strong> (etiqueta de la partición)
+
+=Cambiando la secuencia de arranque=
+----
+
+Fedora 16 viene con GRUB 2 como gestor de arranque por defecto. Si quieres cambiar la secuencia de arranque y, por ejemplo, poner Windows como el SO por defecto, sigue estas instrucciones.
+
+Primero, necesitarás encontrar la entrada del menú para Windows:
+
+<code class="terminal">su -c 'cat /boot/grub2/grub.cfg |grep Windows'</code>
+
+El resultado será algo así:
+
+<code class="terminal">menuentry <strong>"Windows 7 (loader) (on /dev/sda1)"</strong> --class windows --class os {</code>
+
+Ahora pon Windows como la entrada por defecto (selecciona el texto entre "" del comando de arriba):
+
+<code class="terminal">su -c 'grub2-set-default <strong>"Windows 7 (loader) (on /dev/sda1)"</strong>'</code>
+
+Verifica la entrada por defecto:
+
+<code class="terminal">su -c 'grub2-editenv list'</code>
+
+Si todo está correcto, genera un nuevo archivo de configuración de GRUB:
+
+<code class="terminal">su -c 'grub2-mkconfig -o /boot/grub2/grub.cfg'</code>
+
+=Más trucos y consejos=
+----
+
+No te lo hemos contado todo, y apostamos a que tendrás más preguntas sobre Fedora. Te recomendamos jugar, probar y buscar en internet para resolver tus dudas o problemas. También puedes echar un vistazo a nuestra sección de <a href="/es/free-software/distributions/fedora/faq/" title="preguntas más frecuentes con Fedora">preguntas más frecuentes con Fedora</a>, ¡ya que las respuestas que buscas pueden estar ahí ya!

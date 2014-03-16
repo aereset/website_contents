@@ -1,0 +1,93 @@
+% TITLE=Cybertech 2012
+% SUBTITLE=Build your robot and come to the competition!
+% DESCRIPTION=Build your robot and come to the competition!
+% KEYWORDS=reset, cybertech, programming, c, chipkit, rules
+=Introduction=
+----
+
+Cybertech is an anual robot competition which is now organized by the student's association <a href="http://reset.etsii.upm.es/" title="Reset website">Reset</a> with the full <a href="http://www.disam.upm.es/" title="DISAM">División de Ingeniería de Sistemas y Automática</a> support. Thanks to the <a href="http://www.etsii.upm.es/" title="ETSII website">Escuela Técnica Superior de Ingenieros Industriales</a> of the <a href="http://www.upm.es/" title="UPM website">Universidad Politécnica de Madrid</a>.
+
+This three days long competition has two kinds of challenges: maze and linefollower. In the first of them, the goal for the robots is to find the way out from a labyrinth. In the other one, the robots have to follow a circuit painted on the floor. The challenge increases as the competition goes on, with more and more complicated mazes and obstacles.  
+
+<!--=Calendar=
+----
+
+<p class="centered"><img src="/uploads/projects_cybertech_calendar.png" alt="calendar">
+
+-->=Videos=
+----
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/WUYGhUXn5AE?list=PL2164F7E447C22983&feature=player_embedded"></iframe>
+
+=Classification=
+----
+
+<table><caption>Line follower</caption><thead><tr><th>Classification</th><th>Team</th></tr></thead><tbody><tr><td>1º</td><td>RES</td></tr><tr><td>2º</td><td>Horus</td></tr><tr><td>3º</td><td>Bull-e</td></tr><tr><td>4º</td><td>Tracker Dog</td></tr><tr><td>5º</td><td>BOT-ON</td></tr><tr><td>6º</td><td>Mecatrónicos</td></tr><tr><td>7º</td><td>Bricogeek</td></tr><tr><td>8º</td><td>Miura</td></tr></tbody></table>
+
+<table><caption>Maze solving</caption><thead><tr><th>Classification</th><th>Team</th></tr></thead><tbody><tr><td>1º</td><td>Horus</td></tr><tr><td>2º</td><td>RES</td></tr><tr><td>3º</td><td>Bricogeek</td></tr><tr><td>4º</td><td>Bull-e</td></tr><tr><td>5º</td><td>Tracker Dog</td></tr><tr><td>6º</td><td>Mecatrónicos</td></tr><tr><td>7º</td><td>BOT-ON</td></tr><tr><td>8º</td><td>Miura</td></tr></tbody></table>
+
+<table><caption>Combined race</caption><thead><tr><th>Classification</th><th>Team</th></tr></thead><tbody><tr><td>1º</td><td>Horus</td></tr><tr><td>2º</td><td>RES</td></tr><tr><td>3º</td><td>Bricogeek</td></tr></tbody></table>
+
+<table><caption>Best technological design</caption><thead><tr><th>Classification</th><th>Team</th></tr></thead><tbody><tr><td>1º</td><td>RES</td></tr></tbody></table>
+
+<table><caption>Best creative design</caption><thead><tr><th>Classification</th><th>Team</th></tr></thead><tbody><tr><td>1º</td><td>Bull-e</td></tr></tbody></table>
+
+=Contest Information=
+----
+
+Here you have some information about the competition:
+
+<ul><li>Maze known</li><li>Maze with variations</li><li>Maze unknown</li></ul>
+
+=Rules=
+----
+
+You have some information about the competition and the course:
+
+<ul><li>Cybertech Rules</li><li>About the course</li><li>Project Guide</li></ul>
+
+=Robot Exhibition=
+----
+
+During the competition, we'll have the following robots running, crawling, rolling or flying!
+
+<ul><li>AR Drone: pilot a quadrotor</li><p class="centered"><img src="/uploads/projects_cybertech_ar_drone.jpg" alt="ar_drone">
+
+<li>Makerbot</li><p class="centered"><img src="/uploads/projects_cybertech_makerbot.jpg" alt="makerbot">
+
+<li>ArduSnake</li><p class="centered"><img src="/uploads/projects_cybertech_ardusnake.png" alt="ardusnake">
+
+<li>Miniskybot</li><p class="centered"><img src="/uploads/projects_cybertech_miniskybot.png" alt="miniskybot">
+
+<li>RoSphere</li><p class="centered"><img src="/uploads/projects_cybertech_rosphere.jpg" alt="rosphere">
+
+<li>Retina Táctil</li><p class="centered"><img src="/uploads/projects_cybertech_retinatactil.png" alt="retina-tactil">
+
+<li>WSN Deployer</li><p class="centered"><img src="/uploads/projects_cybertech_wsn.png" alt="wsn">
+
+</ul>
+
+=Registration=
+----
+
+Send an e-mail with the following information:
+
+<ul><li>Name and surname.</li><li>Age.</li><li>Experience in robotics and origin (ETSII, EUITI, Carlos III, other, etc.).</li><li>Group name, if you belong to one.</li></ul>
+
+to:
+
+<p class="centered"><img src="/uploads/projects_cybertech_cyberio_mini.gif" alt="Cyberio" />
+
+<p class="centered"><strong>cybertech<span class="display-none">@anti-spam</span>@etsii.upm.es</strong>
+
+=Workshops=
+----
+
+Reset is carrying out some workshops that you may find useful for starting developing your robot. You may attend this workshops even if you are not participating in the competition!
+
+<ul><li><a href="/en/workshops/c-introduction/" title="Introduction to C workshop">Introduction to C</a></li><li><a href="/en/workshops/chipkit-uno32/" title="Introducing the chipKIT Uno32 microcontroller workshop">chipKIT Uno32</a></li><li><a href="/en/workshops/sensors-and-motors/" title="Introducing sensors and motors workshop">Sensors and motors</a></li><li><a href="/en/workshops/soldering/" title="Introducing soldering workshop">Soldering</a></li></ul>
+
+=Contact=
+----
+
+<table><caption>Organization</caption><thead><tr><th>Name</th><th>email</th></tr></thead><tbody><tr><td>Jesús Arroyo Torrens</td><td>jesus.jkhlg<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Miguel Sánchez de León Peque</td><td>msdeleonpeque<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Lucía Hernández Hernández</td><td>h_x_2_hh<span class="display-none">@anti-spam</span>@hotmail.com</td></tr><tr><td>Juan Jesús Roldán Gómez</td><td>jj.roldan.88<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Román Mansilla Martín</td><td>roman.mansilla<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Javier García Sogo</td><td>jgsogo<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Clara Casas Castedo</td><td>clara.casas.castedo<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Dani Casares Palomeque</td><td>exergy123<span class="display-none">@anti-spam</span>@gmail.com</td></tr><tr><td>Juan Herrero Macías</td><td>mystikalprophet<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>

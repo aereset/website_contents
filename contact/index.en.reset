@@ -1,0 +1,23 @@
+% TITLE=Contact with Reset
+% SUBTITLE=Contact form
+% DESCRIPTION=Contact our association through this contact form.
+% KEYWORDS=reset, contact, association, form, email
+<section id="content"><header class="error">=Contact with Reset=
+==Contact form==
+=Please, fill the form bellow=
+----
+
+<form action="" method="post"><fieldset><legend>Contact form</legend>? <b>Important:</b> All fields are required.
+
+<div class="form_wrapper"><div class="p_data"><label for="form_contact_email">e-mail:</label><input name="email" id="form_contact_email" value="" type="email" maxlength="60" required="required" /></div><div class="i_data"><label for="form_contact_issue">Issue:</label><input name="issue" id="form_contact_issue" value="" type="text" maxlength="125" required="required" /><label for="form_contact_info">Information:</label><textarea name="contact_info" id="form_contact_info" cols="30" rows="5" required="required"></textarea></div><input type="hidden" name="type" value="contact_form" /><input type="submit" value="Send" /></div></fieldset></form><footer class="error"><p class="section_title">Contact with Reset
+
+</footer></section></div><!-- Wrapper's end --><aside id="r_aside"><section class="r_aside"><h3>News</h3><div class="block">=There are no recent news=
+Future workshops and events will be published here, stay tuned!
+
+</div></section><section class="r_aside"><h3>Collaborate</h3><div class="block"><script src="/js/collaborate.js"></script></div></section><section class="r_aside"><h3>Friends</h3><div class="block"><script src="/js/friends.js"></script></div></section><section class="r_aside"><h3>Other topics</h3><div class="block"><script src="/js/other_topics.js"></script></div></section></aside><footer id="w_footer"><section id="footer_lists"><div class="footer_nav" id="info_nav"><h3>Information</h3><ul class="footer_nav_left"><li><a href="/en/information/participate/" title="Help us with this project!">Join us!</a></li><li><a href="/en/information/contributors/" title="See our contributors">Contributors</a></li><li><a href="/en/information/website/" title="Know more about our website">About this website</a></li></ul>
+
+</div><div class="footer_nav" id="contact_nav"><h3>Contact us</h3><ul class="footer_nav_right"><li><a href="/en/contact/mail/" title="Join our mailing lists!">Mailing lists</a></li><li><a href="/en/contact/reset/" title="Contact us via our contact form">Contact Reset</a></li><li><a href="/en/contact/webmaster/" title="Contact our webmaster">Contact webmaster</a></li></ul>
+
+</div></section><p class="copyright">Copyright © 2010-2013 Reset Students' Association
+
+</footer></body></html>

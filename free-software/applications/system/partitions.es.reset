@@ -1,0 +1,15 @@
+% TITLE=Sistema
+% SUBTITLE=Copias de seguridad, edición de particiones, virtualización...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para crear, eliminar, redimensionar o mover particiones...
+% KEYWORDS=reset, aplicaciones, sistema, partición
+=Edición de particiones=
+==Crear, borrar, redimensionar o mover particiones==
+----
+
+<dl class="app"><dt class="app_name">GParted</dt><dd class="app_img"><img src="/uploads/apps_gparted.png" alt="GParted" /></dd><dd class="app_desc">GParted es un editor de particiones libre que permite manejar tus particiones de disco de forma gráfica. Es útil para tareas como: crear espacio para un sistema operativo nuevo, reestructurar el espacio del disco para separar los datos del usuario y del sistema y copiar particiones para poder cambiar a un disco duro más grande.
+
+Tu disco duro o memoria USB puede dividirse en una o varias particiones. GParted te permite reorganizar las particiones de tu disco preservando la integridad de sus datos.
+
+</dd><dd class="app_feat"><ul><li>Creación de tablas de particiones.</li><li>Crea, borra, redimensiona, mueve, revisa, etiqueta, copia y pega particiones.</li><li>Manipulación de sistemas de archivos como: btrfs, ext2, ext3, ext4, fat16, fat32, ntfs, linux-swap, hfs, hfs+, reiserfs, reiser4 y más.</li><li>Intenta recuperar los datos de particiones perdidas.</li><li>Soporte para RAID por hardware, BIOS RAID y software RAID de Linux.</li></ul>
+
+</dd><dd class="app_link"><a href="http://gparted.sourceforge.net/" title="">http://gparted.sourceforge.net/</a></dd></dl>

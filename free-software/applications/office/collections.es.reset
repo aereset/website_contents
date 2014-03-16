@@ -1,0 +1,13 @@
+% TITLE=Oficina
+% SUBTITLE=Aplicaciones para la creación de documentos o gestión de datos
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para la gestión de colecciones (libros, CD's, películas, cómics, vinos, etc)
+% KEYWORDS=reset, aplicaciones, oficina, colección
+=Gestores de colecciones=
+==Libros, CD's, películas, cómics, vinos, etc.==
+----
+
+<dl class="app"><dt class="app_name">Tellico</dt><dd class="app_img"><img src="/uploads/apps_tellico.png" alt="Tellico" /></dd><dd class="app_desc">Tellico hace sencilla la tarea de gestionar tus libros, videos, música e incluso tus vinos o cualquier otra cosa. Su interfaz, sencilla e intuitiva, muestra las imágenes de las carátulas, agrupaciones y cualquier otro detalle que quieras. Puede descargar información de muchos sitios populares de Internet, incluyendo IMDB.com, Amazon.com y casi cualquier biblioteca.
+
+</dd><dd class="app_feat"><ul><li>Importa y exporta en muchos formatos de archivo: MODS, Bibtex, ONIX, HTML, PilotDB, RIS, CSV, PDF metadata y más.</li><li>Soporte para colecciones predefinidas o definidas por el usuario.</li><li>Importa información directamente desde Amazon.com (US, Japón, Alemania, Gran Bretaña, Francia y Canada), IMDb, servidores z39.50, PubMed, servidores SRU, CrossRef.org y muchas otras fuentes de datos.</li></ul>
+
+</dd><dd class="app_link"><a href="http://tellico-project.org/" title="">http://tellico-project.org/</a></dd></dl>

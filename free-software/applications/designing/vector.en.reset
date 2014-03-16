@@ -1,0 +1,13 @@
+% TITLE=Designing
+% SUBTITLE=Develop your creativity
+% DESCRIPTION=Know some great free software applications for vector designing.
+% KEYWORDS=reset, applications, desinging, vector, svg
+=Vector graphics editor=
+==For vector-based images==
+----
+
+<dl class="app"><dt class="app_name">Inkscape</dt><dd class="app_img"><img src="/uploads/apps_inkscape.png" alt="Inkscape" /></dd><dd class="app_desc">Inkscape is a vector graphics editor, with capabilities similar to Illustrator, CorelDraw, or Xara X, using the W3C standard Scalable Vector Graphics (SVG) file format.
+
+</dd><dd class="app_feat"><ul><li>Some supported SVG features include basic shapes, paths, text, markers, clones, alpha blending, transforms, gradients, and grouping.</li><li>Supports Creative Commons' metadata, node-editing, layers, complex path operations, text-on-path, text-in-shape, and SVG XML editing<li>Imports several formats like EPS, PostScript, JPEG, PNG, BMP, and TIFF and exports PNG as well as multiple vector-based formats.</li></ul>
+
+</dd><dd class="app_link"><a href="http://inkscape.org/" title="">http://inkscape.org/</a></dd></dl>

@@ -1,0 +1,19 @@
+% TITLE=Internet
+% SUBTITLE=Para navegar por la red, ¡y mucho más!
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para navegar por la red
+% KEYWORDS=reset, aplicaciones, internet, navegador
+=Navegadores=
+==¡Y comienza a navegar por la red!==
+----
+
+<dl class="app"><dt class="app_name">Firefox</dt><dd class="app_img"><img src="/uploads/apps_firefox.png" alt="Firefox" /></dd><dd class="app_desc">El navegador Firefox es una creación de Mozilla, una organización sin ánimo de lucro cuya misión es promover la accesibilidad, innovación y oportunidad en la red.
+
+</dd><dd class="app_feat"><ul><li>Rápido y seguro.</li><li>Muy personalizable: más de 6.000 complementos para satisfacer tus necesidades.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.mozilla.com/firefox/" title="">http://www.mozilla.com/firefox/</a></dd></dl><dl class="app"><dt class="app_name">Chromium</dt><dd class="app_img"><img src="/uploads/apps_chromium.png" alt="Chromium" /></dd><dd class="app_desc">El proyecto Chromium lo constituyen Chromium y Chromium OS, éstos son los proyectos que están detrás del navegador Google Chrome y de Google Chrome OS, respectivamente.
+
+Chromium es un proyecto de software libre cuyo objetivo es construir un navegador más seguro, rápido y estable para mejorar la experiencia de los usuarios al navegar por Internet.
+
+</dd><dd class="app_feat"><ul><li>Rápido y seguro.</li><li>Cumple con una gran cantidad de estándares (de acuerdo a los últimos estándares de la web definidos por el W3C).</li></ul>
+
+</dd><dd class="app_link"><a href="https://sites.google.com/a/chromium.org/dev/Home" title="">https://sites.google.com/a/chromium.org/dev/Home</a></dd></dl>

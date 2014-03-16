@@ -1,0 +1,52 @@
+% TITLE=Sobre esta página
+% SUBTITLE=Estándares, desarrollo y accesibilidad
+% DESCRIPTION=Aprende más sobre nuestro sitio web: estándares, desarrollo y accesibilidad.
+% KEYWORDS=reset, sitio, página, web, sobre, estándares, desarrollo, accesibilidad
+=Estándares=
+----
+
+Nuestro sitio web está diseñado acorde con los últimos estándares (X)HTML5 y CSS3 definidos por el <a title="World Wide Web Consortium" href="http://www.w3.org/">W3C</a>.
+
+<ul class="style_none"><li><a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+
+</li><li><a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="¡Valid CSS!" height="31" width="88" /></a>
+
+</li></ul>
+
+También, logramos alrededor de un 90% de compatibilidad con dispositivos móviles en el <a title="W3C mobileOK Checker" href="http://validator.w3.org/mobile/check?task=20120311234846122.mobile1&docAddr=http%3A%2F%2Freset.etsii.upm.es%2Fen%2F">W3C mobileOK Checker</a>.
+
+<ul class="style_none"><li><a href="http://www.w3.org/Mobile/"><img src="http://validator.w3.org/mobile/images/W3C-MWI.png" alt="Movile Web Initiative" height="63" width="242" /></a>
+
+</li></ul>
+
+=Desarrollo=
+----
+
+Este sitio web ha sido desarrollado con el software libre siguiente:
+
+<ul><li>Apache</li><li>Bluefish</li><li>Chromium</li><li>Fedora</li><li>Firefox</li><li>Geany</li><li>Gettext</li><li>Gimp</li><li>Git</li><li>Gource</li><li>Inkscape</li><li>jQuery</li><li>PHP</li></ul>
+
+A continuación, podemos ver un vídeo del desarrollo de este proyecto, hecho con <a href="http://code.google.com/p/gource/">Gource</a>:
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/FvfO7xYGR9Y"></iframe>
+
+<a href="http://www.ohloh.net/" title="Sitio web de Ohloh">Ohloh</a> es un directorio de software de código abierto que cualquiera puede editar. Realiza estadísticas y análisis comprensivos de miles de proyectos de software libre. <a href="http://www.ohloh.net/p/reset/" title="Reset en Ohloh.net">El sitio web de Reset se encuentra entre ellos</a>:
+
+<script src="/js/ohloh-stats.js"></script>=Accesibilidad=
+----
+
+Queremos que nuestra web sea accesible para cualquier persona y desde cualquier lugar, ya sea con un ordenador o un dispositivo móvil.
+
+El diseño líquido de nuestra web permite redimensionar la ventana del navegador (o visualizar la página desde dispositivos con pantallas de tamaños diversos) manteniendo siempre la mejor apariencia posible.
+
+(Screenshots here...)
+
+Además, evitamos el uso de JavaScript excepto para contenidos o funcionalidades secundarias.
+
+Este sitio web es completamente compatible con las últimas versiones de los siguientes navegadores:
+
+<ul><li>Firefox</li><li>Google Chrome or Chromium</li><li>Opera</li><li>Safari</li><li>Konqueror</li></ul>
+
+?? Si eres usuario de Windows y utilizas Internet Explorer, te recomendamos que cambies a un navegador más rápido y adaptado a los estándares internacionales de la web. Tal vez quieras descargar e instalar alguno de los siguientes navegadores (todos ellos son gratuitos): <a href="http://www.mozilla-europe.org/firefox/" title="Download Firefox for Windows">Firefox</a>, <a href="http://www.google.com/chrome/" title="Download Google Chrome for Windows">Google Chrome</a>, <a href="http://www.opera.com/download/" title="Download Opera for Windows">Opera</a>, <a href="http://www.apple.com/safari/download/" title="Download Safari for Windows">Safari</a>.
+
+Aunque no de forma totalmente compatible, puedes navegar fácilmente y acceder a todos los contenidos de este sitio web utilizando cualquier navegador.

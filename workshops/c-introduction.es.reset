@@ -1,0 +1,66 @@
+% TITLE=Introducción a C
+% SUBTITLE=¡Aprende los conceptos básicos de este poderoso lenguaje!
+% DESCRIPTION=Learn the basics of this powerful language!
+% KEYWORDS=reset, workshop,programming
+<section id="content">=Introducción=
+----
+
+Una de las herramientas más importantes de los últimos tiempos es la programación. Es el único modo de controlar máquinas, dispositivos, robots... 
+
+Reset te enseña uno de los lenguajes más importantes y populares que existen: el lenguaje de programación C. Éste va a ser nuestro principal instrumento para los posteriores talleres y proyectos relacionados con microcontroladores, desarrollo de aplicaciones software, etc.
+
+=Contenidos=
+----
+
+<ul><li>Introducción a la programación.<ul></ul>
+
+</li><li>Estructura de un programa.<ul></ul>
+
+</li></ul>
+
+<ul><li>Sintaxis.<ul></ul>
+
+</li><li>Tipos de datos.<ul></ul>
+
+</li></ul>
+
+<ul><li>Operadores.<ul></ul>
+
+</li><li>Estructuras de control: sentencias condicionales y bucles.<ul></ul>
+
+</li></ul>
+
+<ul><li>Funciones.<ul></ul>
+
+</li><li>Ejemplo práctico.<ul></ul>
+
+</li></ul>
+
+=Lo que necesitas=
+----
+
+<ul><li>Un ordenador: puedes traer tu portátil o utilizar los que tenemos en el taller.<ul></ul>
+
+</li><li>Un compilador: es un programa que genera programas a partir de código fuente. Nosotros utilizaremos GCC en Ubuntu, pero puedes utilizar cualquier herramienta que compile C.<ul></ul>
+
+</li></ul>
+
+<ul><li>Envía un email a aereset@gmail.com diciéndonos que vas a venir.<ul></ul>
+
+</li></ul>
+
+=Cuándo y dónde=
+----
+
+??? Lo sentimos, el último taller de "Introduction to C" fue el <strong>4 de Noviembre del 2011</strong>. Nuestros talleres normalmente tienen lugar una vez al año y entorno a las mismas fechas.
+
+¡Estate atento para eventos futuros!
+
+<!--=Recursos=
+----
+
+Puedes encontrar recursos y fotografías de este taller visitando <a href="ftp://reset.etsii.upm.es/workshops/c-introduction/" title="Directorio FTP del taller Introduction to C">nuestro directorio FTP</a>.
+
+--><aside class="workshop_tags"><ul><li><a href="/es/workshops/categories/programming/" title="Busca por categoría">programming</a></li></ul>
+
+</aside><footer>

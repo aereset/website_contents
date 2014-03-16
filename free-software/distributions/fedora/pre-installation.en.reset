@@ -1,0 +1,51 @@
+% TITLE=Fedora
+% SUBTITLE=Before the installation
+% DESCRIPTION=Pre-installation process: downloading a live image, creating a LiveUSB, booting and setting up the hard drive for the installation process.
+% KEYWORDS=reset, distribution, fedora, pre-installation, tricks, configuration
+=Downloading a live image=
+----
+
+Using a live image is probably the best way to try and install an operating system in your computer. You can <a href="http://fedoraproject.org/en/get-fedora-options" title="Download a Fedora live image from the official website">download a Fedora live image from the oficial website</a>. Notice that you can find many different images!
+
+The difference between the Desktop Edition, the KDE spin, the LXDE spin and the XFCE spin is only the desktop, they are all Fedora. You may want to try different desktops to see which one you prefer but, for now, we recommend you to select the default option (Desktop Edition), which comes with <a href="http://www.gnome.org/gnome-3/" title="GNOME 3 website">GNOME 3 desktop</a>.
+
+For each desktop, you can choose between a 32 or 64 bits system. If you just don't know which one you need, download the 32 bits version (or ask somebody).
+
+<p class="centered"><a href="http://fedoraproject.org/en/get-fedora" title="Download 32-bit Fedora with GNOME desktop"><img src="/uploads/distros_fedora_download_32bit.png" alt="Download_Fedora_32bit_image" /></a>
+
+=Creating a LiveUSB=
+----
+
+Once you have downloaded the live image (the .iso file), you only need to make it bootable so you can try and install the system in your computer.
+
+There are different ways for making an .iso file bootable. As most computers nowadays allow you to boot from an USB, we'll teach you how to create a LiveUSB. Again, you can find many programs out there which will allow you to make this live media, we recommend you to <a href="http://unetbootin.sourceforge.net/" title="Download Unetbootin from the official website">download Unetbootin</a>.
+
+Connect an USB with, at least 1 GB of free space and execute Unetbootin. Select the option "Diskimage", browse for the .iso file you have downloaded and choose the USB device you have connected (if you are not sure, disconnect any other storage USB so you only get one option):
+
+<figure><img src="/uploads/distros_fedora_unetbootin.png" alt="Unetbootin_interface_image" /><figcaption>Unetbootin interface</figcaption></figure>
+
+Once the process has finished, you'll have a bootable LiveUSB!
+
+=Booting the live system=
+----
+
+Booting is what we do each time we turn on our computer; we boot from the hard drive our operating system. What we want now is to boot from the live media we have created. Some computers may boot automatically from bootable CDs, but just a few will do that with an USB device.
+
+What we have to do is to enter the "Boot menu", which will let us select the device we want to boot from (removable device or USB):
+
+<figure><img src="/uploads/distros_fedora_bootmenu.png" alt="Boot_menu_image" /><figcaption>Boot menu</figcaption></figure>
+
+Tipically you can access this menu hitting the F12, F11, F10, F9 or F8 key just after turning on your computer (before the it boots from the hard drive and starts loading the operating system).
+
+?? If you pay attention to the first screen you see after turning on the computer, you may see which key you have to press to access the boot menu. Otherwise, search on the Internet or enter the setup menu to configure the BIOS to boot first from removable devices.
+
+Once you have selected the USB for booting, the default option will automatically start a live session of Fedora!
+
+=I like Fedora!=
+----
+
+You are now in a live Fedora session. You can open some applications and make sure everything is working.
+
+<figure><img src="/uploads/distros_fedora_live_desktop.png" alt="Live_desktop_gnome3_image" /><figcaption>Live desktop with GNOME 3</figcaption></figure>
+
+If you like the feeling, <a href="/en/free-software/distributions/fedora/installation/" title="Fedora installation guide">continue with the installation process!</a>

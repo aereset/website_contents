@@ -1,0 +1,15 @@
+% TITLE=System
+% SUBTITLE=Backups, partition editing, virtualization...
+% DESCRIPTION=Know some great free software applications to create, delete, resize or move partitions...
+% KEYWORDS=reset, applications, system, partition
+=Partition editing=
+==Create, delete, resize or move partitions==
+----
+
+<dl class="app"><dt class="app_name">GParted</dt><dd class="app_img"><img src="/uploads/apps_gparted.png" alt="GParted" /></dd><dd class="app_desc">GParted is a free partition editor for graphically managing your disk partitions. It is useful for tasks such as: creating space for new operating systems, restructuring disk space to separate user and operating system data, and copying partitions to enable upgrading to a larger hard disk drive.
+
+Your hard disk drive or USB flash drive can be subdivided into one or more partitions. GParted enables you to reorganize your disk partitions while preserving the contents of these partitions.
+
+</dd><dd class="app_feat"><ul><li>Create partition tables.</li><li>Create, delete, resize, move, check, label, copy and paste partitions.</li><li>Manipulate file systems such as: btrfs, ext2, ext3, ext4, fat16, fat32, ntfs, linux-swap, hfs, hfs+, reiserfs, reiser4 and more.</li><li>Attempt data rescue from lost partitions.</li><li>Supports hardware RAID, motherboard BIOS RAID and Linux software RAID.</li></ul>
+
+</dd><dd class="app_link"><a href="http://gparted.sourceforge.net/" title="">http://gparted.sourceforge.net/</a></dd></dl>

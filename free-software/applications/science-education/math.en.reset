@@ -1,0 +1,27 @@
+% TITLE=Science and education
+% SUBTITLE=For school or university, for students and researchers...
+% DESCRIPTION=Know some great free software applications for numeric and symbolic computation, statistics, etc.
+% KEYWORDS=reset, applications, science, education, math, numeric, symbolic, computation, statistics
+=Math=
+==Numeric and symbolic computation, statistics, etc.==
+----
+
+<dl class="app"><dt class="app_name">Octave</dt><dd class="app_img"><img src="/uploads/apps_octave.png" alt="Octave" /></dd><dd class="app_desc">GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
+
+</dd><dd class="app_feat"><ul><li>Quite similar to Matlab so that most programs are easily portable.</li><li>Does arithmetic for real and complex scalars and matrices, solves sets of nonlinear algebraic equations, integrates systems of ordinary differential and differential-algebraic equations, and integrates functions over finite and infinite intervals.</li><li>Easily extensible and customizable via user-defined functions written in Octave's own language, or using dynamically loaded modules written in C, C++, Fortran, or other languages.</li><li>Octave is normally used through its interactive command line interface, but it can also be used to write non-interactive programs.</li><li>Can plot functions and data in two and three dimensions.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/octave/" title="">http://www.gnu.org/software/octave/</a></dd></dl><dl class="app"><dt class="app_name">Maxima</dt><dd class="app_img"><img src="/uploads/apps_maxima.png" alt="Maxima" /></dd><dd class="app_desc">Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, polynomials, and sets, lists, vectors, matrices, and tensors.
+
+</dd><dd class="app_feat"><ul><li>Yields high precision numeric results by using exact fractions, arbitrary precision integers, and variable precision floating point numbers.</li><li>Can plot functions and data in two and three dimensions.</li></ul>
+
+</dd><dd class="app_link"><a href="http://maxima.sourceforge.net/" title="">http://maxima.sourceforge.net/</a></dd></dl><dl class="app"><dt class="app_name">R</dt><dd class="app_img"><img src="/uploads/apps_r.png" alt="R" /></dd><dd class="app_desc">R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories.
+
+It can be considered as a different implementation of S. There are some important differences, but much code written for S runs unaltered under R.
+
+</dd><dd class="app_feat"><ul><li>Wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, ...) and graphical techniques.</li><li>Large, coherent, integrated collection of intermediate tools for data analysis.</li><li>Includes an effective data handling and storage facility and a suite of operators for calculations on arrays, in particular matrices.</li><li>For computationally-intensive tasks, C, C++ and Fortran code can be linked and called at run time. Advanced users can write C code to manipulate R objects directly.</li><li>Highly extensible (is designed around a true computer language, and it allows users to add additional functionality by defining new functions).</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.r-project.org/" title="">http://www.r-project.org/</a></dd></dl><dl class="app"><dt class="app_name">PSPP</dt><dd class="app_img"><img src="/uploads/apps_pspp.png" alt="pspp" /></dd><dd class="app_desc">PSPP is a program for statistical analysis of sampled data. It is a Free replacement for the proprietary program SPSS, and appears very similar to it with a few exceptions.
+
+</dd><dd class="app_feat"><ul><li>Can perform descriptive statistics, T-tests, linear regression and non-parametric tests.</li><li>Fast statistical procedures, even on very large data sets.</li><li>Easy data import from spreadsheets, text files and database sources.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/pspp/" title="">http://www.gnu.org/software/pspp/</a></dd></dl>

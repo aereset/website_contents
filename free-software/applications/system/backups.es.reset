@@ -1,0 +1,19 @@
+% TITLE=Sistema
+% SUBTITLE=Copias de seguridad, edición de particiones, virtualización...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para mantener tus datos seguros...
+% KEYWORDS=reset, aplicaciones, sistema, copia de seguridad
+=Copias de seguridad=
+==Protege tus datos==
+----
+
+<dl class="app"><dt class="app_name">Déjà Dup</dt><dd class="app_img"><img src="/uploads/apps_deja-dup.png" alt="Déjà Dup" /></dd><dd class="app_desc">Déjà Dup es una herramienta simple de protección de datos. Esconde la complejidad de hacer copias de seguridad de modo correcto (cifrado, automático y regular).
+
+</dd><dd class="app_feat"><ul><li>Soporte para destinos de copia de seguridad locales y remotos, como Amazon S3 o Rackspace Cloud Files.</li><li>Copias de seguridad incrementales, que te permiten recuperar los datos de cualquier momento concreto.</li><li>Compresión y cifrado de tus datos de forma segura.</li><li>Programación de copias de seguridad regulares.</li></ul>
+
+</dd><dd class="app_link"><a href="https://launchpad.net/deja-dup" title="">https://launchpad.net/deja-dup</a></dd></dl><dl class="app"><dt class="app_name">Grsync</dt><dd class="app_img"><img src="/uploads/apps_grsync.png" alt="Grsync" /></dd><dd class="app_desc">Grsync es una interfaz gráfica para rsync. Rsync es una herramienta de comandos muy conocida para la sincronización de archivos y directorios.
+
+Puede ser utilizada para sincronizar de forma efectiva directorios locales así como remotos (aunque no tiene soporte para la navegación de carpetas remotas).
+
+</dd><dd class="app_feat"><ul><li>Algunas de las opciones disponibles en rsync más utilizadas: puede actualizar directorios y sistemas de archivos completos, tuberías internas que reducen la latencia al trabajar con múltiples archivos, puede utilizar rsh, ssh o sockets directos para el transporte, soporta rsync anónimo, que resulta ideal para la creación de espejos y que, de forma opcional, conserva enlaces simbólicos, enlaces a discos duros, permisos sobre archivos, dispositivos y fechas.</li><li>Puede realizar una simulación o una ejecución normal.</li><li>Puede pausar la ejecución de rsync.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.opbyte.it/grsync/" title="">http://www.opbyte.it/grsync/</a></dd></dl>

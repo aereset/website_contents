@@ -1,0 +1,8 @@
+% TITLE=Juegos
+% SUBTITLE=Para pasar algo de tiempo libre
+% DESCRIPTION=Conoce algunos fantásticos juegos de software libre que te encantarán. Entretenimiento, arcade, estrategia, habilidad, lógica, lucha, disparos...
+% KEYWORDS=reset, aplicaciones, juegos, entretenimiento, arcade, estrategia, habilidad, lógica, lucha, disparos
+=Selecciona alguna categoría=
+----
+
+<a class="cat" href="./arcade/"><dl class="cat"><dt class="cat_name">Arcade</dt><dd class="cat_desc">Las reglas son sencillas, el resto es cosa tuya!</dd></dl></a><a class="cat" href="./strategy/"><dl class="cat"><dt class="cat_name">Estrategia</dt><dd class="cat_desc">Juegos más complejos</dd></dl></a><a class="cat" href="./shooter/"><dl class="cat"><dt class="cat_name">Disparos</dt><dd class="cat_desc">Dispara a tus enemigos!</dd></dl></a><a class="cat" href="./skill/"><dl class="cat"><dt class="cat_name">Habilidad</dt><dd class="cat_desc">Demuestra tus habilidades</dd></dl></a><a class="cat" href="./logic/"><dl class="cat"><dt class="cat_name">Lógica</dt><dd class="cat_desc">Ejercita tu mente</dd></dl></a>

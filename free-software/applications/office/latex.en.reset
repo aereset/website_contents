@@ -1,0 +1,19 @@
+% TITLE=Office
+% SUBTITLE=Applications for creating documents or managing data
+% DESCRIPTION=Know some great free software applications for LaTeX
+% KEYWORDS=reset, applications, office, latex
+=LaTeX=
+==For advanced document creation==
+----
+
+<dl class="app"><dt class="app_name">LyX</dt><dd class="app_img"><img src="/uploads/apps_lyx.png" alt="LyX" /></dd><dd class="app_desc">LyX is a document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).
+
+LyX combines the power and flexibility of TeX/LaTeX with the ease of use of a graphical interface. This results in world-class support for creation of mathematical content (via a fully integrated equation editor) and structured documents like academic articles, theses, and books.
+
+</dd><dd class="app_feat"><ul><li>What You See Is What You Mean editor (looks like any word processor).</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.lyx.org/" title="">http://www.lyx.org/</a></dd></dl><dl class="app"><dt class="app_name">Texmaker</dt><dd class="app_img"><img src="/uploads/apps_texmaker.png" alt="Texmaker" /></dd><dd class="app_desc">Texmaker is a free, modern and cross-platform LaTeX editor for linux, macosx and windows systems that integrates many tools needed to develop documents with LaTeX, in just one application.
+
+</dd><dd class="app_feat"><ul><li>Built-in pdf viewer with synctex support and continuous view mode.</li><li>Unicode support, spell checking.</li><li>Clean and modern interface with wizards to generate code.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.xm1math.net/texmaker/" title="">http://www.xm1math.net/texmaker/</a></dd></dl>

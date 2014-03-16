@@ -1,0 +1,15 @@
+% TITLE=Games
+% SUBTITLE=To spend some spare time
+% DESCRIPTION=Shoot your enemies down!
+% KEYWORDS=reset, applications, games, entertainment, shooter
+=Shooter=
+==Shoot your enemies down!==
+----
+
+<dl class="app"><dt class="app_name">OpenArena</dt><dd class="app_img"><img src="/uploads/apps_openarena.png" alt="OpenArena" /></dd><dd class="app_desc">OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.
+
+OpenArena's game play attempts to emulate Quake III Arena - score frags to win the game using a balanced set of weapons each designed for different situations.
+
+</dd><dd class="app_feat"><ul><li>17 unique player models to choose from and 12 weapons.</li><li>Many game types supported including Free For All, Capture The Flag, Domination, Overload, Harvester, and more.</li><li>Simulated players, or "bots" are also available for your personal pulverizing pleasure.</li></ul>
+
+</dd><dd class="app_link"><a href="http://openarena.ws/" title="">http://openarena.ws/</a></dd></dl>

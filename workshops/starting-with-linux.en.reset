@@ -1,0 +1,68 @@
+% TITLE=Starting with Linux
+% SUBTITLE=First steps in Ubuntu
+% DESCRIPTION=First steps in Ubuntu
+% KEYWORDS=reset, workshop,gnu-linux,free-software
+<section id="content">=Introduction=
+----
+
+Fine, you have already installed Ubuntu, and now what?. Reset shows you how to manage, configure and know the potential of this GNU/Linux distribution.
+
+<p class="centered"><img src="/uploads/pool_tux_matrix_group.png" alt="tux_matrix_group.png"/>
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/dq4Oj5quskI"></iframe>
+
+You can see how new Ubuntu works. It's easy and powerful at the same time.
+
+<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/brJw8ydJA94"></iframe>
+
+What are you waiting for?
+
+=Contents=
+----
+
+<ul><li>Beginning with the new desktop.<ul></ul>
+
+</li><li>System Settings.<ul></ul>
+
+</li></ul>
+
+<ul><li>Install and uninstall software.<ul></ul>
+
+</li><li>Some free software.<ul></ul>
+
+</li></ul>
+
+<ul><li>How the system works: kernel, filesystem hierarchy...<ul></ul>
+
+</li><li>Feel the power: Terminal.<ul></ul>
+
+</li></ul>
+
+<ul><li>If you have suggestions or want to know more about a particular topic please contact us.<ul></ul>
+
+</li></ul>
+
+=What you need=
+----
+
+<ul><li>Ubuntu: you may either bring your laptop if you have already installed Ubuntu or use one of the available computers at the workshop. We recommend you to use your own computer as the Ubuntu version installed in the other computers is outdated.<ul></ul>
+
+</li><li>Send an email to aereset@gmail.com saying that you are coming.<ul></ul>
+
+</li></ul>
+
+=When and where=
+----
+
+??? We are sorry, last "Starting with Linux" workshop was the <strong>2 November 2011</strong>. Our workshops usually take place once a year and around the same dates.
+
+Stay tuned for future events!
+
+<!--=Resources=
+----
+
+You may find resources and pictures of this workshop in <a href="ftp://reset.etsii.upm.es/workshops/starting-with-linux/" title="FTP directory for the Starting with Linux workshop">our FTP directory</a>.
+
+--><aside class="workshop_tags"><ul><li><a href="/en/workshops/categories/gnu-linux/" title="Search by category">gnu-linux</a></li><li><a href="/en/workshops/categories/free-software/" title="Search by category">free-software</a></li></ul>
+
+</aside><footer>

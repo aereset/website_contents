@@ -1,0 +1,13 @@
+% TITLE=Diseño
+% SUBTITLE=Desarrolla tu creatividad
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para el diseño vectorial.
+% KEYWORDS=reset, aplicaciones, diseño, vectorial, svg
+=Editor de gráficos vectoriales=
+==Para imágenes basadas en vectores==
+----
+
+<dl class="app"><dt class="app_name">Inkscape</dt><dd class="app_img"><img src="/uploads/apps_inkscape.png" alt="Inkscape" /></dd><dd class="app_desc">Inkscape es un editor de gráficos vectoriales, con capacidades similares a las de Illustrator, CorelDraw o Xara X, y que hace uso del formato de archivo estándar Scalable Vector Graphics (SVG) definido por el W3C.
+
+</dd><dd class="app_feat"><ul><li>Entre sus funcionalidades se encuentran las formas básicas, trayectos, marcadores, clones, mezclado alfa, transformaciones, gradientes y agrupamiento.</li><li>Soporta metadatos de Creative Commons, edición de nodos, capas, operaciones complejas con trayectos, texto sobre trayectos, texto sobre formas y edición XML del archivo SVG.<li>Importa distintos formatos como EPS, PostScript, JPEG, PNG, BMP y TIFF y exporta PNG al igual que otros múltiples formatos vectoriales.</li></ul>
+
+</dd><dd class="app_link"><a href="http://inkscape.org/" title="">http://inkscape.org/</a></dd></dl>

@@ -1,0 +1,17 @@
+% TITLE=Programación
+% SUBTITLE=Para programadores principiantes y experimentados
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para la depuración
+% KEYWORDS=reset, aplicaciones, programación, depurador
+=Depuradores=
+==Para encontrar qué es lo que falla==
+----
+
+<dl class="app"><dt class="app_name">GDB</dt><dd class="app_img"><img src="/uploads/apps_gdb.png" alt="GDB" /></dd><dd class="app_desc">GNU Debugger es el depurador estándar del sistema GNU. Te permite ver qué está ocurriendo "dentro" de otro programa mientras se ejecuta, o qué es lo que estaba haciendo en el momento que se produjo un error.
+
+</dd><dd class="app_feat"><ul><li>Amplias facilidades para el seguimiento y la modificación de la ejecución de programas de ordenador.</li><li>El usuario puede controlar y modificar los valores de las variables internas de los programas, e incluso llamar a las funciones de forma independiente del comportamiento normal del programa.</li><li>Ofrece un modo "a distancia" que a menudo se utiliza para la depuración de sistemas embebidos.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/gdb/" title="">http://www.gnu.org/software/gdb/</a></dd></dl><dl class="app"><dt class="app_name">Valgrind</dt><dd class="app_img"><img src="/uploads/apps_valgrind.png" alt="Valgrind" /></dd><dd class="app_desc">Valgrind es una herramienta para la depuración de memoria, detección de pérdida de memoria y de perfiles.
+
+</dd><dd class="app_feat"><ul><li>Actualmente incluye seis herramientas para asegurar la calidad de la producción: un detector de error de memoria, dos hilos de detección de errores, un perfilador de caché y predicción de saltos, un perfilador para la predicción de ramas y la generación de caché y un perfilador de la pila de la memoria.</li></ul>
+
+</dd><dd class="app_link"><a href="http://valgrind.org/" title="">http://valgrind.org/</a></dd></dl>

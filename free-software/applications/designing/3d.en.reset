@@ -1,0 +1,15 @@
+% TITLE=Designing
+% SUBTITLE=Develop your creativity
+% DESCRIPTION=Know some great free software applications for 3D designing.
+% KEYWORDS=reset, applications, desinging, 3D
+=3D design=
+==Explore the third dimension!==
+----
+
+<dl class="app"><dt class="app_name">Blender</dt><dd class="app_img"><img src="/uploads/apps_blender.png" alt="Blender" /></dd><dd class="app_desc">Blender is a professional free open source 3D content creation suite, available for all major operating systems.
+
+Blender's features include advanced simulation tools such as rigid, realistic body, fluid, cloth and softbody dynamics, modifier-based modeling tools, powerful character animation tools, a node-based material and compositing system and Python for embedded scripting.
+
+</dd><dd class="app_feat"><ul><li>Fully configurable window layout with as many screen setups as you prefer.</li><li>Very fast Catmull-Clark subdivision surfaces with optimal iso-lines display, sharpness editing and smooth soft selection editing tools for organic modeling.</li><li>Non-linear animation editor for mixing individual actions created in Action editor.</li><li>Lots of other features for modeling, rigging, rendering, animation, shading, UV unwrapping, imaging and compositing, physics and particles and realtime 3D/game creation.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.blender.org/" title="">http://www.blender.org/</a></dd></dl>

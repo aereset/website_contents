@@ -1,0 +1,17 @@
+% TITLE=Office
+% SUBTITLE=Applications for creating documents or managing data
+% DESCRIPTION=Know some great free software applications for PDF creation and manipulation
+% KEYWORDS=reset, applications, office, pdf
+=PDF manipulation=
+==Creating, editing, rearranging...==
+----
+
+<dl class="app"><dt class="app_name">PDF-Shuffler</dt><dd class="app_img"><img src="/uploads/apps_pdf-shuffler.png" alt="PDF-Shuffler" /></dd><dd class="app_desc">PDF-Shuffler helps the user to merge or split PDF documents and rotate, crop and rearrange their pages.
+
+</dd><dd class="app_feat"><ul><li>Interactive and intuitive graphical interface.</li></ul>
+
+</dd><dd class="app_link"><a href="http://sourceforge.net/projects/pdfshuffler/" title="">http://sourceforge.net/projects/pdfshuffler/</a></dd></dl><dl class="app"><dt class="app_name">gscan2pdf</dt><dd class="app_img"><img src="/uploads/apps_gscan2pdf.png" alt="gscan2pdf" /></dd><dd class="app_desc">gscan2pdf is a GUI to ease the process of producing a multipage PDF from a scan.
+
+</dd><dd class="app_feat"><ul><li>Produce PDF or DjVu files.</li><li>Optical character recognition support.</ul>
+
+</dd><dd class="app_link"><a href="http://gscan2pdf.sourceforge.net/" title="">http://gscan2pdf.sourceforge.net/</a></dd></dl>

@@ -1,0 +1,8 @@
+% TITLE=Ciencia y educación
+% SUBTITLE=Para el colegio o la universidad, para estudiantes e investigadores...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para la ciencia y educación. Matemáticas, electrónica, física, química, CAD...
+% KEYWORDS=reset, aplicaciones, ciencia, educación, matemáticas, electrónica, física, química, CAD
+=Selecciona alguna categoría=
+----
+
+<a class="cat" href="./math/"><dl class="cat"><dt class="cat_name">Matemáticas</dt><dd class="cat_desc">Computación numérica y simbólica, estadística, etc.</dd></dl></a><a class="cat" href="./electronics/"><dl class="cat"><dt class="cat_name">Electrónica</dt><dd class="cat_desc">Diseño de esquemas y PCB, simulación...</dd></dl></a><a class="cat" href="./cad/"><dl class="cat"><dt class="cat_name">CAD</dt><dd class="cat_desc">Diseño asistido por computador</dd></dl></a>

@@ -1,0 +1,19 @@
+% TITLE=Internet
+% SUBTITLE=For surfing the web, and much more!
+% DESCRIPTION=Know some great free software applications for browsing through the internet
+% KEYWORDS=reset, applications, internet, browser
+=Browsers=
+==And start surfing the web!==
+----
+
+<dl class="app"><dt class="app_name">Firefox</dt><dd class="app_img"><img src="/uploads/apps_firefox.png" alt="Firefox" /></dd><dd class="app_desc">The Firefox browser is created by Mozilla, a non-profit organization whose mission is to promote openness, innovation and opportunity on the Web.
+
+</dd><dd class="app_feat"><ul><li>Fast and secure.</li><li>Highly customizable: more than 6,000 add-ons to fit your exact needs.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.mozilla.com/firefox/" title="">http://www.mozilla.com/firefox/</a></dd></dl><dl class="app"><dt class="app_name">Chromium</dt><dd class="app_img"><img src="/uploads/apps_chromium.png" alt="Chromium" /></dd><dd class="app_desc">The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively.
+
+Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
+
+</dd><dd class="app_feat"><ul><li>Fast and secure.</li><li>Highly standard compliant (according to the latest web standards defined by the W3C).</li></ul>
+
+</dd><dd class="app_link"><a href="https://sites.google.com/a/chromium.org/dev/Home" title="">https://sites.google.com/a/chromium.org/dev/Home</a></dd></dl>

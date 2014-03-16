@@ -1,0 +1,31 @@
+% TITLE=Ciencia y educación
+% SUBTITLE=Para el colegio o la universidad, para estudiantes e investigadores...
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para electrónica (diseño de esquemas y PCB, simulación...)
+% KEYWORDS=reset, aplicaciones, ciencia, educación, electrónica, esquema, pcb, simulación
+=Electrónica=
+==Diseño de esquemas y PCB, simulación...==
+----
+
+<dl class="app"><dt class="app_name">KiCAD</dt><dd class="app_img"><img src="/uploads/apps_kicad.png" alt="KiCAD" /></dd><dd class="app_desc">Kicad es un programa para la creación de esquemas electrónicos y placas de circuito impreso (PCB).
+
+La suite consiste en un administrador de proyectos, un editor de esquemas, un conversor netlist, una herramienta de diseño de PCB y un visor de archivos gerber.
+
+</dd><dd class="app_feat"><ul><li>Eeschema (editor de esquemas): creación de hojas simples o jerarquizadas, herramienta de comprobación de reglas eléctricas (ERC), creación de netlists para Pcbnew o Spice...</li><li>Pcbnew (PCB editor): desde 1 hasta 16 capas de cobre más 12 capas técnicas ("silk screen", "solder mask"...) y creación de todos los archivos necesarios para la construcción de placas de circuito impreso (archivos GERBER para "photoplotters", archivos de taladrado y archivos de localización de componentes). Puede representar una previsualización de la placa con sus componentes en 3D. También nos permite imprimir las capas de la placa en impresoras láser PostScript (para prototipos).</li><li>Ambas herramientas, Eeschema y Pcbnew, tienen un administrador de bibliotecas y editor de componentes y "footprints".</li><li>Exporta a muchos formatos comunes como Postscript, SVG, Gerber RS274D/X, HPGL, DXF, Excellon...</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.lis.inpg.fr/realise_au_lis/kicad/" title="">http://www.lis.inpg.fr/realise_au_lis/kicad/</a></dd></dl><dl class="app"><dt class="app_name">gEDA/gaf</dt><dd class="app_img"><img src="/uploads/apps_geda.png" alt="gEDA/gaf" /></dd><dd class="app_desc">El proyecto gEDA ha creado y continúa trabajando en una suite libre y completa de herramientas para la automatización de diseños electrónicos. Estas herramientas se utilizan para el diseño de circuitos eléctricos, captura esquemática, simulación, prototipado y producción. Actualmente, el proyecto gEDA ofrece una conjunto de aplicaciones libres y maduras para el diseño electrónico, incluyendo la captura esquemática, administración de atributos, generación de la lista de materiales (BOM), "netlisting" en más de 20 formatos, simulación analógica y digital y diseño de placas de circuito impreso (PCB).
+
+gEDA /gaf (gschem and friends) consiste en varias herramientas para el diseño de esquemas.
+
+</dd><dd class="app_feat"><ul><li>Funcionalidades principales...</li><li>Funcionalidades principales...</li></ul>
+
+</dd><dd class="app_link"><a href="http://geda.seul.org/wiki/geda:gaf" title="">http://geda.seul.org/wiki/geda:gaf</a></dd></dl><dl class="app"><dt class="app_name">gEDA/PCB</dt><dd class="app_img"><img src="/uploads/apps_pcb.png" alt="PCB" /></dd><dd class="app_desc">El proyecto gEDA ha creado y continúa trabajando en una suite libre y completa de herramientas para la automatización de diseños electrónicos. Estas herramientas se utilizan para el diseño de circuitos eléctricos, captura esquemática, simulación, prototipado y producción. Actualmente, el proyecto gEDA ofrece una conjunto de aplicaciones libres y maduras para el diseño electrónico, incluyendo la captura esquemática, administración de atributos, generación de la lista de materiales (BOM), "netlisting" en más de 20 formatos, simulación analógica y digital y diseño de placas de circuito impreso (PCB).
+
+PCB es un editor de placas de circuito impreso interactivo.
+
+</dd><dd class="app_feat"><ul><li>Funcionalidades principales...</li><li>Funcionalidades principales...</li></ul>
+
+</dd><dd class="app_link"><a href="http://pcb.gpleda.org/" title="">http://pcb.gpleda.org/</a></dd></dl><dl class="app"><dt class="app_name">Qucs</dt><dd class="app_img"><img src="/uploads/apps_qucs.png" alt="Qucs" /></dd><dd class="app_desc">Qucs es un simulador de circuitos con interfaz gráfica. Este software tiene como objetivo cubrir cualquier tipo de simulación de circuitos, CC, AC, S-parameter, transitorios, ruido y análisis de balance de armónicos. También soporta simulaciones digitales.
+
+</dd><dd class="app_feat"><ul><li>Utiliza FreeHSL e Icarus Verilog para VHDL y simulación digital Verilog.</li><li>El paquete ADMS (Analogue Device Model Synthesis) está interconectado con Qucs para permitir "Verilog-A compact device" y "circuit macromodelling".</li><li>Soporte para los siguientes tipos de análisis analógico: CC, CA, ruido en CA, S-parameter, ruido en S-parameter y transitorios.</li></ul>
+
+</dd><dd class="app_link"><a href="http://qucs.sourceforge.net/" title="">http://qucs.sourceforge.net/</a></dd></dl>

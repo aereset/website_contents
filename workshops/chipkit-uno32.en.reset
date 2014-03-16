@@ -1,0 +1,84 @@
+% TITLE=chipKIT Uno32
+% SUBTITLE=Learn the basics of this powerful microcontroller
+% DESCRIPTION=Learn the basics of this powerful microcontroller
+% KEYWORDS=reset, workshop,microcontrollers,programming
+<section id="content">=Introduction=
+----
+
+Learn how to use this new microcontroller with HW and SW totally compatible with Arduino Uno. All of this of course increasing speed performance, memory capacity, number of output and input pins, etc.
+
+<p class="centered"><img src="/uploads/pool_chipkit_uno32.jpg" alt="chipkit_uno32.jpg"/>
+
+Reset has prepared a workshop to teach you how to use this device in different platforms always getting the best possible performance.
+
+? If you have already worked with Arduino Uno, you may want to <a href="http://www.tecbolivia.com/index.php?option=com_content\&amp;view=article\&amp;id=28">have a look at the differences between Arduino Uno and chipKIT Uno32</a>.
+
+=Contents=
+----
+
+==Index==
+<ul><li>Microcontroller description.<ul></ul>
+
+</li><li>Driver installation in Windows and Ubuntu.<ul></ul>
+
+</li></ul>
+
+<ul><li>Arduino Integrated Development Environment (IDE) installation.<ul></ul>
+
+</li><li>First Arduino programms.<ul></ul>
+
+</li></ul>
+
+<ul><li>HW “Hello world!”: LED lighting, managing buttons, reading sensors.<ul></ul>
+
+</li></ul>
+
+==Resources==
+<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/chipKIT/PresentacionChipKIT.pdf"> Presentation</a><ul></ul>
+
+</li><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/chipKIT/DocumentacionChipKIT.pdf"> Documentation</a><ul></ul>
+
+</li></ul>
+
+<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/chipKIT/chipKITUbuntu.zip"> Installation Manual: Ubuntu</a><ul></ul>
+
+</li><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/chipKIT/chipKITWindows.pdf">Installation Manual: Windows</a><ul></ul>
+
+</li></ul>
+
+<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/chipKIT/HWSpecifics.zip">HW Specifics</a><ul></ul>
+
+</li></ul>
+
+=What you need=
+----
+
+<ul><li>A computer: you may bring your laptop (recommended) or borrow the ones we have in the lab.<ul></ul>
+
+</li><li>A pair of LEDs of any color, an <strong>USB A to mini-B cable</strong>, one push button, an LDR sensor, 3 x 0.5m of solid wire (black, red and any other color), a pair of 150 Ohm resistors and some cutting pliers.**<ul></ul>
+
+</li></ul>
+
+<ul><li>Send an email to aereset@gmail.com saying that you are coming.<ul></ul>
+
+</li></ul>
+
+Before buying the cable, check you don't already have one at home (some cameras and other devices use it):
+
+<p class="centered"><img src="/uploads/pool_usb_a2minib.jpg" alt="usb_a2minib.jpg"/>
+
+=When and where=
+----
+
+??? We are sorry, last "chipKIT Uno32" workshop was the <strong>30 November 2012</strong>. Our workshops usually take place once a year and around the same dates.
+
+Stay tuned for future events!
+
+<!--=Resources=
+----
+
+You may find resources and pictures of this workshop in <a href="ftp://reset.etsii.upm.es/workshops/chipkit-uno32/" title="FTP directory for the chipKIT Uno32 workshop">our FTP directory</a>.
+
+--><aside class="workshop_tags"><ul><li><a href="/en/workshops/categories/microcontrollers/" title="Search by category">microcontrollers</a></li><li><a href="/en/workshops/categories/programming/" title="Search by category">programming</a></li></ul>
+
+</aside><footer>

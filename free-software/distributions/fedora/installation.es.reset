@@ -1,0 +1,98 @@
+% TITLE=Fedora
+% SUBTITLE=Instalación
+% DESCRIPTION=Proceso de instalación: sigue una serie de pasos sencillos para instalar Fedora en tu disco duro y configurar tu cuenta de ususario.
+% KEYWORDS=reset, distribución, fedora, instalación, proceso, trucos, configuración, arranque
+=El proceso de instalación=
+----
+
+Para empezar con el proceso de instalación, ve a "Activities" y busca por "install" para lanzar el asistente de instalación, que te ayudará a lo largo de todo el proceso (puede que tengas un lanzador en la barra de la izquierda cuando vayas a "Activities"). Si estás en el modo "Fall Back" de GNOME (sin soporte 3D), simplemente ve a "Applications --> System Tools --> Install to Hard Drive".
+
+En primer lugar, necesitamos seleccionar nuestra distribución del teclado. Observa que los nombres en la lista están en inglés así que, por ejemplo, si tienes un teclado español, deberás buscar por "Spanish" y no por "Español".
+
+<figure><img src="/uploads/distros_fedora_installer_keyboard.png" alt="Anaconda - Distribución del teclado" /><figcaption>Anaconda - Distribución del teclado</figcaption></figure>
+
+Tras esto, necesitas seleccionar el tipo de dispositivos que se verán involucrados en la instalación. Simplemente selecciona "Basic Storage Devices", a no ser que sepas lo que estás haciendo:
+
+<figure><img src="/uploads/distros_fedora_installer_storage.png" alt="Anaconda - Dispositivos de almacenamiento" /><figcaption>Anaconda - Dispositivos de almacenamiento</figcaption></figure>
+
+Tu ordenador necesita un nombre de anfitrión ("hostname") para ser identificado en una red. Normalmente, no necesitas procuparte por esto, así que utiliza la opción por defecto "localhost.localdomain" o bien nómbralo con, por ejemplo, el modelo de tu ordenador en tu casa. Aquí tienes algunos ejemplos: "dellvostro1520.casa", "aceraspiretunombre.oficina", "escritorio.migaraje"... lo que se te ocurra ;-).
+
+<figure><img src="/uploads/distros_fedora_installer_hostname.png" alt="Anaconda - Nombre de anfitrión" /><figcaption>Anaconda - Nombre de anfitrión</figcaption></figure>
+
+En el siguiente paso, necesitas especificar tu localización, que es importante para el ajuste de la fecha y la hora del sistema. Simplemente selecciona en el mapa algún lugar cercano al tuyo (observa que puedes ampliar la imagen del mapa utilizando los controles a su izquiera) o bien busca en la lista que hay debajo (probablemente será más difícil de encontrar). Observa que hay una opción que dice "System clock uses UTC", necesitas seleccionar esto si Fedora es el único sistema operativo en tu ordenador, si ya tenías un sistema operativo antes y lo conservaste tras la instalación, deja esta casilla sin marcar.
+
+<figure><img src="/uploads/distros_fedora_installer_l10n.png" alt="Anaconda - Localización" /><figcaption>Anaconda - Localización</figcaption></figure>
+
+El próximo paso te permitirá elegir la contraseña de administrador. Date cuenta de que esta contraseña no es la misma que la de tu usuario. Se te pedirá cuando realices tareas de administración del sistema (como instalar o desinstalar programas, ajustar la configuración del sistema, etc.). Si se trata de tu ordenador personal, puedes utilizar la misma contraseña para el administrador y para tu cuenta de usuario. Si no es así, tal vez quieras tener contraseñas distintas: la contraseña de usuario para que otros puedan utilizar tu ordenador sin riesgos para tu sistema y la de administrador para evitar que otros puedan modificar tu sistema sin tu permiso.
+
+<figure><img src="/uploads/distros_fedora_installer_root.png" alt="Anaconda - Contraseña de administrador" /><figcaption>Anaconda - Contraseña de administrador</figcaption></figure>
+
+Casi has terminado. Ahora selecciona el tipo de instalación que desees:
+
+<ul><li>Si ya tienes un sistema GNU/Linux instalado en tu ordenador, selecciona la opción "Replace Existing Linux Sistem(s)".</li><li>Si ya tienes algo de espacio libre en tu disco duro (tal vez ya lo creaste anteriormente), selecciona la opción "Use Free Space".</li><li>En caso contrario, selecciona la opción "<strong>Shrink Current System</strong>" y reduce alguna partición para crear algo de espacio libre para la instalación.</li><li>Si sabes lo que haces, no necesitas que te digamos que puedes escoger la opción de "Create Custom Layout".</li></ul>
+
+<figure><img src="/uploads/distros_fedora_installer_procedure.png" alt="Anaconda - Tipo de instalación" /><figcaption>Anaconda - Tipo de instalación</figcaption></figure>
+
+? Te recomendamos como mínimo 40 GB de espacio libre en tu disco duro antes de la instalación. Intenta no utilizar más del 50% del espacio libre (si tienes 40 Gb, utiliza sólo 20 GB para la instalación). Si tienes más de 100 GB de espacio libre, te recomendamos que no utilices más de 50 GB para la instalación (esto es más que suficiente para un sistema operativo GNU/Linux).
+
+Tras esto, sólo necesitas seleccionar el/los dispositivo/s en los que quieres que se instale tu sistema. Es posible que no veas este paso si sólo tienes un disco duro y ningún USB conectado, en ese caso, simplemente omite las próximas dos imágenes.
+
+Observa que, en este caso, el instalador muestra dos dispositivos: nuestro disco duro y nuestro LiveUSB. Queremos que Fedora se instale en nuestro disco duro, así que lo seleccionamos y lo ponemos en la lista de la derecha:
+
+<figure><img src="/uploads/distros_fedora_installer_devices.png" alt="Anaconda - Dispositivos" /><figcaption>Anaconda - Dispositivos</figcaption></figure>
+
+Deberás asegurarte de que la opción "Boot Loader" se encuentra habilitada en el dispositivo seleccionado:
+
+<figure><img src="/uploads/distros_fedora_installer_devices_2.png" alt="Anaconda - Dispositivos (selección del gestor de arranque)" /><figcaption>Anaconda - Dispositivos (selección del gestor de arranque)</figcaption></figure>
+
+Ahora, sólo necesitas confirmar los cambios seleccionando la opción "Write Changes to Disk":
+
+<figure><img src="/uploads/distros_fedora_installer_confirm.png" alt="Anaconda - Confirmación" /><figcaption>Anaconda - Confirmación</figcaption></figure>
+
+Tras la confirmación, comenzará el proceso de instalación. Sé paciente. El instalador necesita algo de tiempo para crear y formatear las particiones, para copiar la imagen viva al disco duro y para realizar los cambios de post-instalación...
+
+Tras unos minutos, habrás terminado:
+
+<figure><img src="/uploads/distros_fedora_installer_congratulations.png" alt="Anaconda - Instalación completa" /><figcaption>Anaconda - Instalación completa</figcaption></figure>
+
+¡Enhorabuena! ¡Has instalado correctamente Fedora en tu ordenador!
+
+? Reinicia tu sistema y no olvides retirar el medio de instalación (ya sea CD, DVD o USB).
+
+=Arrancando el nuevo sistema=
+----
+
+Cuando arranques el sistema por primera vez, verás el menú de GRUB, que te permitirá seleccionar el sistema operativo que quieres arrancar (en caso de que tengas más de uno). Por defecto, tras instalar Fedora, arrancará éste sistema de forma automática tras unos segundos salvo que presiones alguna tecla (sólo trata de evitar 'e', 'a', 'c' o 'ENTER') para ver las otras opciones de arranque (podrás cambiar la opción por defecto y el tiempo de cuenta atrás más adelante). Selecciona la opción con la palabra "Fedora" para arrancar Fedora:
+
+<figure><img src="/uploads/distros_fedora_grub_menu.png" alt="Menú GRUB" /><figcaption>Menú GRUB</figcaption></figure>
+
+Tras una actualización del "kernel", aparecerán más lineas de Fedora. Esto te permitirá elegir un "kernel" más antiguo en caso de que el más nuevo no te funcione, cosa que no debería ocurrirte nunca ;-). Así que, cuando arranques Fedora, ¡trata de seleccionar siempre la línea superior!
+
+Como ésta es la primera vez que arrancas Fedora, necesitarás completar unos pocos pasos más para terminar la configuración del sistema. El "Setup Agent" te guiará a lo largo del proceso. Tras leer la información sobre la licencia, podrás crear tu usuario:
+
+<figure><img src="/uploads/distros_fedora_setup_agent_user.png" alt="Setup Agent - Pantalla para la creación del usuario" /><figcaption>Setup Agent - Pantalla para la creación del usuario</figcaption></figure>
+
+Simplemente rellena tu "Full Name" (nombre completo), "Username" (nombre de usuario) y "Password" (contraseña: la necesitarás para entrar a tu sesión). No debes preocuparte por nada más en este paso. Te recomendamos que utilices un "Username" (nombre de usuario) corto y preferiblemente escrito en minúsculas.
+
+Después, necesitarás establecer la fecha y la hora. Probablemente, la fecha y la hora se encuentren ya ajustadas y no necesites modificarlas:
+
+<figure><img src="/uploads/distros_fedora_setup_agent_date.png" alt="Setup Agent - Fecha y hora" /><figcaption>Setup Agent - Fecha y hora</figcaption></figure>
+
+De todos modos, no es una mala idea el seleccionar la opción "Synchronize date and time over the network" (sincronizar fecha y hora por red):
+
+<figure><img src="/uploads/distros_fedora_setup_agent_date_network.png" alt="Setup Agent - Fecha y hora (sincronización por red)" /><figcaption>Setup Agent - Fecha y hora (sincronización por red)</figcaption></figure>
+
+No debes preocuparte por las "Advanced options" (opciones avanzadas), simplemente haz "click" en "Forward" para ir al último paso.
+
+Ahora puedes decidir si quieres enviar tu perfil de hardware. Ésta es una forma estupenda de ayudar a la comunidad, y te ayudará a ti ya que los desarrolladores tal vez se centren en tu hardware y plataforma. Date cuenta de que es un proceso totalmente anónimo. Si no estás seguro sobre ésto, te recomendamos que selecciones la opción "Send profile":
+
+<figure><img src="/uploads/distros_fedora_setup_agent_hardware.png" alt="Setup Agent - Perfil de hardware" /><figcaption>Setup Agent - Perfil de hardware</figcaption></figure>
+
+Haz "click" en "Finish" y... ¡habrás terminado!
+
+¡Enhorabuena! Ahora puedes disfrutar tu recién instalado sistema operativo Fedora! Sencillamente selecciona tu usuario y utiliza tu contraseña para comenzar la diversión :-D.
+
+=Más cosas para hacer=
+----
+
+Tras seguir ésta guía de instalación, podrás utilizar tu sistema, pero, como acaba de ser instalado, te recomendamos que sigas las instrucciones en nuestra <a href="/es/free-software/distributions/fedora/post-installation/" title="guía de post-instalación de Fedora">guía de post-instalación de Fedora</a>.

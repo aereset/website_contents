@@ -1,0 +1,13 @@
+% TITLE=System
+% SUBTITLE=Backups, partition editing, virtualization...
+% DESCRIPTION=Know some great free software applications for virtualization
+% KEYWORDS=reset, applications, system, virtualization
+=Virtualization=
+==For running multiple OS and much more!==
+----
+
+<dl class="app"><dt class="app_name">VirtualBox-OSE</dt><dd class="app_img"><img src="/uploads/apps_virtualbox-ose.png" alt="VirtualBox-OSE" /></dd><dd class="app_desc">VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+
+</dd><dd class="app_feat"><ul><li>64-bit guests (64-bit hosts with CPU virtualization extensions).</li><li>NCQ support for SATA, SCSI and SAS raw disks and partitions.</li><li>VMware format and Microsoft VHD support.</li><li>Intel HD audio and ICH9 shipset emulation.</li><li>Lots of other features.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.virtualbox.org/" title="">http://www.virtualbox.org/</a></dd></dl>

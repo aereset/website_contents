@@ -1,0 +1,8 @@
+% TITLE=System
+% SUBTITLE=Backups, partition editing, virtualization...
+% DESCRIPTION=Know some great free software applications for your system. Backups, partition editing, virtualization...
+% KEYWORDS=reset, applications, system, backup, partition, virtualization
+=Select any category=
+----
+
+<a class="cat" href="./backups/"><dl class="cat"><dt class="cat_name">Backups</dt><dd class="cat_desc">Safe your data</dd></dl></a><a class="cat" href="./partitions/"><dl class="cat"><dt class="cat_name">Partition editing</dt><dd class="cat_desc">Create, delete, resize or move partitions</dd></dl></a><a class="cat" href="./virtualization/"><dl class="cat"><dt class="cat_name">Virtualization</dt><dd class="cat_desc">For running multiple OS and much more!</dd></dl></a>

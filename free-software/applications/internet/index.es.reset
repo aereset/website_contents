@@ -1,0 +1,8 @@
+% TITLE=Internet
+% SUBTITLE=Para navegar por la red, ¡y mucho más!
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para Internet. Navegadores, máquinas de descargas, aplicaciones de chat...
+% KEYWORDS=reset, aplicaciones, internet, navegador, descarga, chat
+=Selecciona alguna categoría=
+----
+
+<a class="cat" href="./browsers/"><dl class="cat"><dt class="cat_name">Navegadores</dt><dd class="cat_desc">¡Y comienza a navegar por la red!</dd></dl></a><a class="cat" href="./downloads/"><dl class="cat"><dt class="cat_name">Máquinas de descarga</dt><dd class="cat_desc">Consigue la información que quieres de la web</dd></dl></a><a class="cat" href="./chat/"><dl class="cat"><dt class="cat_name">Chat</dt><dd class="cat_desc">Mantente en contacto con otras personas</dd></dl></a>

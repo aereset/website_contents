@@ -1,0 +1,13 @@
+% TITLE=Otras aplicaciones
+% SUBTITLE=Incluyendo software propietario
+% DESCRIPTION=Conoce algunas otras aplicaciones que puede que quieras instalar en tu ordenador. Incluyendo software propietario...
+% KEYWORDS=reset, aplicaciones, propietario, software
+=Software propietario=
+==¡Evita utilizarlo salvo en casos imprescindibles!==
+----
+
+Tal vez necesites utilizar software propietario para tu trabajo, tus estudios, etc.. En este caso, puede que descubras que tu aplicación tiene ya soporte en sistemas GNU/Linux. Echa un vistazo a la siguiente lista de software propietario comúnmente utilizado:
+
+<ul><li>Diablo II <span class="note">*</span></li><li>Google Chrome</li><li>Maple</li><li>Matlab</li><li>Opera</li><li>Safari <span class="note">*</span></li><li>Skype</li><li>Spotify <span class="note">*</span></li><li>StarCraft II <span class="note">*</span></li><li>Oracle Virtual Box</li><li>WoW <span class="note">*</span></li></ul>
+
+?? <span class="note">*</span> Only using <a href="http://www.winehq.org/" title="Wine's website">Wine</a>.

@@ -1,0 +1,23 @@
+% TITLE=Distribución Reset
+% SUBTITLE=Una distribución basada en Fedora
+% DESCRIPTION=La distribución de Reset está basada en Fedora, pero viene con los repositorios RPM Fusion y muchos programas, códecs y complementos utilizados habitualmente.
+% KEYWORDS=reset, distribución, reset, fedora
+=Información=
+----
+
+La distribución de Reset basada en Fedora es una <a href="http://fedoraproject.org/wiki/Remix">reconstrucción de Fedora</a>. Viene con los <a href="http://rpmfusion.org/" title="RPM Fusion website">repositorios RPM Fusion</a> y muchos programas, códecs y complementos utilizados habitualmente mientras continúa siendo completamente compatible con Fedora (también incluye los repositorios oficiales de Fedora). ¡Esto facilitará mucho el proceso de post-instalación!
+
+Aquí hay una lista de parte del software que incluimos en nuestra distribución:
+
+<ul><li><a href="http://www.libreoffice.org/">LibreOffice</a> (suite libre para la edición de documentos, hojas de cálculo, presentaciones, gráficos y bases de datos)</li><li><a href="http://live.gnome.org/GnomeShell/Extensions">Extensiones de GNOME Shell</a> (para personalizar tu escritorio)</li><li><a href="http://www.gimp.org">Gimp</a>, <a href="http://inkscape.org">Inkscape</a> y <a href="http://mypaint.intilinux.com/">MyPaint</a> (para la edición de imágenes vectoriales y rasterizadas)</li><li><a href="http://www.tucaneando.com/">Tucan</a>, <a href="http://www.mozilla-europe.org/">Firefox</a>, <a href="http://www.transmissionbt.com/">Transmission</a> y <a href="http://rg3.github.com/youtube-dl/">youtube-dl</a> (para gestionar las descargas y navegar por la red)</li><li><a href="http://sourceforge.net/projects/pdfshuffler/">PDF-Shuffler</a> y <a href="http://tellico-project.org/">Tellico</a> (más aplicaciones de oficina)</li><li><a href="http://www.winehq.org/">Wine</a> (te permitirá ejecutar aplicaciones de Windows en sistemas GNU/Linux)</li><li><a href="http://projects.gnome.org/rhythmbox/">Rhythmbox</a>, <a href="http://www.videolan.org/vlc/">VLC</a> y <a href="http://www.openshotvideo.com/">OpenShot</a> (para la reproducción y edición de archivos de vídeo y audio)</li><li><a href="http://www.adobe.com/products/flashplayer/">Adobe Flash Player plugin</a> (para una mejor compatibilidad con muchos sitios web)</li><li>Muchos, muchos códecs (para reproducir MP3, MP4, WMA... para trabajar con archivos .rar, .7z... para reproducir DVDs en tu ordenador...)</li><li>¡Y mucho, mucho más!</li></ul>
+
+=Descargas=
+----
+
+Escoge la versión que quieras descargar:
+
+<ul><li><a href="ftp://reset.etsii.upm.es/users/peque/releases/Fedora-16-Reset-i686.iso" title="Descargar la imagen viva de Reset Fedora 16 para sistemas de 32 bits">Fedora 16 Reset Remix - Live image (32 bits)</a> - (<em><a href="ftp://reset.etsii.upm.es/users/peque/releases/SHA256SUMS" title="Tal vez quieras verificar tu descarga con sha256sum">sha256sum</a></em>)</li><li><a href="ftp://reset.etsii.upm.es/users/peque/releases/Fedora-16-Reset-x86_64.iso" title="Descargar la imagen viva de Reset Fedora 16 para sistemas de 64 bits">Fedora 16 Reset Remix - Live image (64 bits)</a> - (<em><a href="ftp://reset.etsii.upm.es/users/peque/releases/SHA256SUMS" title="Tal vez quieras verificar tu descarga con sha256sum">sha256sum</a></em>)</li></ul>
+
+? <strong>Nota:</strong> Si no sabes qué versión necesitas, descarga la versión de 32 bits.
+
+Si quieres sabes cómo instalar y configurar nuestra distribución, simplemente dirígete a la <a href="/es/free-software/distributions/fedora/" title="Distribución Fedora">Documentación de Fedora</a> en este sitio web.

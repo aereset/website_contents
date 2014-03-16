@@ -1,0 +1,13 @@
+% TITLE=Diseño
+% SUBTITLE=Desarrolla tu creatividad
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas para el diseño rasterizado.
+% KEYWORDS=reset, aplicaciones, diseño, rasterizado
+=Editor de gráficos rasterizados=
+==Para imágenes basadas en una resolución==
+----
+
+<dl class="app"><dt class="app_name">Gimp</dt><dd class="app_img"><img src="/uploads/apps_gimp.png" alt="Gimp" /></dd><dd class="app_desc">GIMP es el programa de manipulación de imágenes de GNU. Es una pieza de software libre diseñada para el retoque fotográfico, composición y edición de imágenes.
+
+</dd><dd class="app_feat"><ul><li>Interfaz personalizable.</li><li>Realce fotográfico y retoque digital.</li><li>Nuevo núcleo de procesamiento de imagen no destructivo.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gimp.org/" title="">http://www.gimp.org/</a></dd></dl>

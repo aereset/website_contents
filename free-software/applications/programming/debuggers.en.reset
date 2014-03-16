@@ -1,0 +1,17 @@
+% TITLE=Programming
+% SUBTITLE=For experienced and novice programmers
+% DESCRIPTION=Know some great free software applications for debugging
+% KEYWORDS=reset, applications, programming, debuger
+=Debuggers=
+==To find out what's wrong==
+----
+
+<dl class="app"><dt class="app_name">GDB</dt><dd class="app_img"><img src="/uploads/apps_gdb.png" alt="GDB" /></dd><dd class="app_desc">The GNU Debugger is the standard debugger for the GNU software system. It allows you to see what is going on "inside" another program while it executes, or what another program was doing at the moment it crashed.
+
+</dd><dd class="app_feat"><ul><li>Extensive facilities for tracing and altering the execution of computer programs.</li><li>The user can monitor and modify the values of programs' internal variables, and even call functions independently of the program's normal behavior.</li><li>Offers a "remote" mode often used when debugging embedded systems.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.gnu.org/software/gdb/" title="">http://www.gnu.org/software/gdb/</a></dd></dl><dl class="app"><dt class="app_name">Valgrind</dt><dd class="app_img"><img src="/uploads/apps_valgrind.png" alt="Valgrind" /></dd><dd class="app_desc">Valgrind is a programming tool for memory debugging, memory leak detection, and profiling.
+
+</dd><dd class="app_feat"><ul><li>Currently includes six production-quality tools: a memory error detector, two thread error detectors, a cache and branch-prediction profiler, a call-graph generating cache and branch-prediction profiler, and a heap profiler.</li></ul>
+
+</dd><dd class="app_link"><a href="http://valgrind.org/" title="">http://valgrind.org/</a></dd></dl>

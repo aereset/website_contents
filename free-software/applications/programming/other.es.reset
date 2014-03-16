@@ -1,0 +1,17 @@
+% TITLE=Programación
+% SUBTITLE=Para programadores principiantes y experimentados
+% DESCRIPTION=Conoce algunas aplicaciones de software libre fantásticas que te ayudarán a programar: comparación de archivos, traducciones...
+% KEYWORDS=reset, aplicaciones, programación, traducciones
+=Otras herramientas=
+==Para hacer traducciones, comparar archivos...==
+----
+
+<dl class="app"><dt class="app_name">Poedit</dt><dd class="app_img"><img src="/uploads/apps_poedit.png" alt="Poedit" /></dd><dd class="app_desc">Poedit es un editor de catálogos de gettext (archivos .po) multiplataforma. Su objetivo es facilitar una forma más conveniente de editar catálogos que ejecutar vi y editar el archivo a mano.
+
+</dd><dd class="app_feat"><ul><li>Poedit nos muestra los datos de una forma muy compacta.</li><li>Las traducciones temporales o incompletas se resaltan y aparecen representadas en la cabeza de la lista.</li><li>Soporte para formas plurales.</li></ul>
+
+</dd><dd class="app_link"><a href="http://www.poedit.net/" title="">http://www.poedit.net/</a></dd></dl><dl class="app"><dt class="app_name">Meld</dt><dd class="app_img"><img src="/uploads/apps_meld.png" alt="Meld" /></dd><dd class="app_desc">Meld es una herramienta visual que te permite comparar y combinar archivos y carpetas, mostrando sus diferencias.
+
+</dd><dd class="app_feat"><ul><li>Puede comparar dos o tres archivos y editarlos directamente.</li><li>Puede comparar dos o tres carpetas y ejecutar comparación de archivos.</li><li>Puede navegar y mostrar copias de trabajo de algunos sistemas de control de versiones como Mercurial, Bazaar, Subversion y más.</li></ul>
+
+</dd><dd class="app_link"><a href="http://meld.sourceforge.net/" title="">http://meld.sourceforge.net/</a></dd></dl>

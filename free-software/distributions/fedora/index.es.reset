@@ -1,0 +1,8 @@
+% TITLE=Fedora
+% SUBTITLE=¡Echa un vistazo al software libre más avanzado!
+% DESCRIPTION=Aprende cómo instalar y configurar tu distribución Fedora
+% KEYWORDS=reset, distribución, fedora, instalación, trucos, post-instalación, configuración, controladores, drivers
+=Documentación=
+----
+
+<a class="cat" href="./pre-installation/"><dl class="cat"><dt class="cat_name">Antes de la instalación</dt><dd class="cat_desc">Aprende qué necesitas antes de instalar Fedora en tu disco duro</dd></dl></a><a class="cat" href="./installation/"><dl class="cat"><dt class="cat_name">Instalación</dt><dd class="cat_desc">Una guía sobre el proceso de instalación</dd></dl></a><a class="cat" href="./post-installation/"><dl class="cat"><dt class="cat_name">Después de la instalación</dt><dd class="cat_desc">Aprende qué necesitas después de instalar Fedora en tu disco duro</dd></dl></a><a class="cat" href="./tips-and-tricks/"><dl class="cat"><dt class="cat_name">Trucos y consejos</dt><dd class="cat_desc">Aprende cómo adaptar tu sistema a tus necesidades</dd></dl></a><a class="cat" href="./faq/"><dl class="cat"><dt class="cat_name">Preguntas más frecuentes</dt><dd class="cat_desc">Puede que respondan tus propias preguntas</dd></dl></a>
