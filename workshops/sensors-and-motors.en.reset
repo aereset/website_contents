@@ -2,7 +2,7 @@
 % SUBTITLE=A step forward to build your robot
 % DESCRIPTION=A step forward to build your robot
 % KEYWORDS=reset, workshop,microcontrollers,hardware
-<section id="content">=Introduction=
+=Introduction=
 ----
 
 An autonomous robot has three functions: perception, processing and execution. The perception is performed by sensors, processing by a microcontroller and the execution by actuators and motors. Previously we studied the architecture and the behavior of the microcontroller and we wrote some programs. Now is turn for the sensors and motors.

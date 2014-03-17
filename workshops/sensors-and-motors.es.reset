@@ -2,7 +2,7 @@
 % SUBTITLE=Un paso adelante para construir su robot
 % DESCRIPTION=A step forward to build your robot
 % KEYWORDS=reset, workshop,microcontrollers,hardware
-<section id="content">=Introducción=
+=Introducción=
 ----
 
 Un robot autónomo tiene tres funciones: percepción, procesado y ejecución. La percepción se lleva a cabo mediante sensores, el procesado mediante un microcontrolador y la ejecución mediante actuadores y motores. Anteriormente estudiamos la arquitectura y el funcionamiento del microcontrolador y escribimos algunos programas. Ahora es el turno de los sensores y los motores. 
