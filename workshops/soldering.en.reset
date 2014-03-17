@@ -2,7 +2,7 @@
 % SUBTITLE=Learn the basics about this art!
 % DESCRIPTION=Learn the basics about this art!
 % KEYWORDS=reset, workshop,hardware
-<section id="content">=Introduction=
+=Introduction=
 ----
 
 While building any robot we have to take into account that motors and any other kind of actuators that require power can not be powered directly through the microcontroller. That's why power amplifiers are needed. They allow you to provide the necessary voltage and current through the motor controller.

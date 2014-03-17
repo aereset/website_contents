@@ -2,7 +2,7 @@
 % SUBTITLE=¡Aprende los conceptos básicos de este arte!
 % DESCRIPTION=Learn the basics about this art!
 % KEYWORDS=reset, workshop,hardware
-<section id="content">=Introducción=
+=Introducción=
 ----
 
 Cuando construimos un robot debemos tener en cuenta que los motores y cualquier otro tipo de actuador que requiera potencia no puede ser alimentado directamente a través del microcontrolador. Por ello necesitamos utilizar las etapas de potencia. Te permiten proporcionar la tensión y corriente necesarias a través del control motor.
