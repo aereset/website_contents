@@ -2,7 +2,7 @@
 % SUBTITLE=Learn the basics of this powerful microcontroller
 % DESCRIPTION=Learn the basics of this powerful microcontroller
 % KEYWORDS=reset, workshop,microcontrollers,programming
-<section id="content">=Introduction=
+=Introduction=
 ----
 
 Learn how to use this new microcontroller with HW and SW totally compatible with Arduino Uno. All of this of course increasing speed performance, memory capacity, number of output and input pins, etc.
@@ -11,7 +11,7 @@ Learn how to use this new microcontroller with HW and SW totally compatible with
 
 Reset has prepared a workshop to teach you how to use this device in different platforms always getting the best possible performance.
 
-? If you have already worked with Arduino Uno, you may want to <a href="http://www.tecbolivia.com/index.php?option=com_content\&amp;view=article\&amp;id=28">have a look at the differences between Arduino Uno and chipKIT Uno32</a>.
+? If you have already worked with Arduino Uno, you may want to <a href="http://www.tecbolivia.com/index.php?option=com_content\&view=article\&id=28">have a look at the differences between Arduino Uno and chipKIT Uno32</a>.
 
 =Contents=
 ----
