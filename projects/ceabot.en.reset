@@ -1,7 +1,7 @@
 % TITLE=CEABOT
 % SUBTITLE=Program an humanoid robot and compete in this contest!
 % DESCRIPTION=Program an humanoid robot and compete in this contest!
-% KEYWORDS=reset, 
+% KEYWORDS=reset, ceabot
 =Introduction=
 ----
 
@@ -34,13 +34,12 @@ This contest has 3 tests:
 <p class="centered"><img src="/uploads/pool__projects_ceabot_robonova.jpg" alt="/projects/ceabot/robonova.jpg"/>
 
 ==Contributors==
-<ul><li>Miguel Sánchez de León Peque<ul></ul>
 
-</li></ul>
+* Miguel Sánchez de León Peque
 
 ? <a href="/en/contact/reset/" title="Contact us via our contact form">Join the project!</a>
 
-  =Development=
+=Development=
 ----
 
 ==Commissioning==
@@ -50,9 +49,7 @@ The robot is already mounted, but all its motors, sensors and the electronic boa
 
 <p class="centered"><img src="/uploads/pool__projects_ceabot_robonova_back.jpg" alt="/projects/ceabot/robonova_back.jpg"/>
 
-<!----><!--<iframe id="images" src="http://torrent.reset.etsii.upm.es" width="100%" height="300px" scrolling="auto"></iframe>
-
--->  =Gallery=
+=Gallery=
 ----
 
 ==Videos==
