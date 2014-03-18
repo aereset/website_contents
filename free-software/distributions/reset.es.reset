@@ -14,10 +14,4 @@ Aquí hay una lista de parte del software que incluimos en nuestra distribución
 =Descargas=
 ----
 
-Escoge la versión que quieras descargar:
-
-<ul><li><a href="ftp://reset.etsii.upm.es/users/peque/releases/Fedora-16-Reset-i686.iso" title="Descargar la imagen viva de Reset Fedora 16 para sistemas de 32 bits">Fedora 16 Reset Remix - Live image (32 bits)</a> - (<em><a href="ftp://reset.etsii.upm.es/users/peque/releases/SHA256SUMS" title="Tal vez quieras verificar tu descarga con sha256sum">sha256sum</a></em>)</li><li><a href="ftp://reset.etsii.upm.es/users/peque/releases/Fedora-16-Reset-x86_64.iso" title="Descargar la imagen viva de Reset Fedora 16 para sistemas de 64 bits">Fedora 16 Reset Remix - Live image (64 bits)</a> - (<em><a href="ftp://reset.etsii.upm.es/users/peque/releases/SHA256SUMS" title="Tal vez quieras verificar tu descarga con sha256sum">sha256sum</a></em>)</li></ul>
-
-? <strong>Nota:</strong> Si no sabes qué versión necesitas, descarga la versión de 32 bits.
-
-Si quieres sabes cómo instalar y configurar nuestra distribución, simplemente dirígete a la <a href="/es/free-software/distributions/fedora/" title="Distribución Fedora">Documentación de Fedora</a> en este sitio web.
+??? '''INFORMACIÓN''': la distribución de Reset ya no está siendo mantenida. ¡Ayúdanos a revivirla!
