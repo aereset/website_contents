@@ -14,6 +14,7 @@ The purposes of this is:
 * Integrate a forum in the website.
 * '''{DONE}''' Integrate a user database and allow on-line content creation and editing.
 * Create a parser that writes all the static web pages, avoiding PHP for security and for faster loading and less CPU consumption.
+* [https://raw.github.com/aereset/website/master/doc/TODO TODO list].
 * Develop a search engine for the website.
 * Have fun and learn about web development and server management!
 
