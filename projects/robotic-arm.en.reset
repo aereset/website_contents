@@ -40,7 +40,7 @@ The purposes of this project are:
 
 ? <a href="/en/contact/reset/" title="Contact us via our contact form">Join the project!</a>
 
-  =Development=
+=Development=
 ----
 
 ==General Conception==
@@ -54,9 +54,7 @@ The muscles will be servomotors.<p class="centered"><img src="/uploads/pool__pro
 
 And for the control, we'll use the Kinect sensor, that allows to get the 3D observed space reconstruction. Of course, using for this Linux.<p class="centered"><img src="/uploads/pool__projects_robotic-arm_kinect_sensor.png" alt="/projects/robotic-arm/kinect_sensor.png"/>
 
-<!----><!--<iframe id="images" src="http://torrent.reset.etsii.upm.es" width="100%" height="300px" scrolling="auto"></iframe>
-
--->  =Gallery=
+=Gallery=
 ----
 
 ==Images==
@@ -67,7 +65,7 @@ And for the control, we'll use the Kinect sensor, that allows to get the 3D obse
 
 <p class="centered"><iframe class="youtube-player" width="640" height="480" src="http://www.youtube.com/embed/EerUt2Qj3aU"></iframe>
 
-  =Resources=
+=Resources=
 ----
 
 ==Used==

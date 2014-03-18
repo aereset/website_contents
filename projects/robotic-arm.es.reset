@@ -40,7 +40,7 @@ Los objetivos de este proyecto son:
 
 ? <a href="/es/contact/reset/" title="Contacta con nosotros a través de nuestro formulario de contacto">¡Únete al proyecto!</a>
 
-  =Desarrollo=
+=Desarrollo=
 ----
 
 ==Concepción general==
@@ -54,9 +54,7 @@ Los músculos serán servomotores.<p class="centered"><img src="/uploads/pool__p
 
 Y para el control, utilizaremos el sensor Kinect, que permite obtener la reconstrucción en 3D del espacio observado. Por supuesto, utilizando para ello Linux.<p class="centered"><img src="/uploads/pool__projects_robotic-arm_kinect_sensor.png" alt="/projects/robotic-arm/kinect_sensor.png"/>
 
-<!----><!--<iframe id="images" src="http://torrent.reset.etsii.upm.es" width="100%" height="300px" scrolling="auto"></iframe>
-
--->  =Galería=
+=Galería=
 ----
 
 ==Imágenes==
@@ -67,7 +65,7 @@ Y para el control, utilizaremos el sensor Kinect, que permite obtener la reconst
 
 <p class="centered"><iframe class="youtube-player" width="640" height="480" src="http://www.youtube.com/embed/EerUt2Qj3aU"></iframe>
 
-  =Recursos=
+=Recursos=
 ----
 
 ==Usados==
