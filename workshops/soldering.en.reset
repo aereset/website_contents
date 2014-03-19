@@ -9,42 +9,28 @@ While building any robot we have to take into account that motors and any other 
 
 In Cybertech, we are using the Cybertech Motor Control power amplifier. Reset will teach you how it works, its components and how to build it.
 
-<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/D3mbvJ56OaM"></iframe>
+[Youtube:D3mbvJ56OaM]
 
 =Contents=
 ----
 
-<ul><li>Some theory.<ul></ul>
-
-</li><li>Describing the motor control.<ul></ul>
-
-</li></ul>
-
-<ul><li>Soldering.<ul></ul>
-
-</li></ul>
+* Some theory.
+* Describing the motor control.
+* Soldering.
 
 ==Resources==
-<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/PresentacionTallerSoldadura.pdf"> Presentation</a><ul></ul>
 
-</li><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DocumentacionTallerSoldadura.pdf"> Documentation</a><ul></ul>
-
-</li></ul>
-
-<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DataSheetArduinoMotorControl.pdf"> Data Sheet</a><ul></ul>
-
-</li></ul>
+* <a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/PresentacionTallerSoldadura.pdf"> Presentation</a>
+* <a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DocumentacionTallerSoldadura.pdf"> Documentation</a>
+* <a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DataSheetArduinoMotorControl.pdf"> Data Sheet</a>
 
 =What you need=
 ----
 
 All the materials will be provided to each team by Reset.
 
-<ul><li>Cybertech Motor Control: power amplifier for controlling 2 DC motors and compatible with chipKIT Uno32.<ul></ul>
-
-</li><li>Soldering iron, tin and soldering sponge.<ul></ul>
-
-</li></ul>
+* Cybertech Motor Control: power amplifier for controlling 2 DC motors and compatible with chipKIT Uno32.
+* Soldering iron, tin and soldering sponge.
 
 =When and where=
 ----
@@ -53,11 +39,3 @@ All the materials will be provided to each team by Reset.
 
 Stay tuned for future events!
 
-<!--=Resources=
-----
-
-You may find resources and pictures of this workshop in <a href="ftp://reset.etsii.upm.es/workshops/soldering/" title="FTP directory for the Soldering workshop">our FTP directory</a>.
-
---><aside class="workshop_tags"><ul><li><a href="/en/workshops/categories/hardware/" title="Search by category">hardware</a></li></ul>
-
-</aside><footer>

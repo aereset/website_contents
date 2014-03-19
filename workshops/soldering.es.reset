@@ -9,42 +9,28 @@ Cuando construimos un robot debemos tener en cuenta que los motores y cualquier 
 
 En Cybertech, estamos utilizando la etapa de potencia Cybertech Motor Control. Reset te enseñará como funciona, sus componentes y cómo construirla.
 
-<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/D3mbvJ56OaM"></iframe>
+[Youtube:D3mbvJ56OaM]
 
 =Contenidos=
 ----
 
-<ul><li>Algo de teoría.<ul></ul>
-
-</li><li>Descripción del control motor.<ul></ul>
-
-</li></ul>
-
-<ul><li>Soldadura.<ul></ul>
-
-</li></ul>
+* Algo de teoría.
+* Descripción del control motor.
+* Soldadura.
 
 ==Recursos==
-<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/PresentacionTallerSoldadura.pdf"> Presentación</a><ul></ul>
 
-</li><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DocumentacionTallerSoldadura.pdf"> Documentación</a><ul></ul>
-
-</li></ul>
-
-<ul><li><a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DataSheetArduinoMotorControl.pdf"> Data Sheet</a><ul></ul>
-
-</li></ul>
+* <a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/PresentacionTallerSoldadura.pdf"> Presentación</a>
+* <a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DocumentacionTallerSoldadura.pdf"> Documentación</a>
+* <a href="ftp://ftp.reset.etsii.upm.es/workshops/Soldadura/DataSheetArduinoMotorControl.pdf"> Data Sheet</a>
 
 =Lo que necesitas=
 ----
 
 Reset proporcionará todos los materiales a cada equipo. 
 
-<ul><li>Cybertech Motor Control: etapa de potencia para controlar 2 motores de CC compatible con chipKIT Uno32.<ul></ul>
-
-</li><li>Soldador, estaño y esponja.<ul></ul>
-
-</li></ul>
+* Cybertech Motor Control: etapa de potencia para controlar 2 motores de CC compatible con chipKIT Uno32.
+* Soldador, estaño y esponja.
 
 =Cuándo y dónde=
 ----
@@ -53,11 +39,3 @@ Reset proporcionará todos los materiales a cada equipo.
 
 ¡Estate atento para eventos futuros!
 
-<!--=Recursos=
-----
-
-Puedes encontrar recursos y fotografías de este taller visitando <a href="ftp://reset.etsii.upm.es/workshops/soldering/" title="Directorio FTP del taller Soldering">nuestro directorio FTP</a>.
-
---><aside class="workshop_tags"><ul><li><a href="/es/workshops/categories/hardware/" title="Busca por categoría">hardware</a></li></ul>
-
-</aside><footer>
