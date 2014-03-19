@@ -28,11 +28,11 @@ Este sitio web ha sido desarrollado con el software libre siguiente:
 
 A continuación, podemos ver un vídeo del desarrollo de este proyecto, hecho con <a href="http://code.google.com/p/gource/">Gource</a>:
 
-<p class="centered"><iframe class="youtube-player" width="640" height="385" src="http://www.youtube.com/embed/FvfO7xYGR9Y"></iframe>
+[Youtube:FvfO7xYGR9Y]
 
-<a href="http://www.ohloh.net/" title="Sitio web de Ohloh">Ohloh</a> es un directorio de software de código abierto que cualquiera puede editar. Realiza estadísticas y análisis comprensivos de miles de proyectos de software libre. <a href="http://www.ohloh.net/p/reset/" title="Reset en Ohloh.net">El sitio web de Reset se encuentra entre ellos</a>:
+<a href="http://www.ohloh.net/" title="Sitio web de Ohloh">Ohloh</a> es un directorio de software de código abierto que cualquiera puede editar. Realiza estadísticas y análisis comprensivos de miles de proyectos de software libre. <a href="http://www.ohloh.net/p/reset/" title="Reset en Ohloh.net">El sitio web de Reset se encuentra entre ellos</a>.
 
-<script src="/js/ohloh-stats.js"></script>=Accesibilidad=
+=Accesibilidad=
 ----
 
 Queremos que nuestra web sea accesible para cualquier persona y desde cualquier lugar, ya sea con un ordenador o un dispositivo móvil.
