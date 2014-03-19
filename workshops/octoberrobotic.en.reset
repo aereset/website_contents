@@ -2,7 +2,7 @@
 % SUBTITLE=Join our robotic courses!
 % DESCRIPTION=Join our robotic courses!
 % KEYWORDS=reset, registration, october, robotic, email, programming, c, chipkit, sensors, motors
-<section id="content">=Introduction=
+=Introduction=
 ----
 
 From Reset we want to invite you to participate in these 4 modules where knowledge and practice of robotics will be taught. 
@@ -38,7 +38,9 @@ There are no prerequisites or minimum required knowledge. This module is aimed a
 
 </dd><dd class="app_feat"><ul><li>Communications. Practice</li><li>Robotic Arm Assembly. Practice</li><li>Robotic Arm Control. Practice</li></ul>
 
-</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/RoboticArm/Resources.zip" title="">Resources</a></dd></dl>=Calendar=
+</dd><dd class="app_link"><a href="ftp://ftp.reset.etsii.upm.es/workshops/RoboticArm/Resources.zip" title="">Resources</a></dd></dl>
+
+=Calendar=
 ----
 
 <p class="centered"><img src="/uploads/pool_october_calendar.png" alt="October calendar" />
@@ -58,20 +60,8 @@ There are no prerequisites or minimum required knowledge. This module is aimed a
 
 ? If you like our philosophy and what we do, we invite you to join our Association. Remember that the more we are, the more we can do. ;)
 
-<!--?? You can use the form below to sign up at this second call and receive information about their date of issue.
-
-<form action="" method="post"><fieldset><legend>Contact form</legend><div class="form_wrapper"><div class="p_data"><label for="form_contact_name">Name:</label><input name="name" id="form_contact_name" value="" type="text" maxlength="60" required="required" /><label for="form_contact_email">e-mail:</label><input name="email" id="form_contact_email" value="" type="email" maxlength="60" required="required" /><label for="form_contact_course">Course:</label><select name="course" id="form_contact_course" value="" required="required"><option>1º</option><option>2º</option><option>3º</option><option>4º</option><option>5º</option><option>Master</option></select><label for="form_contact_titulation">Titulation:</label><select name="titulation" id="form_contact_titulation" value="" required="required"><option>Grado en Ingeniería en Tecnologías Industriales</option><option>Grado en Ingeniería Química</option><option>Grado en Ingeniería de la Energía</option><option>Ingeniero Industrial</option><option>Ingeniero Químico</option><option>Ingeniero Organización Industrial</option><option>Ingeniero Automática y Electrónica Industrial</option></select><label for="form_contact_knowledge">Knowledge in Robotics/Computers/Electronics:</label><textarea name="knowledge" id="form_contact_knowledge" cols="30" rows="3"></textarea><label for="form_contact_motivation">Why are you interested in this module? What do you expect from it?</label><textarea name="motivation" id="form_contact_motivation" cols="30" rows="3"></textarea><label for="form_contact_laptop">Can you bring your laptop?</label><input type="checkbox" name="laptop" id="form_contact_laptop"></input><label for="form_contact_timetable">Preferred timetable:</label><select name="timetable" id="form_contact_timetable" value="" required="required"><option>Afternoon</option><option>Morning</option></select></div><div class="i_data"><label for="form_contact_comments">Comments:</label><textarea name="comments" id="form_contact_comments" cols="30" rows="5"></textarea></div><input type="hidden" name="type" value="contact_form" /><input type="submit" value="Send" /></div></fieldset></form>-->=Contact=
+=Contact=
 ----
 
-<table><caption>Contact</caption><thead><tr><th>Name</th><th>email</th></tr></thead><tbody><tr><td>Antonio Barrientos</td><td>antonio.barrientos<span class="display-none">@anti-spam</span>@upm.es</td></tr><tr><td>Reset Students' Association</td><td>aereset<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table><footer class="error"><p class="section_title">October Robotic
+<table><caption>Contact</caption><thead><tr><th>Name</th><th>email</th></tr></thead><tbody><tr><td>Antonio Barrientos</td><td>antonio.barrientos<span class="display-none">@anti-spam</span>@upm.es</td></tr><tr><td>Reset Students' Association</td><td>aereset<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>
 
-</footer></section></div><!-- Wrapper's end --><aside id="r_aside"><section class="r_aside"><h3>News</h3><div class="block">=There are no recent news=
-Future workshops and events will be published here, stay tuned!
-
-</div></section><section class="r_aside"><h3>Collaborate</h3><div class="block"><script src="/js/collaborate.js"></script></div></section><section class="r_aside"><h3>Friends</h3><div class="block"><script src="/js/friends.js"></script></div></section><section class="r_aside"><h3>Other topics</h3><div class="block"><script src="/js/other_topics.js"></script></div></section></aside><footer id="w_footer"><section id="footer_lists"><div class="footer_nav" id="info_nav"><h3>Information</h3><ul class="footer_nav_left"><li><a href="/en/information/participate/" title="Help us with this project!">Join us!</a></li><li><a href="/en/information/contributors/" title="See our contributors">Contributors</a></li><li><a href="/en/information/website/" title="Know more about our website">About this website</a></li></ul>
-
-</div><div class="footer_nav" id="contact_nav"><h3>Contact us</h3><ul class="footer_nav_right"><li><a href="/en/contact/mail/" title="Join our mailing lists!">Mailing lists</a></li><li><a href="/en/contact/reset/" title="Contact us via our contact form">Contact Reset</a></li><li><a href="/en/contact/webmaster/" title="Contact our webmaster">Contact webmaster</a></li></ul>
-
-</div></section><p class="copyright">Copyright © 2010-2013 Reset Students' Association
-
-</footer></body></html>
