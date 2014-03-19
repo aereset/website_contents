@@ -1,22 +1,20 @@
 % TITLE=Heracles
 % SUBTITLE=A line follower and maze resolver robot for competitions.
 % DESCRIPTION=A line follower and maze resolver robot for competitions.
-% KEYWORDS=reset, 
+% KEYWORDS=reset, heracles, robot
 =Introduction=
 ----
 
 Reset presents its line follower and maze resolver robot! Using Maple Mini and Bluetooth communication with an Android application to manually control the robot and adjust its parameters (such as the PID constants) in real time while testing different algorithms.
 
 ==Contributors==
-<ul><li>Juan Herrero Macías<ul></ul>
 
-</li><li>Miguel Sánchez de León Peque<ul></ul>
+* Juan Herrero Macías
+* Miguel Sánchez de León Peque
 
-</li></ul>
+? [/en/contact/reset/ Join the project!]
 
-? <a href="/en/contact/reset/" title="Contact us via our contact form">Join the project!</a>
-
-  =Development=
+=Development=
 ----
 
 ==Android application==
@@ -33,9 +31,7 @@ There is still some work to do to allow manual-auto switching, to support other 
 
 We are using a very little and affordable (from $4 to $7) bluettoth communication device. We have already configured it and developed C code to make it work with the Maple Mini and parse the commands that your receive from the outside.
 
-<!----><!--<iframe id="images" src="http://torrent.reset.etsii.upm.es" width="100%" height="300px" scrolling="auto"></iframe>
-
--->  =Gallery=
+=Gallery=
 ----
 
 ==Images==
@@ -43,15 +39,12 @@ We are using a very little and affordable (from $4 to $7) bluettoth communicatio
 
 ==Videos==
 
-
 <p class="centered"><iframe class="youtube-player" width="640" height="480" src="http://www.youtube.com/embed/?list=PLVPcp9I95nbcIvm8N-6QSWalCW4s0JYEP"></iframe>
 
-  =Resources=
+=Resources=
 ----
 
 ==Used==
-<ul><li><a href="http://leaflabs.com/docs/hardware/maple-mini.html">Maple Mini</a><ul></ul>
 
-</li><li><a href="http://www.kicad-pcb.org/display/KICAD/KiCad+EDA+Software+Suite">KiCAD</a><ul></ul>
-
-</li></ul>
+* [http://leaflabs.com/docs/hardware/maple-mini.html Maple Mini]
+* [http://www.kicad-pcb.org/display/KICAD/KiCad+EDA+Software+Suite KiCAD]
