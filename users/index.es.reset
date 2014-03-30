@@ -5,6 +5,8 @@
 =Lista de usuarios=
 ----
 
+? '''INFORMACIÓN''': Haz click sobre el avatar del usuario o sobre su nombre para visitar su sección.
+
 <dl class="usr">
 <a class="user" href="./peque/" title="Sección de Peque">
 <dt class="usr_name">Peque</dt>
