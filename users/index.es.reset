@@ -5,14 +5,15 @@
 =Lista de usuarios=
 ----
 
-<a class="user" href="./peque/" title="Sección de Peque">
 <dl class="usr">
+<a class="user" href="./peque/" title="Sección de Peque">
 <dt class="usr_name">Peque</dt>
 <dd class="usr_avatar">
 <img src="/uploads/avatar_peque/" alt="Avatar_del_Usuario" />
 </dd>
+</a>
 <dd class="usr_info">
-<p>Aquí podrás encontrar un compendio de ideas, documentación y proyectos sin orden o relación alguno. Todo el contenido publicado por mí en esta página está sujeto a la WTFPL.</p>
+<p>Aquí podrás encontrar un compendio de ideas, documentación y proyectos sin orden o relación alguno. Todo el contenido creado por mí en esta página está sujeto a la [http://www.wtfpl.net/ WTFPL].</p>
+<p>No existe absolutamente ninguna garantía de que el conenido que aquí encuentres te pueda resultar de utilidad, sea inocuo, cierto, efectivo o verdadero.</p>
 </dd>
 </dl>
-</a>
