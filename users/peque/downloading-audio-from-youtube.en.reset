@@ -16,6 +16,6 @@ An example for downloading only audio with best quality and convert it to Ogg fo
 
 <code class="terminal">youtube-dl --extract-audio --audio-quality 0 --audio-format vorbis VL7My9MmnsA</code>
 
-Will download the video:
+Will download the audio from:
 
 [Youtube:tWqhBYN8NBE]
