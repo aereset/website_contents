@@ -1,0 +1,18 @@
+% TITLE=Downloading audio from Youtube
+% SUBTITLE=
+% DESCRIPTION=Learn how to download only audio from Youtube videos.
+% KEYWORDS=youtube, download, audio
+
+Downloading Youtube audio is very simple with Linux using the command "youtube-dl".
+
+<code class="terminal">su -c 'yum install youtube-dl'</code>
+
+With this tool we can easily download Youtube videos. In order to download only audio, we must understand the following parameters:
+
+* '''--extract-audio''': Extract only audio.
+* '''--audio-quality''': Audio quality, from 0 (best) to 9 (worst).
+* '''--audio-format''': Convert to specified audio format (aac, vorbis, mp3, m4a, opus...).
+
+An example for downloading only audio with best quality and convert it to Ogg format:
+
+<code class="terminal">youtube-dl --extract-audio --audio-quality 0 --audio-format vorbis VL7My9MmnsA</code>
