@@ -1,0 +1,19 @@
+% TITLE=Excavadora inalámbrica
+% SUBTITLE=¡Comunica tus arduino usando módulos xbee!
+% DESCRIPTION=¡Comunica tus arduino usando módulos xbee!
+% KEYWORDS=xbee, Zigbee, excavadora
+En construcción....
+
+En este proyecto/tutorial veremos como utilizar los módulos xbee junto con el Arduino. Además aprenderemos a hackear un mando de PSone para utilizarlo en diversos proyectos de robotica.
+
+En Reset somos partidarios de la libre transferencia de conocimientos e ideas y en todo momento se hará mención a enlaces de Internet donde poder encontrar más información.
+
+Podemos dividir el proyecto en 3 lineas: 
+
+* Diseño mecánico de la excavadora con servos trucados y control de la misma.
+
+* Hackear mando de PSone.
+
+* Comunicación inalámbrica con xbee.
+
+
