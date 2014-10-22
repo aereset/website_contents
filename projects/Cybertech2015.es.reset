@@ -2,6 +2,31 @@
 % SUBTITLE=¡Construye tu robot y ven a la competición!
 % DESCRIPTION=¡Construye tu robot y ven a la competición!
 % KEYWORDS=reset, cybertech, programación, c, arduino, bases
+=Introducción=
+----
+
+Cybertech es una competición anual de robots organizada por la asociación de estudiantes [/ Reset] y con el apoyo del [http://www.disam.upm.es/ Departamento de Automática, Ingeniería Electrónica e Informática Industrial]. Todo ello gracias a la [http://www.etsii.upm.es/ Escuela Técnica Superior de Ingenieros Industriales] de la [http://www.upm.es/ Universidad Politécnica de Madrid].
+
+Este concurso tiene dos categorías: ''Classic y Pro'' .
+
+En la ''Categoría Classic'' se compite en dos tipos de pruebas: laberinto y rastreador (siguelineas).
+
+En el laberinto los robots deben encontrar, de manera autónoma, el camino que les permite cruzar un laberinto.
+
+[Youtube:tky4wlc0GPc]
+
+En el siguelineas, los robots deben seguir un circuito definido por una linea negra pintada en el suelo.
+
+[Youtube:zxWNHWfHQ8Q]
+
+Los retos aumentan al avanzar en la competición, con circuitos cada vez más complicados, obstáculos...
+
+La ''Categoría Pro'' está pensada para participantes más avanzados, en la que este año hay dos pruebas: Sumo y San fermines
+
+En 'Sumo' los robots se enfrentan de forma teleoperada tratando de inmovilizar al contrario o de sacarle de la pista.
+
+En 'San fermines' los robots autónomos deberán correr un encierro mapeando un laberinto y enfrentarse al temido toro en el ruedo tratando de hacer los mejores recortes
+
 ? Puedes ir apuntándote aquí: [http://goo.gl/forms/qNAXjG0ABy Inscripción Cybertech 2015]
 
 ? El calendario de los talleres, hitos y la competición, aquí: [/es/calendar Calendario Cybertech]
