@@ -28,7 +28,14 @@ La ''Categoría Pro'' está pensada para participantes más avanzados, en la que
 
 En 'Sumo' los robots se enfrentan de forma teleoperada tratando de inmovilizar al contrario o de sacarle de la pista.
 
-En 'San fermines' los robots autónomos deberán encontrar las zonas seguras mapeando un laberinto antes de que el toro les alcance, correr junto con el resto de participantes en unos encierros siguiendo la línea delante del toro, y enfrentarse al temido morlaco en el ruedo tratando de hacer los mejores recortes.
+En 'San fermines' los robots autónomos deberán superar 3 pruebas:
+-Ruta de la Tapa: Es la evolución natural de la prueba de laberinto. La idea principal es que el robot sea capaz de Mapear. Además, habrá unos puntos determinados en el mapa  llamados Bares (presumiblemente 3), por los que el robot deberá de pasar en un orden concreto. Así pues, habrá dos rondas, con sus respectivos intentos, una de reconocimiento para mapear el mapa y detectar los Bares y otra para resolver el laberinto, pasando por los Bares en el orden correcto. Esta prueba puntuará el tiempo y el orden por el que se pasen los Bares. Es posible, pero aun no se ha decidido, que a partir de cierto momento de la ronda de resolución, se suelte a Robotaurus dentro del laberinto.
+
+Encierros: Es la evolución natural de la prueba de rastreadores. Se dispondrán varias lineas negras paralelas y todos los concursantes a la vez deberán de recorrerlas en el menor tiempo posible, pudiendo haber (aun por definir) cruces entre las lineas de cada robot, pero siempre de forma que todas las lineas convergerán al final en un único tramo, con Robotaurus intentando pillar a los participantes. Puntuarán cosas tales como el tiempo y la supervivencia.
+
+-Recortes: Esta es una modalidad nueva que se desprende de la existente en el Cybertech original. Se pondrá al robot y a Robotaurus en una plaza de toros, 1vs1 y el torero deberá de esquivar a Robotaurus. La prueba irá puntuada también por tiempo de supervivencia.
+
+Nota: Desde la Asociación de Estudiantes RESET defendemos el uso de robots, y no de toros, como elemento principal de ocio.
 
 ? Puedes ir apuntándote aquí: [http://goo.gl/forms/qNAXjG0ABy Inscripción Cybertech 2015]
 

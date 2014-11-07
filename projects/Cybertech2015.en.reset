@@ -27,7 +27,15 @@ The ''Pro Category'' is thought for contestants more skillful, this year there i
 
 In the Sumo, the robots figth each other tryng to immobilize the opponent or take it out of the ring.
 
-In 'San fermines', robots should arrive to all safety points mapping the maze before the bull bump into them, run with their mates in the 'encierro' in front of the bull following a black line, and finally face the big bull in the arena trying to avoid it.
+'San fermines' will consist on 3 stages:
+
+La ruta de la tapa: In this stage, the robot will have to map a maze, detect the 3 Bars that are in the route of the tapa and then resolve the maze in a second round, going through each bar in a particular order.
+
+The bull run: The contestant robots will race each other to see which of them reaches the finish line first. Each robot must follow a black line, but the different black lines may cross each other. They must hurry if they don’t want to be reached by Robotaurus
+
+Bull leaping: In a bullring, 1vs1, each robot will have to dodge Robotaurus’ charges to survive as long as possible.
+
+Note: The student association RESET advocate the use of robots, instead of bulls, as the main element of entertainment.
 
 ? You can join Cybertech here: [http://goo.gl/forms/qNAXjG0ABy Cybertech 2015 Registration]
 
