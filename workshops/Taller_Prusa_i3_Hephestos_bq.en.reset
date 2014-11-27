@@ -2,7 +2,7 @@
 % SUBTITLE=
 % DESCRIPTION=bq Prusa i3 Hephestos 3D printer workshop
 % KEYWORDS=reset, bq, Prusa, i3, Hephestos, workshop, printer, 3D, assembly
-<p class="centered"><img src="/uploads/Hephestos3colors/" alt="Prusa i3 Hephestos"></p>
+
 
 =Introduction=
 ----
@@ -10,6 +10,8 @@
 Have you ever dreamed of materializing your ideas instantly?
 
 From the students' association <strong>Reset</strong>, in collaboration with the technology company <strong>bq</strong>, we want to help you making it possible thanks to 3D printing.
+
+<p class="centered"><img src="/uploads/Hephestos3colors/" alt="Prusa i3 Hephestos"></p>
 
 =Workshop description=
 ----
