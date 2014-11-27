@@ -2,8 +2,6 @@
 % SUBTITLE=
 % DESCRIPTION=bq Prusa i3 Hephestos 3D printer workshop
 % KEYWORDS=reset, bq, Prusa, i3, Hephestos, workshop, printer, 3D, assembly
-
-
 =Introduction=
 ----
 
@@ -19,6 +17,7 @@ From the students' association <strong>Reset</strong>, in collaboration with the
 Learn to assemble and calibrate your own Prusa i3 Hephestos 3D printer and take it fully configured and ready to print.
 
 We will teach you everything you need to know about the printer software and some tricks for printable 3D design.
+
 
 =Place and dates=
 ----
@@ -62,9 +61,51 @@ From 10:00 to 19:30 with a break of half an hour for lunch
 =Documentation y resources=
 ----
 
+<li>[http://www.bq.com/gb/products/prusa-hephestos.html Official website bq Prusa i3 Hephestos]</li>
+
+<li>[http://reprap.org/wiki/Prusa_i3_Hephestos RepRap Prusa i3 Hephestos]</li>
+
+<li>[http://www-cdn.bq.com/file/Prusa/datasheet_prusa_i3_hephestos_en.pdf Technical specifications Prusa i3 Hephestos]</li>
+
+<br>
+<ul><strong>Assembly manuals</strong> 
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/1_Prusa_QSG_First_steps_en.pdf First steps]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/2_Prusa_QSG_Axle_X_en.pdf Assembly of axle X]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/3_Prusa_QSG_Axle_Z_en.pdf Assembly of axle Z]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/4_Prusa_QSG_Axle%20Y.pdf Assembly of Y axis]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/5_Prusa_QSG_Extruder_en.pdf Assembly of the extruder]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/6_Prusa_QSG_Electronic_en.pdf Assembly of the electronics]</li></ul>
+
+<p class="centered"><iframe width=80% height="350" src="//www.youtube.com/embed/nvTeJvRi8Bo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+</ul><br>
+
+<li>[http://www-cdn.bq.com/file/Prusa/Print_settings.pdf Print settings]</li>
+
+<li>[https://static-bqreaders.s3.amazonaws.com/file/Prusa/prusa_QSG_calibration_EN.pdf Firmware loading and driver calibration]</li>
+
+<li>[http://www-cdn.bq.com/file/Prusa/Prusa_Garantia_y_otros_avisos_importantes.pdf Warranty and FAQ]</li>
+
+<br>
+<ul><strong>Printer software</strong> 
+
+<ul><li>[http://software.ultimaker.com/ Cura]</li></ul>
+
+<ul><ul><li>[https://static-bqreaders.s3.amazonaws.com/file/Prusa/Perfil_Extrusion_Cura.zip Print profiles Cura Prusa i3 Hephestos]</li></ul></ul>
+
+<ul><li>[http://kisslicer.com/ KISSlicer]</li></ul>
+
+</ul><br>
+
+<li>[http://www.thingiverse.com/ Thingiverse]</li>
 
 =Contact=
 ----
 <br>
 <table><thead><tr><th>Name</th><th>Email</th></tr></thead><tbody><tr><td>Students' association Reset</td><td>aereset<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>
-

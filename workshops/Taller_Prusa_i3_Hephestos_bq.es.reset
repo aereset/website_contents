@@ -2,8 +2,6 @@
 % SUBTITLE=
 % DESCRIPTION=Taller impresora 3D bq Prusa i3 Hephestos
 % KEYWORDS=reset, bq, Prusa, i3, Hephestos, taller, impresora, 3D, montaje
-
-
 =Introducción=
 ----
 
@@ -44,7 +42,6 @@ De 10:00 a 19:30 con un descanso de una hora y media para la comida
 
 <p class="centered"><iframe src="https://www.google.com/calendar/embed?showTitle=0&showPrint=0&showCalendars=0&showTz=0&height=600&wkst=2&bgcolor=%23FFFFFF&src=9ik5indainamdt7k2fndrntrco%40group.calendar.google.com&color=%23182C57&ctz=Europe%2FMadrid" style=" border-width:0 " width=80% height="350" frameborder="0" scrolling="no"></iframe>
 
-
 =Límite de asistentes=
 ----
 
@@ -63,7 +60,49 @@ De 10:00 a 19:30 con un descanso de una hora y media para la comida
 =Documentación y recursos=
 ----
 
+<li>[http://www.bq.com/es/productos/prusa-hephestos.html Página oficial bq Prusa i3 Hephestos]</li>
 
+<li>[http://reprap.org/wiki/Prusa_i3_Hephestos/es RepRap Prusa i3 Hephestos]</li>
+
+<li>[http://www-cdn.bq.com/file/Prusa/datasheet_prusa_i3_hephestos_es.pdf Especificaciones técnicas Prusa i3 Hephestos]</li>
+
+<br>
+<ul><strong>Manuales de montaje</strong> 
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/Prusa_QSG_Pasos_previos.pdf Pasos previos]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/Prusa_QSG_Eje_X.pdf Montaje del eje X]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/Prusa_QSG_Eje_Z.pdf Montaje del eje Z]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/Prusa_QSG_Eje_Y.pdf Montaje del eje Y]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/Prusa_QSG_Extrusor.pdf Montaje del extrusor]</li></ul>
+
+<ul><li>[http://www-cdn.bq.com/file/Prusa/Prusa_QSG_Electronica.pdf Montaje de la electrónica]</li></ul>
+
+<p class="centered"><iframe width=80% height="350" src="//www.youtube.com/embed/nvTeJvRi8Bo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+</ul><br>
+
+<li>[http://www-cdn.bq.com/file/Prusa/Prusa_Ajustes_de_impresion.pdf Ajustes de impresión]</li>
+
+<li>[https://static-bqreaders.s3.amazonaws.com/file/Prusa/prusa_QSG_calibration_ES.pdf Carga del firmware y calibración de los drivers]</li>
+
+<li>[http://www-cdn.bq.com/file/Prusa/Prusa_Garantia_y_otros_avisos_importantes.pdf Garantía y FAQ]</li>
+
+<br>
+<ul><strong>Software de impresión</strong> 
+
+<ul><li>[http://software.ultimaker.com/ Cura]</li></ul>
+
+<ul><ul><li>[https://static-bqreaders.s3.amazonaws.com/file/Prusa/Perfil_Extrusion_Cura.zip Perfiles de impresión Cura Prusa i3 Hephestos]</li></ul></ul>
+
+<ul><li>[http://kisslicer.com/ KISSlicer]</li></ul>
+
+</ul><br>
+
+<li>[http://www.thingiverse.com/ Thingiverse]</li>
 
 =Contacto=
 ----
