@@ -2,7 +2,7 @@
 % SUBTITLE=¡Aprende con nosotros!
 % DESCRIPTION=Ve nuestros próximos talleres.
 % KEYWORDS=reset, talleres, próximos
-=En curso=
+=Próximos=
 ----
 
 %% Comenta esto si se añaden nuevos talleres!
@@ -13,4 +13,5 @@
 
 %% Añade nuevos talleres a continuación:
 
-%%[[@: ../octoberrobotic2014/|Octubre Robótico 2014| ¡¡Construye tu propio brazo robótico en tres increíbles sesiones!!]]
+%%[[@: ../workshops/Taller_Prusa_i3_Hephestos_bq/|Taller impresora 3D Prusa i3 Hephestos| ¿Has soñado alguna vez con poder materializar tus ideas al instante?
+%%Desde la asociación de estudiantes Reset, en colaboración con la empresa tecnológica bq, queremos ayudarte a hacerlo posible acercándote las impresoras 3D al mejor precio.]]

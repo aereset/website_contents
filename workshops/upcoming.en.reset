@@ -2,7 +2,7 @@
 % SUBTITLE=Learn with us!
 % DESCRIPTION=See our upcoming workshops.
 % KEYWORDS=reset, workshops, upcoming
-=In progress=
+=Upcoming=
 ----
 
 %% Comment this if some workshops are added!
@@ -13,4 +13,5 @@
 
 %% Add new upcoming workshops here:
 
-%%[[@: ../octoberrobotic2014/|October Robotic 2014| Build your own robotic arm on three amazing sessions!!]]
+%%[[@: ../workshops/Taller_Prusa_i3_Hephestos_bq/|Prusa i3 Hephestos 3D printer workshop| Have you ever dreamed of materializing your ideas instantly?
+%%From the students' association Reset, in collaboration with the technological company bq, we want to help you making it possible bringing you 3D printers at the best price.]]
