@@ -5,6 +5,7 @@
 =All=
 ----
 
+%%[[@: ../workshops/Taller_Prusa_i3_Hephestos_bq/|Prusa i3 Hephestos 3D printer workshop| Have you ever dreamed of materializing your ideas instantly? From the students' association Reset, in collaboration with the technological company bq, we want to help you making it possible bringing you 3D printers at the best price.]]
 [[@: ../android/|Android Programming|Learn to program in the most used mobile platform!]]
 
 [[@: ../soldering/|Soldering|While building any robot we have to take into account that motors and any other kind of actuators that require power can not be powered directly through the microcontroller. That's why power amplifiers are needed. They allow you to provide the necessary voltage and current through the motor controller.]]
