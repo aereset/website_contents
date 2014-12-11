@@ -5,7 +5,7 @@
 =Todos=
 ----
 
-%%[[@: ../workshops/Taller_Prusa_i3_Hephestos_bq/|Taller impresora 3D Prusa i3 Hephestos| ¿Has soñado alguna vez con poder materializar tus ideas al instante? Desde la asociación de estudiantes Reset, en colaboración con la empresa tecnológica bq, queremos ayudarte a hacerlo posible acercándote las impresoras 3D al mejor precio.]]
+[[@: ../workshops/Taller_Prusa_i3_Hephestos_bq/|Taller impresora 3D Prusa i3 Hephestos| ¿Has soñado alguna vez con poder materializar tus ideas al instante? Desde la asociación de estudiantes Reset, en colaboración con la empresa tecnológica bq, queremos ayudarte a hacerlo posible acercándote las impresoras 3D al mejor precio.]]
 [[@: ../android/|Programación en Android|¡Aprende a programar en la plataforma de móviles más utilizada!]]
 
 [[@: ../soldering/|Soldadura|Cuando construimos un robot debemos tener en cuenta que los motores y cualquier otro tipo de actuador que requiera potencia no puede ser alimentado directamente a través del microcontrolador. Por ello necesitamos utilizar las etapas de potencia. Te permiten proporcionar la tensión y corriente necesarias a través del control motor.]]
