@@ -3,5 +3,8 @@
 % DESCRIPTION=See our planned events
 % KEYWORDS=Calendar events
 <p class="centered">
-			<iframe class="google-calendar" width="800" height="600" src="https://www.google.com/calendar/embed?src=aereset%40gmail.com&amp;ctz=Europe/Madrid"></iframe>
+			<iframe class="google-calendar" width="800" height="600"  src="https://www.google.com/calendar/embed?
+src=aereset%40gmail.com&amp;
+src=9ik5indainamdt7k2fndrntrco%40group.calendar.google.com&amp;
+ctz=Europe%2FMadrid"></iframe>
 		</p>
