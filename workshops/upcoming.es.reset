@@ -6,11 +6,9 @@
 ----
 
 %% Comenta esto si se añaden nuevos talleres!
-%%?? No hay próximos talleres... ¡Estáte atento o ayúdanos a organizar nuevos talleres!
+?? No hay próximos talleres... ¡Estáte atento o ayúdanos a organizar nuevos talleres!
 
 %% Ejemplo de un nuevo taller:
 %% [[@: ../workshop-xxx/|Workshop XXX|Workshop description...]]
 
 %% Añade nuevos talleres a continuación:
-
-[[@: ../Taller_Prusa_i3_Hephestos_bq/|Taller impresora 3D Prusa i3 Hephestos| ¿Has soñado alguna vez con poder materializar tus ideas al instante? Desde la asociación de estudiantes Reset, en colaboración con la empresa tecnológica bq, queremos ayudarte a hacerlo posible acercándote las impresoras 3D al mejor precio.]]
