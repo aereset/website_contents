@@ -1,6 +1,6 @@
-% TITLE=Xilinx licensing and Digilent drivers in Fedora 17 and CentOS 6
-% SUBTITLE=Learn how to set up Xilinx tools and various Diligent boards drivers in Fedora 17 and CentOS 6
-% DESCRIPTION=Learn how to set up Xilinx tools and various diligent boards drivers in Fedora 17 and CentOS 6.
+% TITLE=Xilinx licensing and Digilent drivers in Fedora 21 and CentOS 6
+% SUBTITLE=Learn how to set up Xilinx tools and various Diligent boards drivers in Fedora 21 and CentOS 6
+% DESCRIPTION=Learn how to set up Xilinx tools and various diligent boards drivers in Fedora 21 and CentOS 6.
 % KEYWORDS=reset, xilinx, fedora, centos, edk, sdk, xps, licencia, digilent, atlys, nexys
 =Running Xilinx tools=
 ----
@@ -32,7 +32,7 @@ Restart your system and you should be done! Xilinx tools will now recognize your
 
 Changing your ethx MAC address is very easy, just execute (use your own MAC address and network device name):
 
-<code class="terminal">su -c 'ifconfig eth0 down &amp;&amp; ifconfig eth0 hw ether 78:2B:CB:AF:6D:C5 &amp;&amp; ifconfig eth0 up'</code>
+<code class="terminal">su -c 'ifconfig eth0 down && ifconfig eth0 hw ether 78:2B:CB:AF:6D:C5 && ifconfig eth0 up'</code>
 
 =Digilent drivers=
 ----
@@ -45,7 +45,7 @@ First, we need to install some dependencies:
 
 Then, we need to download and compile the USB drivers:
 
-<code class="terminal">git clone git://git.zerfleddert.de/usb-driver &amp;&amp; cd usb-driver &amp;&amp; make</code>
+<code class="terminal">git clone git://git.zerfleddert.de/usb-driver && cd usb-driver && make</code>
 
 Now, run the setup_pcusb executable:
 
@@ -57,11 +57,11 @@ Now copy the drivers to your Xilinx installation directory (use yours instead of
 
 You will also need to copy udev rules and the firmware for the JTAG:
 
-<code class="terminal">cd /opt/Xilinx/14.1/ISE_DS/common/bin/lin64/install_script/install_drivers/linux_drivers/pcusb/ &amp;&amp; su -c 'cp xusbdfwu.rules /etc/udev/rules.d/ &amp;&amp; cp *.hex /usr/share/'</code>
+<code class="terminal">cd /opt/Xilinx/14.1/ISE_DS/common/bin/lin64/install_script/install_drivers/linux_drivers/pcusb/ && su -c 'cp xusbdfwu.rules /etc/udev/rules.d/ && cp *.hex /usr/share/'</code>
 
 Now run the following commands (press enter each time you are asked for a confirmation to use the default directories):
 
-<code class="terminal">cd /opt/Xilinx/14.1/ISE_DS/ISE/bin/lin64/digilent/ &amp;&amp; su -c './install_digilent.sh'</code>
+<code class="terminal">cd /opt/Xilinx/14.1/ISE_DS/ISE/bin/lin64/digilent/ && su -c './install_digilent.sh'</code>
 
 There is only one more thing to fix:
 
@@ -69,7 +69,7 @@ There is only one more thing to fix:
 
 Restart udev and you should be done!
 
-<code class="terminal">su -c 'systemctl restart udev.service'</code>
+<code class="terminal">su -c 'udevadm control --reload-rules'</code>
 
 Thanks again to <a href="http://ashwith.wordpress.com/2012/06/10/setup-xilinx-ise-14-1-free-version-and-digilents-adept-utilities-in-fedora-17-64-bit/">Ashwith's blog</a>, were we got all the information.
 
