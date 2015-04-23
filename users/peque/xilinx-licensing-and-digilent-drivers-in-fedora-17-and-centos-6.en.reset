@@ -20,9 +20,9 @@ Now you will be able to execute all Xilinx tools: ISE, XPS, SDK, Impact... (just
 
 Since the last versions of Fedora and CentOS, ethernet devices are no longer labeled as ethx but as pxpx (refering to the phisical slot and port). If we try to run Xilinx tools with a valid license, we will get an error. This is because the license is designed for an ethx MAC address and, therefore, Xilinx will not be able to find the correct address in your system (instead, it will only find a 000000000000 address).
 
-We can easily fix that, telling our system to use the old labeling method. To do so, we must edit the file /etc/default/grub and add the option "biosdevname=0" at the end of "GRUB_CMDLINE_LINUX":
+We can easily fix that, telling our system to use the old labeling method. To do so, we must edit the file /etc/default/grub and add the option "net.ifnames=0 biosdevname=0" at the end of "GRUB_CMDLINE_LINUX":
 
-<code class="terminal">GRUB_CMDLINE_LINUX="... biosdevname=0"</code>
+<code class="terminal">GRUB_CMDLINE_LINUX="... net.ifnames=0 biosdevname=0"</code>
 
 Now we need to regenerate the GRUB configuration file:
 
