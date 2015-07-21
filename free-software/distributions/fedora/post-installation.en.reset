@@ -58,7 +58,7 @@ Now that you've installed the RPM Fusion repositories in your system, you'll be 
 
 If you want everything installed, just run the following command in a terminal:
 
-<code class="terminal">su -c 'yum install -y lxsplit p7zip p7zip-plugins unrar ffmpeg gstreamer-ffmpeg gstreamer-plugins-bad gstreamer-plugins-bad-free gstreamer-plugins-bad-nonfree gstreamer-plugins-bad-extras gstreamer-plugins-ugly gstreamer-plugins-base gstreamer-plugins-good gstreamer-plugins-schroedinger xine-lib-extras-nonfree xine-lib xine-lib-extras-freeworld'</code>
+<code class="terminal">su -c 'yum install -y p7zip unrar gstreamer1* --exclude=*devel,*doc'</code>
 
 =Commonly used programs=
 ----
