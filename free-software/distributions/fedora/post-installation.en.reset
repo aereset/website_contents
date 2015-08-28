@@ -9,7 +9,7 @@ Once you've already installed your Fedora distribution in your hard drive and yo
 
 Always, after installing a new distribution in your computer, you should make sure that your system is up to date, so you'll either need to use the Software Update graphical tool (just search for "software" in the applications menu) or just run the following command in a terminal instead:
 
-<code class="terminal">su -c 'yum update -y --skip-broken'</code>
+<code class="terminal">su -c 'dnf update -y --skip-broken'</code>
 
 ?? <strong>Important:</strong> After this update, you should restart your computer.
 
@@ -26,11 +26,11 @@ To do so, download and install the following packages:
 
 Or just run the following command in a terminal:
 
-<code class="terminal">su -c 'yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm'</code>
+<code class="terminal">su -c 'dnf localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm'</code>
 
 Then, you'll need to update your system as in the first step, using the graphical interface or the terminal again:
 
-<code class="terminal">su -c 'yum update -y'</code>
+<code class="terminal">su -c 'dnf update -y'</code>
 
 =Flash Player=
 ----
@@ -43,7 +43,7 @@ First of all, you'll need to import the Adobe Flash Player repository to your sy
 
 For now on, we'll be using the terminal, which is a faster solution. Open a terminal (search for "terminal" in the applications menu) and run the following command to install Flash Player on your system:
 
-<code class="terminal">su -c 'yum install -y flash-plugin'</code>
+<code class="terminal">su -c 'dnf install -y flash-plugin'</code>
 
 Just close your browser, open it again and enjoy!
 
@@ -58,7 +58,7 @@ Now that you've installed the RPM Fusion repositories in your system, you'll be 
 
 If you want everything installed, just run the following command in a terminal:
 
-<code class="terminal">su -c 'yum install -y p7zip unrar gstreamer1* --exclude=*devel,*doc'</code>
+<code class="terminal">su -c 'dnf install -y p7zip unrar gstreamer1* --exclude=*devel,*doc'</code>
 
 =Commonly used programs=
 ----
@@ -67,7 +67,7 @@ If you want everything installed, just run the following command in a terminal:
 
 Reset recommends you to install some commonly used programs, that you may need in the short future. For installing our recommended programs, open a terminal and run:
 
-<code class="terminal">su -c 'yum install -y gnome-shell-extensions-alternative-status-menu gnome-tweak-tool gimp gimp-data-extras inkscape mypaint empathy telepathy-sofiasip telepathy-butterfly telepathy-farsight telepathy-gabble telepathy-idle tucan firefox transmission-gtk youtube-dl evince evince-djvu evince-dvi libreoffice-base libreoffice-calc libreoffice-draw libreoffice-impress libreoffice-math libreoffice-writer libreoffice-graphicfilter  libreoffice-ogltrans libreoffice-presentation-minimizer pdfshuffler pdfmerge tellico gparted alacarte wine cheese brasero brasero-nautilus sound-juicer rhythmbox vlc openshot'</code>
+<code class="terminal">su -c 'dnf install -y gnome-shell-extensions-alternative-status-menu gnome-tweak-tool gimp gimp-data-extras inkscape mypaint empathy telepathy-sofiasip telepathy-butterfly telepathy-farsight telepathy-gabble telepathy-idle tucan firefox transmission-gtk youtube-dl evince evince-djvu evince-dvi libreoffice-base libreoffice-calc libreoffice-draw libreoffice-impress libreoffice-math libreoffice-writer libreoffice-graphicfilter  libreoffice-ogltrans libreoffice-presentation-minimizer pdfshuffler pdfmerge tellico gparted alacarte wine cheese brasero brasero-nautilus sound-juicer rhythmbox vlc openshot'</code>
 
 =More things to do=
 ----

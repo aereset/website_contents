@@ -9,7 +9,7 @@ Una vez has instalado la distribución de Fedora en tu disco duro y has arrancad
 
 Siempre, después de instalar una nueva distribución en tu ordenador, deberás asegurarte de que el sistema se encuentra actualizado, así que tendrás que utilizar la herramienta gráfica de Actualización del Sistema (busca por "actualiza" en el menú de aplicaciones) o bien ejecutar el siguiente comando en la terminal:
 
-<code class="terminal">su -c 'yum update -y --skip-broken'</code>
+<code class="terminal">su -c 'dnf update -y --skip-broken'</code>
 
 ?? <strong>Importante:</strong> Tras esta actualización, deberías reiniciar el ordenador.
 
@@ -26,11 +26,11 @@ Para hacerlo, descarga e instala los siguientes paquetes:
 
 O simplemente ejecuta el siguiente comando en la terminal:
 
-<code class="terminal">su -c 'yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm'</code>
+<code class="terminal">su -c 'dnf localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm'</code>
 
 Tras esto, deberás actualizar el sistema como en el primer paso, utilizando la interfaz gráfica o la terminal de nuevo:
 
-<code class="terminal">su -c 'yum update -y'</code>
+<code class="terminal">su -c 'dnf update -y'</code>
 
 =Flash Player=
 ----
@@ -43,7 +43,7 @@ En primer lugar, necesitarás importar el repositorio de Adobe Flash Player a tu
 
 De ahora en adelante, utilizaremos la terminal, ya que es una solución más rápida. Abre una terminal (busca por "terminal" en el menú de aplicaciones) y ejecuta el comando siguiente para instalar Flash Player en tu sistema:
 
-<code class="terminal">su -c 'yum install -y flash-plugin'</code>
+<code class="terminal">su -c 'dnf install -y flash-plugin'</code>
 
 ¡Simplemente cierra tu navegador, ábrelo de nuevo y disfruta!
 
@@ -58,7 +58,7 @@ Ahora que ya has instalado los repositorios RPM Fusion en tu sistema, podrás in
 
 Si quieres tener todo instalado, sencillamente ejecuta el comando siguiente en una terminal:
 
-<code class="terminal">su -c 'yum install -y p7zip unrar gstreamer1* --exclude=*devel,*doc'</code>
+<code class="terminal">su -c 'dnf install -y p7zip unrar gstreamer1* --exclude=*devel,*doc'</code>
 
 =Programas comúnmente utilizados=
 ----
@@ -67,7 +67,7 @@ Si quieres tener todo instalado, sencillamente ejecuta el comando siguiente en u
 
 Reset te recomienda instalar algunos programas comúnmente utilizados, que tal vez puedas necesitar en un futuro próximo. Para instalar nuestros programas recomendados, abre una terminal y ejecuta:
 
-<code class="terminal">su -c 'yum install -y gnome-shell-extensions-alternative-status-menu gnome-tweak-tool gimp gimp-data-extras inkscape mypaint empathy telepathy-sofiasip telepathy-butterfly telepathy-farsight telepathy-gabble telepathy-idle tucan firefox transmission-gtk youtube-dl evince evince-djvu evince-dvi libreoffice-base libreoffice-calc libreoffice-draw libreoffice-impress libreoffice-math libreoffice-writer libreoffice-graphicfilter  libreoffice-ogltrans libreoffice-presentation-minimizer pdfshuffler pdfmerge tellico gparted alacarte wine cheese brasero brasero-nautilus sound-juicer rhythmbox vlc openshot'</code>
+<code class="terminal">su -c 'dnf install -y gnome-shell-extensions-alternative-status-menu gnome-tweak-tool gimp gimp-data-extras inkscape mypaint empathy telepathy-sofiasip telepathy-butterfly telepathy-farsight telepathy-gabble telepathy-idle tucan firefox transmission-gtk youtube-dl evince evince-djvu evince-dvi libreoffice-base libreoffice-calc libreoffice-draw libreoffice-impress libreoffice-math libreoffice-writer libreoffice-graphicfilter  libreoffice-ogltrans libreoffice-presentation-minimizer pdfshuffler pdfmerge tellico gparted alacarte wine cheese brasero brasero-nautilus sound-juicer rhythmbox vlc openshot'</code>
 
 =Más cosas para hacer=
 ----
