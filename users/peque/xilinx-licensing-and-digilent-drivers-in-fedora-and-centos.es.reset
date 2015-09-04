@@ -1,0 +1,76 @@
+% TITLE=Xilinx licensing and Digilent drivers in Fedora 21 and CentOS 6
+% SUBTITLE=Learn how to set up Xilinx tools and various Diligent boards drivers in Fedora 21 and CentOS 6
+% DESCRIPTION=Learn how to set up Xilinx tools and various diligent boards drivers in Fedora 21 and CentOS 6.
+% KEYWORDS=reset, xilinx, fedora, centos, edk, sdk, xps, licencia, digilent, atlys, nexys
+=Running Xilinx tools=
+----
+
+For those having very little experience with Xilinx tools under GNU/Linux systems, running all the tools is very simple once you have loaded the Xilinx's environment variables. To do so, you just need to source the file "settings64.sh" (or "settings32.sh" if you are using a 32 bits operating system). For ease, you may want to execute the following command to create a shortcut:
+
+<code class="terminal">su -c 'echo ". /opt/Xilinx/14.1/ISE_DS/settings64.sh">> /usr/bin/xenv'</code>
+
+For now on, to be able to launch Xilinx tools from the terminal, you only need to execute:
+
+<code class="terminal">source xenv</code>
+
+Now you will be able to execute all Xilinx tools: ISE, XPS, SDK, Impact... (just try the corresponding commands: ise, xps, xsdk, impact...
+
+=Xilinx licensing=
+----
+
+Since the last versions of Fedora and CentOS, ethernet devices are no longer labeled as ethx but as pxpx (refering to the phisical slot and port). If we try to run Xilinx tools with a valid license, we will get an error. This is because the license is designed for an ethx MAC address and, therefore, Xilinx will not be able to find the correct address in your system (instead, it will only find a 000000000000 address).
+
+We can easily fix that, telling our system to use the old labeling method. To do so, we must edit the file /etc/default/grub and add the option "net.ifnames=0 biosdevname=0" at the end of "GRUB_CMDLINE_LINUX":
+
+<code class="terminal">GRUB_CMDLINE_LINUX="... net.ifnames=0 biosdevname=0"</code>
+
+Now we need to regenerate the GRUB configuration file:
+
+<code class="terminal">su -c 'grub2-mkconfig -o /boot/grub2/grub.cfg'</code>
+
+Restart your system and you should be done! Xilinx tools will now recognize your ethx network device and you will be able to use your license again.
+
+Changing your ethx MAC address is very easy, just execute (use your own MAC address and network device name):
+
+<code class="terminal">su -c 'ifconfig eth0 down && ifconfig eth0 hw ether 78:2B:CB:AF:6D:C5 && ifconfig eth0 up'</code>
+
+=Digilent drivers=
+----
+
+? Instructions on how to set up the drivers for your Digilent board can be found here: <a href="http://ashwith.wordpress.com/2012/06/10/setup-xilinx-ise-14-1-free-version-and-digilents-adept-utilities-in-fedora-17-64-bit/">Ashwith's blog</a>. We made some changes to make it work, so after following this instructions, you should be able to use Adept tools, SDK, Impact or your favourite tool to upload the bitstream and debug your FPGA architecture.
+
+First, we need to install some dependencies:
+
+<code class="terminal">su -c 'yum install fxload libusb-devel'</code>
+
+Then, we need to download and compile the USB drivers:
+
+<code class="terminal">git clone git://git.zerfleddert.de/usb-driver && cd usb-driver && make</code>
+
+Now, run the setup_pcusb executable:
+
+<code class="terminal">su -c './setup_pcusb'</code>
+
+Now copy the drivers to your Xilinx installation directory (use yours instead of /opt/):
+
+<code class="terminal">su -c 'cp libusb-driver.so /opt/Xilinx/14.1/ISE_DS/common/lib/lin64/'</code>
+
+You will also need to copy udev rules and the firmware for the JTAG:
+
+<code class="terminal">cd /opt/Xilinx/14.1/ISE_DS/common/bin/lin64/install_script/install_drivers/linux_drivers/pcusb/ && su -c 'cp xusbdfwu.rules /etc/udev/rules.d/ && cp *.hex /usr/share/'</code>
+
+Now run the following commands (press enter each time you are asked for a confirmation to use the default directories):
+
+<code class="terminal">cd /opt/Xilinx/14.1/ISE_DS/ISE/bin/lin64/digilent/ && su -c './install_digilent.sh'</code>
+
+There is only one more thing to fix:
+
+<code class="terminal">su -c "sed -i 's/SYSFS/ATTR/g' /etc/udev/rules.d/52-digilent-usb.rules"</code>
+
+Restart udev and you should be done!
+
+<code class="terminal">su -c 'udevadm control --reload-rules'</code>
+
+Thanks again to <a href="http://ashwith.wordpress.com/2012/06/10/setup-xilinx-ise-14-1-free-version-and-digilents-adept-utilities-in-fedora-17-64-bit/">Ashwith's blog</a>, were we got all the information.
+
+?? The command lsusb should now display the ID 03fd:0008 for your connected board. If the product ID is not 0008, then something has gone wrong. Please, make sure to execute setup_pcusb and try to reboot your system.
