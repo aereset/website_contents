@@ -1,0 +1,117 @@
+% TITLE=Cybertech 2016
+% SUBTITLE=Build your robot and come to the competition!
+% DESCRIPTION=Build your robot and come to the competition!
+% KEYWORDS=reset, cybertech, programming, c, arduino, rules
+
+=Introduction=
+----
+
+?? November 18th, at 12.30, there will be an information session of Cybertech in classroom C
+
+Cybertech is an anual robot competition which is organized by the student's association [/ Reset], with the full [http://www.disam.upm.es/ Departamento de Automática, Ingeniería Electrónica e Informática Industrial] support. Thanks to the [http://www.etsii.upm.es/ Escuela Técnica Superior de Ingenieros Industriales] of the [http://www.upm.es/ Universidad Politécnica de Madrid].
+
+This competition has two categories: ''Classic and Pro'' .
+
+In the ''Classic Category'' there are two kinds of challenges: maze and linefollower.
+
+In the maze, the goal for the robots is to find the way out from a labyrinth autonomously.
+
+[Youtube:tky4wlc0GPc]
+
+In the linefollower, the robots have to follow a circuit painted on the floor.
+
+[Youtube:zxWNHWfHQ8Q]
+
+The challenge increases as the competition goes on, with more and more complicated mazes and obstacles...
+
+The ''Pro Category'' is thought for contestants more skillful, this year there is two challenges: Sumo and Robolympicsl.
+
+In the Sumo, the robots figth each other tryng to immobilize the opponent or take it out of the ring.
+
+[Youtube:https://www.youtube.com/watch?v=jXHeseZimGA]
+
+In the Robolympics, there will take place the leading sporting event for robots. Choose a country to represent and achive medals to win.
+
+
+=Registration and calendar=
+----
+You can join the Classic and PRO competition. December 31th is he deadline for both.
+
+
+=Workshops=
+----
+
+==First workshop==
+November 25th
+
+Only one turn: 12.30 
+===Phase 1===
+Material and tutors
+
+
+===Phase 2===
+Workkshop 1: Arduino introduction
+
+? You can download here the Arduino+Debuggino version: [https://www.dropbox.com/s/8rk7cso5tf2miwn/arduino-0105_Debugguino015-windows.zip?dl=0 Download Arduino]
+
+*[/uploads/Taller1Cybertech2015 Workshop 1 Documentation]
+
+==Second Workshop==
+Decembre 2nd
+
+It is a workshop where we will  learn about how to use different kinds of sensors and how to weld with tin
+
+It's going to be two sessions:
+
+===Morning's session===
+12:30 - 14:30 in the 31 classroom
+
+===Afternoon's session===
+15:30 - 17:30 in the 31 classroom
+
+? Remember to bring a  laptop by each group, your own briefcase and download the following slides:[/uploads/Cybertech2015Taller2pdf Second Workshop slides]
+
+==Third Workshop==
+December 4th
+
+It is a workshop where we will  learn about how to use the Arduino Motor Shield.
+
+It's going to be two sessions:
+
+===Morning's session===
+12:30 - 14:30 in the 35 classroom
+
+===Afternoon's session===
+15:30 - 17:30 in the 36 classroom
+
+? Remember to bring a  laptop by each group, your own briefcase and download the following slides:[/uploads/Cybertech2015Taller3pdf Third Workshop slides]
+
+==Fourth Workshop==
+December 9th
+
+It is a workshop where we will get some advices about how to design and build our robot
+
+It's going to be two sessions:
+
+===Morning's session===
+12:30 - 14:30 in the 31 classroom
+
+===Afternoon's session===
+15:30 - 17:30 in the 31 classroom
+
+? Remember to bring a  laptop by each group and download the following slides:[https://www.dropbox.com/s/lr780jq3253ndpi/Cybertech%202015%20taller4.pdf?dl=0/ Fourth Workshop slides]
+
+==Fifth Workshop==
+February 2nd
+
+It is a workshop where we will learn about  the main controllers and how to adjust them
+
+It's going to be two sessions:
+
+===Morning's session===
+12:30 - 14:30 in the 31 classroom
+
+===Afternoon's session===
+15:30 - 17:30 in the 31 classroom
+
+? Remember to bring a  laptop by each group and download the following slides (updated):[/uploads/cybertech2015taller5pdf Fifth Workshop slides]
