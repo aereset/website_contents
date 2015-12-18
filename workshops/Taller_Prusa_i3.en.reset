@@ -1,6 +1,6 @@
-% TITLE=Prusa i3 3D printer workshop
+% TITLE=Prusa i3 Steel 3D printer workshop
 % SUBTITLE=
-% DESCRIPTION=bq Prusa i3 3D printer workshop
+% DESCRIPTION=bq Prusa i3 Steel 3D printer workshop
 % KEYWORDS=reset, Prusa, i3, workshop, printer, 3D, assembly
 =Introduction=
 ----
@@ -9,11 +9,13 @@ Have you ever dreamed of materializing your ideas instantly?
 
 From the students' association <strong>Reset</strong> we want to help you making it possible bringing you 3D printers at the best price.
 
+<p class="centered"><img src="/uploads/taller_prusa_i3_steel/" alt="Taller Prusa i3 Steel"></p>
+
 
 =Workshop description=
 ----
 
-Learn to assemble and calibrate your own Prusa i3 3D printer and take it fully configured and ready to print.
+Learn to assemble and calibrate your own Prusa i3 Steel 3D printer and take it fully configured and ready to print.
 
 We will teach you everything you need to know about the printer software and some tricks for printable 3D design.
 
@@ -55,7 +57,7 @@ Only persons belonging to the university community (students, PAS and PDI) will 
 
 The price of the workshop is 435€ per printer and includes:
 <ul>
-3D printer Prusa i3
+3D printer Prusa i3 Steel
 
 Assembly workshop
 
@@ -73,12 +75,17 @@ Scraper
 
 After register, you will receive an email with the confirmation of the booking and the account number to make the deposit or transfer within the next 7 days .
 
+The cancellation deadline will be 7 February 2016, returning the amount paid with a penalty of 15%.
+
 
 =Register=
 ----
 
+Registration will remain open until 8 February or until complete the limit of 30 printers.
 
 Complete the registration form below :
+
+<p class="centered">[https://docs.google.com/forms/d/1hO1HceuVeSh5zWv4Xo5BAA90vmpMFQPTiZwV99JM9tI/viewform?c=0&w=1 Registration form Prusa i3 Hephestos 3D printer workshop]
 
 
 =Documentation y resources=
@@ -90,15 +97,7 @@ Complete the registration form below :
 
 <ul><li>[http://software.ultimaker.com/ Cura]</li></ul>
 
-<ul><ul><li>[https://static-bqreaders.s3.amazonaws.com/file/Prusa/Perfil_Extrusion_Cura.zip Print profiles Cura Prusa i3 Hephestos]</li></ul></ul>
-
 <ul><li>[http://kisslicer.com/ KISSlicer]</li></ul>
-
-</ul><br>
-
-<li>[http://www.thingiverse.com/ Thingiverse]</li>
-
-
 
 
 

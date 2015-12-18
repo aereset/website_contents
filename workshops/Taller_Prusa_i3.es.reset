@@ -1,6 +1,6 @@
-% TITLE=Taller impresora 3D Prusa i3
+% TITLE=Taller impresora 3D Prusa i3 Steel
 % SUBTITLE=
-% DESCRIPTION=Taller impresora 3D Prusa i3 
+% DESCRIPTION=Taller impresora 3D Prusa i3 Steel
 % KEYWORDS=reset, Prusa, i3, taller, impresora, 3D, montaje
 =Introducción=
 ----
@@ -9,11 +9,13 @@
 
 Desde la asociación de estudiantes <strong>Reset</strong> queremos ayudarte a hacerlo posible acercándote las impresoras 3D al mejor precio.
 
+<p class="centered"><img src="/uploads/taller_prusa_i3_steel/" alt="Taller Prusa i3 Steel"></p>
+
 
 =Descripción del taller=
 ----
 
-Aprende a montar y calibrar tu propia impresora 3D Prusa i3 Hephestos y llévatela totalmente configurada y lista para imprimir.
+Aprende a montar y calibrar tu propia impresora 3D Prusa i3 Steel y llévatela totalmente configurada y lista para imprimir.
 
 Te enseñaremos todo lo que necesitas saber del software de impresión 3D y algunos trucos para el diseño imprimible.
 
@@ -56,7 +58,7 @@ Sólo se admitirán personas pertenecientes a la comunidad universitaria (estudi
 
 El precio del taller es 435€ por impresora e incluye:
 <ul>
-Impresora 3D Prusa i3 
+Impresora 3D Prusa i3 Steel
 
 Taller de montaje
 
@@ -73,16 +75,18 @@ Rasqueta
 
 Al realizar la inscripción, se recibirá un mail con la confirmación de la reserva de plaza y el número de cuenta al que realizar el ingreso o  transferencia dentro de los siguientes 7 días.
 
+La fecha límite de cancelación será el día 7 de febrero de 2016, devolviéndose el importe ingresado con una penalización del 15%.
+
 
 =Inscripción=
 ----
 
 La inscripción permanecerá abierta hasta el 8 de febrero o hasta completar el límite de 30 impresoras.
 
-??? ¡¡¡Plazas agotadas!!!
 
 Completa el siguiente formulario de inscripción:
 
+<p class="centered">[https://docs.google.com/forms/d/1hO1HceuVeSh5zWv4Xo5BAA90vmpMFQPTiZwV99JM9tI/viewform?c=0&w=1 Formulario de inscripción al taller impresora 3D Prusa i3 Steel]
 
 
 =Documentación y recursos=
@@ -95,9 +99,6 @@ Completa el siguiente formulario de inscripción:
 
 <ul><li>[http://kisslicer.com/ KISSlicer]</li></ul>
 
-</ul><br>
-
-<li>[http://www.thingiverse.com/ Thingiverse]</li>
 
 
 =Contacto=
