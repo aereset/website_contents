@@ -21,6 +21,27 @@ If you are tired of all the theory learned that you never use in the real life a
 
 We are going to give you all the needed material except a laptop (It is only needed one for each three people)
 
+=Workshops=
+----
+
+<dl class="app"><dt class="app_name">Session 1</dt><dd class="app_img"><img src="/uploads/pool_arduino_logo.png" alt="Arduino" /></dd><dd class="app_desc">Arduino, sensors and  servos
+
+</dd><dd class="app_feat"><ul><li>Introduction to Arduino IDE</li><li>Sensors</li><li>Servos</li><li>Practices with sensors, servos and Arduino</li></ul>
+
+
+</dd></dl><dl class="app"><dt class="app_name">Session 2</dt><dd class="app_img"><img src="/uploads/brazo_robotico_vs_humano" alt="Brazo Robotico" /></dd><dd class="app_desc">Robot Mechanics
+
+</dd><dd class="app_feat"><ul><li>Degrees of freedom, redundancy and actuators...</li><li>Some kinds of robots I</li><li>Build of the robotic arm</li><li>Practice programming the robotic arm</li></ul>
+
+</dd></dl><dl class="app"><dt class="app_name">Session 3</dt><dd class="app_img"><img src="/uploads/pool_robotic_arm.png" alt="robotic arm" /></dd><dd class="app_desc">Servos and imagination
+
+</dd><dd class="app_feat"><ul><li>Some kind of robots II</li><li>¡¡Freestyle!!</li></ul>
+
+=Slides=
+----
+
+
+[http://reset.etsii.upm.es/en/uploads/Chuletilla_Arduino.pdf/ Chuletilla de Arduino]
 
 
 =Calendar=
