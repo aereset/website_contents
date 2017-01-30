@@ -119,7 +119,25 @@ De 12:30 a 14:30
 ===Turno de tarde===
 De 15:30 a 17:30
 
-? Recordad traeros un portátil por grupo, descargar la siguiente presentación:  [/uploads/cybertech_2017_taller_5.pdf Presentación Taller 5], e instalar el programa [http://www.coppeliarobotics.com/downloads.html/ v-rep]
+? Recordad traeros un portátil por grupo, descargar la siguiente presentación:  [/uploads/cybertech_2017_taller_5.pdf Presentación Taller 5], e instalar el programa [http://www.coppeliarobotics.com/downloads.html/ V-REP]
+
+=Checkpoints=
+----
+
+==Primer checkpoint==
+3 de febrero
+
+En este primer checkpoint se comprobará que el robot se puede mover de manera autónoma, controlando los motores desde la etapa de potencia. Realizará un giro en cada sentido.
+
+==Segundo checkpoint==
+24 de febrero
+
+En el segundo checkpoint se demostrará que el robot detecta (de la forma que el equipo elija) la línea negra sobre el fondo blanco.
+
+==Tercer checkpoint==
+10 de marzo
+
+El tercer checkpoint se superará si el robot detecta paredes, obstáculos o mide distancia, de nuevo eligiendo el grupo la forma de demostrarlo.
 
 =Bases=
 ----

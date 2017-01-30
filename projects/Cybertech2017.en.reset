@@ -121,7 +121,25 @@ There will be two sessions:
 ===Afternoon's session===
 15:30 - 17:30
 
-? Remember to bring a  laptop by each group, download the following slides: [/uploads/cybertech_2017_taller_5.pdf Fitfth Workshop slides] and install [http://www.coppeliarobotics.com/downloads.html/ v-rep simulator]
+? Remember to bring a  laptop by each group, download the following slides: [/uploads/cybertech_2017_taller_5.pdf Fitfth Workshop slides] and install [http://www.coppeliarobotics.com/downloads.html/ V-REP simulator]
+
+=Checkpoints=
+----
+
+==First checkpoint==
+February 3rd
+
+This first checkpoint is to check if the robot can move autonomously, controlling its motors from the driver. It will turn in both directions.
+
+==Second checkpoint==
+February 24th
+
+In this checkpoint it will be shown that the robot detects (in whichever way each team decides) a black line on a white background.
+
+==Third checkpoint==
+March 10th
+
+The third checkpoint will be passed if the robot detects walls, obstacles or measures distance, again letting each team decide how to show it.
 
 =Rules=
 ----
