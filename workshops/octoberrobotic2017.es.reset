@@ -1,0 +1,93 @@
+% TITLE=Octubre Robótico
+% SUBTITLE=¡¡Construye tu propio brazo robótico!!
+% DESCRIPTION=¡¡Construye tu propio brazo robótico!!
+% KEYWORDS=octubre robótico, brazo robótico
+=Introducción=
+----
+
+<p class="centered"><img src="/uploads/Octubre_Robotico_2017.png//" alt="Robotic Autumn 2017"></p>
+
+
+Desde Reset queremos darte la bienvenida al curso 2017/2018 en el que tenemos mucho que ofrecerte.
+
+Tras el éxito de los talleres Octubre Robótico del curso pasado, queremos anunciar que los repetiremos los días 11 y 18 de octubre.
+
+En estos talleres aprenderás a manejar Arduino, a realizar circuitos básicos para controlarlos con Arduino y finalmente construirás un brazo robótico programable.
+
+? ¡¡Estos cursos son totalmente gratis!!.
+
+Si estás cansado de tanta teoría que nunca aplicas en la vida real y quieres realizar una actividad verdaderamente motivante en la que diseñarás y construirás aparatos útiles que realmente funcionan,<strong>¡ esta es tu oportunidad!</strong>
+
+En cuanto al material, nosotros pondremos a tu disposición todo lo necesario salvo un ordenador portátil (se necesita uno por cada grupo de tres personas, no hace falta que los tres traigan ordenador).
+
+=Talleres=
+----
+
+<dl class="app"><dt class="app_name">Sesión 1</dt><dd class="app_img"><img src="/uploads/pool_arduino_logo.png" alt="Arduino" /></dd><dd class="app_desc">Arduino, sensores y servos
+
+</dd><dd class="app_feat"><ul><li>Introducción al entorno de desarrollo Arduino</li><li>Sensores</li><li>Servos</li><li>Práctica con sensores, servos y Arduino</li></ul>
+
+
+</dd></dl><dl class="app"><dt class="app_name">Sesión 2</dt><dd class="app_img"><img src="/uploads/brazo_robotico_vs_humano" alt="Brazo Robotico" /></dd><dd class="app_desc">Mecánica de los robots
+
+</dd><dd class="app_feat"><ul><li>Grados de libertad, redundancia, accionamientos...</li><li>Algunos tipos de robots I</li><li>Construcción del brazo robótico</li><li>Práctica de programación del brazo</li></ul>
+
+</dd></dl><dl class="app"><dt class="app_name">Sesión 3</dt><dd class="app_img"><img src="/uploads/pool_robotic_arm.png" alt="robotic arm" /></dd><dd class="app_desc">Servos e imaginación
+
+</dd><dd class="app_feat"><ul><li>Algunos tipos de robots II</li><li>¡¡Freestyle!!</li></ul>
+
+=Diapositivas=
+----
+
+
+[http://reset.etsii.upm.es/en/uploads/Chuletilla_Arduino.pdf/ Chuletilla de Arduino].
+
+
+<br><br>
+[https://nextcloud.reset.etsii.upm.es/s/WPfex9ah7y6tWMu#pdfviewer/ Diapositivas primer taller]
+<br>
+
+<br>
+[https://nextcloud.reset.etsii.upm.es/s/4sI59H3nM2ya5kz#pdfviewer/ Diapositivas segundo taller]
+<br><br>
+
+
+=Calendario=
+----
+
+Las sesiones serán los días 11 y 18 de octubre en dos turnos:
+Turno de mañana: de 12:30 a 14:30
+
+Turno de tarde: de 15:30 a 17:30
+
+=Aulas=
+----
+
+
+{|
+! 
+! Mañana
+! Tarde
+|-
+| Miércoles 11
+| E1
+| E1
+|-
+| Miércoles 18
+| E1
+| E1
+|-
+|}
+
+=Inscripción=
+----
+
+Para inscribirte sólo tienes que rellenar este formulario indicando tu nombre, correo y turno deseado [https://goo.gl/forms/YPDoqtBy74Lfp5503 aquí].
+
+
+Hay plazas limitadas, por lo que te pedimos que una vez te inscribas, te comprometas a asistir a los talleres. 
+
+=Contacto=
+----
+
+<table><caption>Contacto</caption><thead><tr><th>Nombre</th><th>email</th></tr></thead><tbody><tr><td>Asociación de estudiantes Reset</td><td>aereset<span class="display-none">@anti-spam</span>@gmail.com</td></tr></tbody></table>
