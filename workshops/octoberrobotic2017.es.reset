@@ -5,12 +5,12 @@
 =Introducción=
 ----
 
-<p class="centered"><img src="/uploads/Octubre_Robotico_2017.png//" alt="Robotic Autumn 2017"></p>
+<p class="centered"><img src="/uploads/Octubre_Robotico_2016_v2.jpg/" alt="Robotic Autumn 2017"></p>
 
 
 Desde Reset queremos darte la bienvenida al curso 2017/2018 en el que tenemos mucho que ofrecerte.
 
-Tras el éxito de los talleres Octubre Robótico del curso pasado, queremos anunciar que los repetiremos los días 11 y 18 de octubre.
+Tras el éxito de los talleres Octubre Robótico del curso pasado, queremos anunciar que los repetiremos los días 18 y 20 de octubre.
 
 En estos talleres aprenderás a manejar Arduino, a realizar circuitos básicos para controlarlos con Arduino y finalmente construirás un brazo robótico programable.
 
@@ -30,9 +30,8 @@ En cuanto al material, nosotros pondremos a tu disposición todo lo necesario sa
 
 </dd></dl><dl class="app"><dt class="app_name">Sesión 2</dt><dd class="app_img"><img src="/uploads/brazo_robotico_vs_humano" alt="Brazo Robotico" /></dd><dd class="app_desc">Mecánica de los robots
 
-</dd><dd class="app_feat"><ul><li>Grados de libertad, redundancia, accionamientos...</li><li>Algunos tipos de robots I</li><li>Construcción del brazo robótico</li><li>Práctica de programación del brazo</li>
-<dd class="app_desc">Servos e imaginación
-</dd><dd class="app_feat"><ul><li>Algunos tipos de robots II</li><li>¡¡Freestyle!!</li></ul>
+</dd><dd class="app_feat"><ul><li>Grados de libertad, redundancia, accionamientos...</li><li>Algunos tipos de robots</li><li>Construcción del brazo robótico</li><li>Práctica de programación del brazo</li>
+<li>¡¡Freestyle!!</li></ul>
 
 =Diapositivas=
 ----
@@ -53,7 +52,7 @@ En cuanto al material, nosotros pondremos a tu disposición todo lo necesario sa
 =Calendario=
 ----
 
-Las sesiones serán los días 11 y 18 de octubre en dos turnos:
+Las sesiones serán los días 18 y 20 de octubre en dos turnos:
 Turno de mañana: de 12:30 a 14:30
 
 Turno de tarde: de 15:30 a 17:30
@@ -67,12 +66,12 @@ Turno de tarde: de 15:30 a 17:30
 ! Mañana
 ! Tarde
 |-
-| Miércoles 11
+| Miércoles 18
 | E1
 | E1
 |-
-| Miércoles 18
-| E1
+| Viernes 20
+| E3
 | E1
 |-
 |}
