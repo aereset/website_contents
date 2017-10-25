@@ -1,0 +1,103 @@
+% TITLE=Cybertech 2018
+% SUBTITLE=¡Construye tu robot y ven a la competición!
+% DESCRIPTION=¡Construye tu robot y ven a la competición!
+% KEYWORDS=reset, cybertech, programación, c, arduino, bases
+=Introducción=
+----
+
+??? Puedes apuntarte rellenando [https://docs.google.com/forms/d/e/1FAIpQLSflevy21wC6Qo9tjSuPsHnH0X5vkBk5veq-LD8LUWPHagQ_eg/viewform este formulario]
+
+?? Puedes descargar la presentación de la charla informativa de Cybertech 2018 [http://reset.etsii.upm.es/en/uploads/Presentacion_Cybertech_2018.pdf/ aquí]
+
+Cybertech es una competición anual de robots organizada por la asociación de estudiantes [/ Reset] y con el apoyo del [http://www.disam.upm.es/ Departamento de Automática, Ingeniería Electrónica e Informática Industrial]. Todo ello gracias a la [http://www.etsii.upm.es/ Escuela Técnica Superior de Ingenieros Industriales] de la [http://www.upm.es/ Universidad Politécnica de Madrid].
+
+Cybertech 2018 tendrá lugar en el pabellón de deportes de la ETSII entre el 24 y el 27 de abril.
+
+Este concurso tiene tres categorías: ''Classic, Sumo y Cybertech++''.
+
+En la ''Categoría Classic'' se compite en dos tipos de pruebas: laberinto y rastreador (siguelíneas).
+
+En el laberinto los robots deben encontrar, de manera autónoma, el camino que les permite cruzar un laberinto.
+
+[Youtube:tky4wlc0GPc]
+
+En el siguelineas, los robots deben seguir un circuito definido por una línea negra pintada en el suelo.
+
+[Youtube:zxWNHWfHQ8Q]
+
+Los retos aumentan al avanzar en la competición, con circuitos cada vez más complicados, obstáculos...
+
+En ''Sumo'' los robots se enfrentan de forma teleoperada tratando de inmovilizar al contrario o de sacarle de la pista.
+
+[Youtube:vxJdzQc_eYw]
+
+En ''Cybertech++'' el objetivo final será presentar un robot multidisciplinar que compita en diferentes modalidades (velocista, laberinto, mapeo...) para demostrar vuestros conocimientos en robótica. En esta categoría no habrá talleres, el trabajo no estará guiado por Reset.
+
+
+=Talleres=
+----
+==Primer taller==
+Miércoles 15 de Noviembre
+
+Taller de programación
+
+
+==Segundo taller==
+Miércoles 22 de noviembre
+
+
+===Fase 1===
+Reparto de material y asignación de tutores.
+
+===Fase 2===
+Taller 1: Introducción a Arduino
+
+? Puedes descargar aquí el software de Arduino: [https://www.arduino.cc/en/Main/Software Descargar Arduino]
+
+? Podéis descargaros [/uploads/Chuletilla_Arduino.pdf aquí] una pequeña chuletilla de Arduino que hemos preparado para vosotros
+
+==Tercer Taller==
+Viernes 24 de Noviembre
+
+Taller en el que aprenderemos a utilizar la Motor Shield de Arduino.
+
+
+==Cuarto Taller==
+Miércoles 29 de Noviembre
+
+Taller en el que aprenderemos a soldar con estaño y a usar los diversos tipos de sensores que existen.
+
+
+==Quinto Taller==
+Viernes 1 de Diciembre
+
+Taller en el que se nos darán consejos sobre como diseñar y construir nuestro robot.
+
+==Sexto Taller==
+Miércoles 7 de Febrero
+
+Taller en el que aprenderemos cuáles son los principales reguladores y cómo ajustarlos.
+
+
+=Checkpoints=
+----
+
+==Primer checkpoint==
+9 de febrero
+
+En este primer checkpoint se comprobará que el robot se puede mover de manera autónoma, controlando los motores desde la etapa de potencia. Realizará un giro en cada sentido.
+
+==Segundo checkpoint==
+2 de marzo
+
+En el segundo checkpoint se demostrará que el robot detecta (de la forma que el equipo elija) la línea negra sobre el fondo blanco.
+
+==Tercer checkpoint==
+16 de marzo
+
+El tercer checkpoint se superará si el robot detecta paredes, obstáculos o mide distancia, de nuevo eligiendo el equipo la forma de demostrarlo.
+
+
+
+??? Si tienes cualquier duda, no dudes en contactar con nosotros a través del correo aereset@gmail.com
+

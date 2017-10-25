@@ -1,0 +1,103 @@
+% TITLE=Cybertech 2018
+% SUBTITLE=Build your robot and come to the competition!
+% DESCRIPTION=Build your robot and come to the competition!
+% KEYWORDS=reset, cybertech, programming, c, arduino, rules
+=Introduction=
+----
+
+??? You can enroll in Cybertech 2018 filling in [https://docs.google.com/forms/d/e/1FAIpQLSflevy21wC6Qo9tjSuPsHnH0X5vkBk5veq-LD8LUWPHagQ_eg/viewform this form] 
+
+?? You can download the presentation of the information session of Cybertech 2017 [http://reset.etsii.upm.es/en/uploads/Presentacion_Cybertech_2018.pdf/ here]
+
+Cybertech is an anual robot competition which is organized by the student's association [/ Reset], with the full [http://www.disam.upm.es/ Departamento de Automática, Ingeniería Electrónica e Informática Industrial] support. Thanks to the [http://www.etsii.upm.es/ Escuela Técnica Superior de Ingenieros Industriales] of the [http://www.upm.es/ Universidad Politécnica de Madrid].
+
+Cybertech 2018 will take place between April 24th and 27th in the ETSII's sports arena.
+
+This competition has three categories: ''Classic, Sumo and Cybertech++'' .
+
+In the ''Classic Category'' there are two kinds of challenges: maze and linefollower.
+
+In the maze, the goal for the robots is to find the way out from a maze autonomously.
+
+[Youtube:tky4wlc0GPc]
+
+In the linefollower, the robots have to follow a circuit painted on the floor.
+
+[Youtube:zxWNHWfHQ8Q]
+
+The challenge increases as the competition goes on, with more and more complicated mazes and obstacles...
+
+In ''Sumo'', the robots fight each other trying to immobilize the opponent or take it out of the ring.
+
+[Youtube:vxJdzQc_eYw]
+
+In the ''Cybertech++ Category'', the final goal is to come up with a multitask robot that competes in different modalities (sprinter, maze, mapping...) to demonstrate your knowledge in robotics. There won't be any workshops, your work won't be guided by Reset.
+
+
+
+=Workshops=
+----
+
+==First workshop==
+November 15th
+
+Programming workshop
+
+
+==Second workshop==
+November 22nd 
+===Phase 1===
+Material and tutors
+
+
+===Phase 2===
+Workkshop 1: Arduino introduction
+
+? You can download here the Arduino Software: [https://www.arduino.cc/en/Main/Software Download Arduino]
+
+? You can download [/uploads/Chuletilla_Arduino.pdf here] a small Arduino cheat sheet we've prepared for you
+
+==Third Workshop==
+November 24th
+
+It is a workshop where we will  learn about how to use the Arduino Motor Shield.
+
+==Fourth Workshop==
+November 29th
+
+It is a workshop where we will  learn about how to use different kinds of sensors and how to weld with tin
+
+
+
+==Fifth Workshop==
+December 1st
+
+It is a workshop where we will get some advices about how to design and build our robot.
+
+
+==Sixth Workshop==
+February 7th
+
+It is a workshop where we will learn about  the main controllers and how to adjust them.
+
+
+=Checkpoints=
+----
+
+==First checkpoint==
+February 9th
+
+This first checkpoint is to check if the robot can move autonomously, controlling its motors from the driver. It will turn in both directions.
+
+==Second checkpoint==
+February 2nd
+
+In this checkpoint it will be shown that the robot detects (in whichever way each team decides) a black line on a white background.
+
+==Third checkpoint==
+March 16th
+
+The third checkpoint will be passed if the robot detects walls, obstacles or measures distance, again letting each team decide how to show it.
+
+
+??? If you have any questions, do not hesitate to contact us through the email aereset@gmail.com
